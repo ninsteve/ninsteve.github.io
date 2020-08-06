@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Steffen W. R. Werner"
 title_separator          : "-"
 name                     : &name "Steffen W. R. Werner"
-description              : &description "PhD Student at MPI Magdeburg, Germany"
+description              : &description "PhD Student at Max Planck Institute Magdeburg, Germany"
 url                      : https://ninsteve.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ninsteve/ninsteve.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Steffen W. R. Werner"
   avatar           : "profile.png"
-  bio              : "PhD Student at MPI Magdeburg"
+  bio              : "PhD Student at Max Planck Institute Magdeburg"
   location         : "Magdeburg, Germany"
-  employer         :
+  employer         : 
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.de/citations?user=F2v1uKAAAAAJ&hl=en"
   email            :
   researchgate     :
   uri              :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/steffen-w-r-werner-8266661a3/"
   orcid            : "https://orcid.org/0000-0003-1667-4862"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
