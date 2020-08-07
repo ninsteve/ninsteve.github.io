@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Steffen W. R. Werner"
 title_separator          : "-"
 name                     : &name "Steffen W. R. Werner"
-description              : &description "PhD Student at Max Planck Institute Magdeburg, Germany"
+description              : &description "PhD Student at Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg"
 url                      : https://ninsteve.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ninsteve/ninsteve.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Steffen W. R. Werner"
   avatar           : "profile.png"
-  bio              : "PhD Student at Max Planck Institute Magdeburg"
+  bio              : "PhD Student at Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg"
   location         : "Magdeburg, Germany"
   employer         : 
   pubmed           :
