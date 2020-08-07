@@ -119,9 +119,8 @@
         <li><a target="_blank" href="{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.location_str and author.location_plc %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location_str }}
-          <i>&nsbp;</i> {{ author.location_plc }}
-        </li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location_str }}</li>
+        <li><i aria-hidden="true"></i> {{ author.location_plc }}</li>
       {% endif %}
     </ul>
   </div>
