@@ -251,6 +251,20 @@
     padding-left: 0;
     padding-right: 0;
   }
+  
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
+  
+  button {
+    margin-bottom: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
 }
 
 .author__email {
@@ -266,24 +280,6 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: pointer;
-
-  li:last-child {
-    a {
-      margin-bottom: 0;
-    }
-  }
-
-  @include breakpoint($large) {
-    display: block;
-  }
-
-  button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
 
   @include breakpoint($large) {
     display: block;
