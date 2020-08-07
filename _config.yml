@@ -83,13 +83,15 @@ author:
   name             : "Steffen W. R. Werner"
   avatar           : "profile.png"
   bio              : "PhD Student at Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg"
-  location         : "Magdeburg, Germany"
+  location_str     : "Sandtorstr. 1"
+  location_plc     : "Magdeburg, Germany"
+  location         : 
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=F2v1uKAAAAAJ&hl=en"
-  email            :
+  email            : "werner@mpi-magdeburg.mpg.de"
   researchgate     :
-  uri              : "test"
+  uri              : "https://www.mpi-magdeburg.mpg.de/person/38514/2316"
   bitbucket        :
   codepen          :
   dribbble         :
