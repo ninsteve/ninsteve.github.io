@@ -126,11 +126,13 @@
       <p class="author__bio"> {{ author.location_str }}
       <br> {{ author.location_plc }} 
       <br> {{ author.location_ctr }} </p>
-      <ul class="author_email social-icons">
-        {% if author.email %}
-          <li><a target="_blank" href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
-        {% endif %}
-      </ul>
+      <div class="author__urls-wrapper">
+        <ul class="author_email social-icons">
+          {% if author.email %}
+            <li><a target="_blank" href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
+          {% endif %}
+        </ul>
+      </div>
     {% endif %}
   </div>
 </div>
