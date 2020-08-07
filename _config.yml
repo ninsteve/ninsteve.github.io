@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student at Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg"
   location_str     : "Sandtorstr. 1"
-  location_plc     : "Magdeburg, Germany"
+  location_plc     : "39106 Magdeburg"
+  location_ctr     : "Germany"
   location         : 
   employer         : 
   pubmed           :

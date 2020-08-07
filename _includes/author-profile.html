@@ -118,10 +118,14 @@
       {% if author.wikipedia %}
         <li><a target="_blank" href="{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-      {% if author.location_str and author.location_plc %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location_str }}</li>
-        <li><i aria-hidden="true"></i> {{ author.location_plc }}</li>
-      {% endif %}
     </ul>
+  </div>
+  
+  <div class="author__content">
+    {% if author.location_str and author.location_plc and author.location_ctr %}
+      <p class="author__bio"> {{ author.location_str }}
+      <br> {{ author.location_plc }} 
+      <br> {{ author.location_ctr }} </p>
+    {% endif %}
   </div>
 </div>
