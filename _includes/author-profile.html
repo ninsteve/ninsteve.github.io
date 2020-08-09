@@ -4,24 +4,24 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<div itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="http://schema.org/Person" style="border-spacing: 5px">
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	<img src="{{ author.avatar }}" onerror="this.src='/images/no_profile.png';">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" onerror="this.src='/images/no_profile.png';">
     {% endif %}
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <h3 class="author__name" style="padding-top:5px">{{ author.name }}</h3>
+    {% if author.bio %}<p class="author__bio" style="padding-bottom:5px">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
+    <ul class="author__urls social-icons" style="margin-top:-15px">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
@@ -118,20 +118,17 @@
       {% if author.wikipedia %}
         <li><a target="_blank" href="{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-    </ul>
-    <!--<div class="author__address">
       {% if author.location_str and author.location_plc and author.location_ctr %}
-        <p class="author__bio"> {{ author.location_str }}
-        <br> {{ author.location_plc }} 
-        <br> {{ author.location_ctr }} </p>
-        <div class="author__urls-wrapper">
-          <ul class="author__urls social-icons">
-            {% if author.email %}
-              <li><a target="_blank" href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
-            {% endif %}
-          </ul>
-        </div>
+        <li class="author__address">
+          {{ author.location_str }} <br>
+          {{ author.location_plc }} <br>
+          {{ author.location_ctr }} <br>
+          {% if author.email %}
+          <a target="_blank" href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+            Email
+          </a></li>
+          {% endif %}
       {% endif %}
-    </div>-->
+    </ul>
   </div>
 </div>

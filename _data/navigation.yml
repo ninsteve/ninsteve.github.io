@@ -2,9 +2,9 @@
 # MAIN NAVIGATION BAR LINKS                                                    #
 ################################################################################
 
-#main:
-  #- title: "Publications"
-    #url: /publications/
+main:
+  - title: "Publications"
+    url: /publications/
 
   #- title: "Talks"
     #url: /talks/    
