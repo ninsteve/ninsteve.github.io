@@ -27,19 +27,16 @@ test
     17(1):823--824, 2017. doi:10.1002/pamm.201710379.
 
 ### <a name="theses"></a>Theses ###
-{:start="2"}
-1.  <strong>S. Werner</strong>. <a target="blank_"
+<ol start="2">
+  <li>
+    <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
     Germany, 2016. doi:10.25673/4507.
-    
-1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
+  </li>
+  <li>
+    <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.
-
-
-<ol start="3">
-  <li>a</li>
-<h3> test </h3>
-  <li>b</li>
-<ol>
+  </li>
+</ol>
