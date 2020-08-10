@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#submitted">Submitted Articles</a>
 </p>
@@ -22,8 +28,8 @@ author_profile: true
 </p>
 
 You can also find my publications on my
-<a href="{{author.googlescholar}}">Google Scholar</a>
-and <a href="{{author.orcid}}">ORCID</a> profiles.
+<a href="{{ author.googlescholar }}">Google Scholar</a>
+and <a href="{{ author.orcid }}">ORCID</a> profiles.
 
 
 ## <a name="submitted"></a>Submitted Articles ##
