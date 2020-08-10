@@ -28,19 +28,19 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     Navier-Stokes equations</a>. <i>IFACPapersOnLine</i>,
     52(2):25&ndash;29, 2019. 3rd IFAC/IEEE CSS Workshop on Control of Systems
     Governed by Partial Differential Equation CPDE 2019.
-    doi:10.1016/j.ifacol.2019.08.005.
+    doi:10.1016/j.ifacol.2019.08.005
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201800083">Balancing related model
     reduction with the MORLAB toolbox</a>. <i>Proc. Appl. Math. Mech.</i>,
-    18(1):e201800083, 2018. doi:10.1002/pamm.201800083.
+    18(1):e201800083, 2018. doi:10.1002/pamm.201800083
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
     descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
     Vienna International Conference on Mathematical Modelling MATHMOD 2018,
     Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
-    doi:10.1016/j.ifacol.2018.03.092.
+    doi:10.1016/j.ifacol.2018.03.092
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2017-fa-1.30">
@@ -49,30 +49,24 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     Simulation in der Automatisierungstechnik' und GMA-FA 1.40 'Theoretische
     Verfahren der Regelungstechnik', Workshop in Anif, Salzburg,
     18.-22.09.2017</i>, pages 508&ndash;517, 2017. URL:
-    http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf.
+    http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
     of the Hankel-norm approximation</a>. <i>Proc. Appl. Math. Mech.</i>,
-    17(1):823&ndash;824, 2017. doi:10.1002/pamm.201710379.
+    17(1):823&ndash;824, 2017. doi:10.1002/pamm.201710379
 
 ## <a name="software"></a>Software ##
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.842659">MORLAB-3.0 – model order
+    reduction laboratory</a>, 2017. see also:
+    http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.842659
 
 ## <a name="theses"></a>Theses ##
 1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
-    Germany, 2016. doi:10.25673/4507.  
-    <div class="author__urls-wrapper" style="button:display:block">
-    <button class="btn btn--inverse" style="display:block">BibTeX</button>
-    <ul class="author__urls social-icons" style="margin-top:-15px;display:none">
-      <pre><code>
-        @THESIS{morWer16, 
-          title = {}
-        }
-      </code></pre>
-    </ul>
-    </div>
+    Germany, 2016. doi:10.25673/4507
     
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
