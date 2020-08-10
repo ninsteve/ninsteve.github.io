@@ -62,8 +62,9 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
-    Germany, 2016. doi:10.25673/4507.
+    Germany, 2016. doi:10.25673/4507.  
     <button class="btn btn--inverse">BibTeX</button>
+    <div class="btn btn--info">test</div>
     
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
