@@ -63,7 +63,7 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
     Germany, 2016. doi:10.25673/4507.  
-    <div class="author__urls-wrapper">
+    <div class="author__urls-wrapper" style="button:display:block">
     <button class="btn btn--inverse">BibTeX</button>
     <ul class="author__urls social-icons" style="margin-top:-15px">
       <pre><code>
