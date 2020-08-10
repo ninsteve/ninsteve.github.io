@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "About Me"
+title: "About Me"
+excerpt: "Landing page and introduction."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,9 +18,11 @@ Institute for Dynamics of Complex Technical Systems</a> in Magdeburg in the
 department of <a target="blank_" href="https://www.mpi-magdeburg.mpg.de/csc">
 Computational Methods in Systems and Control Theory</a>.
 Also, I am an associate member of the DFG Research Training Group
-<a target="blank_" href="https://www.mathcore.ovgu.de/">"MathCoRe"</a>.
+<a target="blank_" href="https://www.mathcore.ovgu.de/">"MathCoRe"</a> at
+<a target="blank_" href="https://www.uni-magdeburg.de/en/">Otto von Guericke
+University</a> in Magdeburg.
 My main research interest is in the areas of model order reduction,
 numerical linear algebra, and mathematical software.
 </p>
 
-### THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
+# THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.

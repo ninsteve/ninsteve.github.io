@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Advising and Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 # THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
 
 Planned content:
-* education
-* professional experience
-* download of full pdf CV
+* Overview of courses
+* Links for self-directed courses
+* Student supervision
