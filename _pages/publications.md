@@ -22,8 +22,8 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 ## <a name="journal"></a>Journal Articles ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/s10444-020-09750-w">Hankel-norm approximation
-    of large-scale descriptor systems</a>. <i>Adv. Comput. Math.</i>, 46(3):40,
-    2020. doi:10.1007/s10444-020-09750-w
+    of large-scale descriptor systems</a>. <i>Adv. Comput. Math.</i>,
+    46(3):40, 2020. doi:10.1007/s10444-020-09750-w
     
 1.  J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1515/auto-2019-0027">A comparison
