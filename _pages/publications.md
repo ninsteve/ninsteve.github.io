@@ -24,12 +24,12 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 <ol start="1">
   <li>
     P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
-    href="http://www.control.tf.uni-kiel.de/files/gma/2017/">MORLAB -
-    Modellreduktion in MATLAB</a>. In T. Meurer and F. Woittennek, editors,
-    <i>Tagungsband GMA-FA 1.30 'Modellierung, Identifikation und Simulation
-    in der Automatisierungstechnik' und GMA-FA 1.40 'Theoretische Verfahren der
-    Regelungstechnik', Workshop in Anif, Salzburg, 18.-22.09.2017</i>,
-    pages 508--517, 2017. URL:
+    href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2017-fa-1.30">
+    MORLAB - Modellreduktion in MATLAB</a>. In T. Meurer and F. Woittennek,
+    editors, <i>Tagungsband GMA-FA 1.30 'Modellierung, Identifikation und
+    Simulation in der Automatisierungstechnik' und GMA-FA 1.40 'Theoretische
+    Verfahren der Regelungstechnik', Workshop in Anif, Salzburg,
+    18.-22.09.2017</i>, pages 508--517, 2017. URL:
     http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf.
   </li>
   <li>
