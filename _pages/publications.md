@@ -58,6 +58,17 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 
 ## <a name="software"></a>Software ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.2553902">SOMDDPA &ndash; Second-Order
+    Modally Damped Dominant Pole Algorithm (version 1.0)</a>, 2019.
+    doi:10.5281/zenodo.2553902
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.1574083">MORLAB – Model Order Reduction
+    LABoratory (version 4.0)</a>, 2018.
+    see also: http://www.mpi-magdeburg.mpg.de/projects/morlab.
+    doi:10.5281/zenodo.1574083
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.842659">MORLAB-3.0 – model order
     reduction laboratory</a>, 2017. see also:
     http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.842659
@@ -71,3 +82,12 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.
+
+<ol style="display:block">
+  <li><strong>
+    S. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
+    systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
+    Germany, 2016. doi:10.25673/4507
+  </li>
+</ol>
