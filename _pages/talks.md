@@ -5,4 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe> 
+# THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
+
+Planned content:
+* overview about talks, participation in conferences and posters
+* proper talk map with all visited locations (work)
+
+<iframe src="/talkmap/map.html" style="max-width:320px; border:none;"></iframe> 
