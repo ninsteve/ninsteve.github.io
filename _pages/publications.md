@@ -21,6 +21,10 @@ test
 ### <a name="submitted"></a>Submitted Articles ###
 
 ### <a name="journal"></a>Journal Articles ###
+<ol>
+  <li>a</li>
+  <li>b</li>
+</ol>
 
 ### <a name="proceedings"></a>Proceedings ###
 <ol class="start">

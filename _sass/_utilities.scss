@@ -474,14 +474,14 @@ a.reversefootnote {
  * ========================================================================== */
 
 ol.start { 
-    counter-reset: mycounter; 
+  counter-reset: mycounter; 
 }
 
 ol.start li, ol.continue li {
-    list-style: none;
+  list-style: none;
 }
 
 ol.start li:before, ol.continue li:before { 
-    content: counter(mycounter) ". "; 
-    counter-increment: mycounter;
+  content: counter(mycounter) ". "; 
+  counter-increment: mycounter;
 }
