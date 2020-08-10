@@ -11,4 +11,4 @@ Planned content:
 * overview about talks, participation in conferences and posters
 * proper talk map with all visited locations (work)
 
-<iframe src="/talkmap/map.html" style="max-width:320px; border:none;"></iframe> 
+<iframe src="/talkmap/map.html" width = "80%" height = "400px" style="border:none;"></iframe> 
