@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<p class="text-justify">
 <img src="/images/profile_large.jpg"
 alt="Full Profile picture"
 style="float:right; max-width:320px; display: block; margin: 10px">
@@ -20,5 +21,6 @@ Also, I am an associate member of the DFG Research Training Group
 <a target="blank_" href="https://www.mathcore.ovgu.de/">"MathCoRe"</a>.
 My main research interest is in the areas of model order reduction,
 numerical linear algebra, and mathematical software.
+</p>
 
 ### THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.

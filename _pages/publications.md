@@ -58,6 +58,26 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 
 ## <a name="software"></a>Software ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.3332706">SOMDDPA &ndash; Second-Order
+    Modally-Damped Dominant Pole Algorithm (version 1.1)</a>, 2020.
+    doi:10.5281/zenodo.3332706
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.3331592">Limited balanced truncation
+    for large-scale sparse second-order systems (version 2.0)</a>, 2020.
+    doi:10.5281/zenodo.3331592
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.3332716">MORLAB &ndash; Model Order
+    Reduction LABoratory (version 5.0)</a>, 2019. see also:
+    http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.3332716
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.2553926">Limited balanced truncation
+    for large-scale sparse second-order systems (version 1.0)</a>, 2019.
+    doi:10.5281/zenodo.2553926
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553902">SOMDDPA &ndash; Second-Order
     Modally Damped Dominant Pole Algorithm (version 1.0)</a>, 2019.
     doi:10.5281/zenodo.2553902
@@ -82,14 +102,3 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.
-
-<ol class="text-justify">
-  <li>
-    P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
-    href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
-    descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
-    Vienna International Conference on Mathematical Modelling MATHMOD 2018,
-    Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
-    doi:10.1016/j.ifacol.2018.03.092
-  </li>
-</ol>
