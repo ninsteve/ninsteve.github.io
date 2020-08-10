@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Proceedings](#proceedings)
-
+[Proceedings](#proceedings)  
 [Theses](#theses)
 
 ## THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
+
+test
 
 ### <a name="proceedings"></a>Proceedings ###
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -27,7 +28,3 @@ author_profile: true
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.
 
 You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
