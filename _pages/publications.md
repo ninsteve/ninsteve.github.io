@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Submitted Articles](#submitted)  
+[Journal Articles](#journal)
 [Proceedings](#proceedings)  
 [Theses](#theses)
 
@@ -12,12 +14,16 @@ author_profile: true
 
 test
 
+### <a name="submitted"></a>Submitted Articles ###
+
+### <a name="journal"></a>Journal Articles ###
+
 ### <a name="proceedings"></a>Proceedings ###
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
     of the Hankel-norm approximation</a>. <i>Proc. Appl. Math. Mech.</i>,
     17(1):823--824, 2017. doi:10.1002/pamm.201710379.
-    
+  
 ### <a name="theses"></a>Theses ###
 2.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
