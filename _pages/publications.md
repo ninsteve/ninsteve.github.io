@@ -83,8 +83,8 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.
 
-<ol>
-  <li style="text-align:justify"><strong>
+<ol class="text-justify">
+  <li>
     P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
     descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
