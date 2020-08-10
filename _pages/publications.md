@@ -21,6 +21,19 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 ## <a name="journal"></a>Journal Articles ##
 
 ## <a name="proceedings"></a>Proceedings ##
+1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1016/j.ifacol.2019.08.005">Robust
+    controller versus numerical model uncertainties for stabilization of
+    Navier-Stokes equations</a>. <i>IFACPapersOnLine</i>, 52(2):25&ndash;29,
+    2019. 3rd IFAC/IEEE CSS Workshop on Control of Systems Governed by Partial
+    Differential Equation CPDE 2019.
+    doi:10.1016/j.ifacol.2019.08.005.
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.1002/pamm.201800083">Balancing related model
+    reduction with the MORLAB toolbox</a>. <i>Proc. Appl. Math. Mech.</i>,
+    18(1):e201800083, 2018. doi:10.1002/pamm.201800083.
+    
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
     descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
@@ -34,13 +47,13 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     editors, <i>Tagungsband GMA-FA 1.30 'Modellierung, Identifikation und
     Simulation in der Automatisierungstechnik' und GMA-FA 1.40 'Theoretische
     Verfahren der Regelungstechnik', Workshop in Anif, Salzburg,
-    18.-22.09.2017</i>, pages 508--517, 2017. URL:
+    18.-22.09.2017</i>, pages 508&ndash;517, 2017. URL:
     http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf.
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
     of the Hankel-norm approximation</a>. <i>Proc. Appl. Math. Mech.</i>,
-    17(1):823--824, 2017. doi:10.1002/pamm.201710379.
+    17(1):823&ndash;824, 2017. doi:10.1002/pamm.201710379.
 
 ## <a name="theses"></a>Theses ##
 1.  <strong>S. Werner</strong>. <a target="blank_"
