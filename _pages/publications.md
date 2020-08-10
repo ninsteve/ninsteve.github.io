@@ -14,29 +14,24 @@ You can also find my publications on my
 <a href="{{author.googlescholar}}">Google Scholar</a>
 and <a href="{{author.orcid}}">ORCID</a> profiles.
 
-## THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
+# THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
 
-test
+## <a name="submitted"></a>Submitted Articles ##
 
-### <a name="submitted"></a>Submitted Articles ###
+## <a name="journal"></a>Journal Articles ##
 
-### <a name="journal"></a>Journal Articles ###
-<ol>
-  <li>a</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-  <li>b</li>
-</ol>
-
-### <a name="proceedings"></a>Proceedings ###
-<ol>
+## <a name="proceedings"></a>Proceedings ##
+<ol start="1">
+  <li>
+    P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="http://www.control.tf.uni-kiel.de/files/gma/2017/">MORLAB -
+    Modellreduktion in MATLAB</a>. In T. Meurer and F. Woittennek, editors,
+    <i>Tagungsband GMA-FA 1.30 'Modellierung, Identifikation und Simulation
+    in der Automatisierungstechnik' und GMA-FA 1.40 'Theoretische Verfahren der
+    Regelungstechnik', Workshop in Anif, Salzburg, 18.-22.09.2017</i>,
+    pages 508--517, 2017. URL:
+    http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf.
+  </li>
   <li>
     P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
@@ -45,8 +40,8 @@ test
   </li>
 </ol>
 
-### <a name="theses"></a>Theses ###
-<ol start="2">
+## <a name="theses"></a>Theses ##
+<ol start="3">
   <li>
     <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
