@@ -64,8 +64,8 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
     Germany, 2016. doi:10.25673/4507.  
     <div class="author__urls-wrapper" style="button:display:block">
-    <button class="btn btn--inverse">BibTeX</button>
-    <ul class="author__urls social-icons" style="margin-top:-15px">
+    <button class="btn btn--inverse" style="display:block">BibTeX</button>
+    <ul class="author__urls social-icons" style="margin-top:-15px;display:none">
       <pre><code>
         @THESIS{morWer16, 
           title = {}
