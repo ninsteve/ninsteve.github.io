@@ -27,7 +27,7 @@ test
 </ol>
 
 ### <a name="proceedings"></a>Proceedings ###
-<ol>
+<ol class="start">
   <li>
     P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
@@ -37,7 +37,7 @@ test
 </ol>
 
 ### <a name="theses"></a>Theses ###
-<ol continue>
+<ol class="continue">
   <li>
     <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor

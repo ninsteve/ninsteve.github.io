@@ -479,9 +479,10 @@ ol.start {
 
 ol.start li, ol.continue li {
   list-style: none;
+  text-indent: -1.3em;
 }
 
-ol.start li:before, ol.continue li:before { 
+ol.start li:before, ol.continue li:before {
   content: counter(mycounter) ". "; 
   counter-increment: mycounter;
 }
