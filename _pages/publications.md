@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [Submitted Articles](#submitted)  
-[Journal Articles](#journal)
+[Journal Articles](#journal)  
 [Proceedings](#proceedings)  
 [Theses](#theses)
 
@@ -25,7 +25,8 @@ test
     17(1):823--824, 2017. doi:10.1002/pamm.201710379.
   
 ### <a name="theses"></a>Theses ###
-2.  <strong>S. Werner</strong>. <a target="blank_"
+  
+1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
     Germany, 2016. doi:10.25673/4507.
