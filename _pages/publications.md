@@ -66,7 +66,11 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     <div class="author__urls-wrapper">
     <button class="btn btn--inverse">BibTeX</button>
     <ul class="author__urls social-icons" style="margin-top:-15px">
-      <li>test</li>
+      <pre><code>
+        @THESIS{morWer16, 
+          title = {}
+        }
+      </code></pre>
     </ul>
     </div>
     
