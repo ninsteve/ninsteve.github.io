@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Submitted Articles](#submitted)
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#submitted">Submitted Articles</a>
+</p>
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#journal">Journal Articles</a>
+</p>
 
 [Journal Articles](#journal)
 
