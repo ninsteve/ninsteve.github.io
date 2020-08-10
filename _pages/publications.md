@@ -23,6 +23,25 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 
 ## <a name="proceedings"></a>Proceedings ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.1007/978-3-030-52200-1_43">MORLAB &ndash; A model
+    order reduction framework in MATLAB and Octave</a>. In A. M. Bigatti, J.
+    Carette, J. H. Davenport, M. Joswig, and T. de Wolff, editors,
+    <i>Mathematical Software &ndash; ICMS 2020</i>, volume 12097 of 
+    <i>Lecture Notes in Comput. Sci.</i>, pages 432&ndash;441.
+    Springer International Publishing, Cham, 2020.
+    doi:10.1007/978-3-030-52200-1_43
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2019-fa-1.30">
+    Frequenz- und zeitbeschränktes balanciertes
+    Abschneiden für Systeme zweiter Ordnung</a>. In T. Meurer and F.
+    Woittennek, editors, <i>Tagungsband GMA-FA 1.30 'Modellbildung,
+    Identifikation und Simulation in der Automatisierungstechnik' und
+    GMA-FA 1.40 'Systemtheorie und Regelungstechnik', Workshops in Anif,
+    Salzburg, 23.-27.09.2019, pages 460&ndash;474, 2019.
+    URL: http://www.control.tf.uni-kiel.de/files/gma/2019/Tagungsband2019.pdf
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2019-fa-1.30">
     MORLAB – Model Order Reduction LABoratory</a>. In T. Meurer and F.
     Woittennek, editors, <i>Tagungsband GMA-FA 1.30 'Modellbildung,
