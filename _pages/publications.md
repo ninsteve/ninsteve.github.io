@@ -83,11 +83,13 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.
 
-<ol style="display:block">
-  <li><strong>
-    S. Werner</strong>. <a target="blank_"
-    href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
-    systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
-    Germany, 2016. doi:10.25673/4507
+<ol>
+  <li style="display:block"><strong>
+    P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
+    descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
+    Vienna International Conference on Mathematical Modelling MATHMOD 2018,
+    Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
+    doi:10.1016/j.ifacol.2018.03.092
   </li>
 </ol>
