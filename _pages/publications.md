@@ -33,7 +33,7 @@ test
 </ol>
 
 ### <a name="theses"></a>Theses ###
-<ol start="1">
+<ol class="continue">
   <li>
     <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
