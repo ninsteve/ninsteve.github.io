@@ -24,10 +24,19 @@ test
 <ol>
   <li>a</li>
   <li>b</li>
+  <li>b</li>
+  <li>b</li>
+  <li>b</li>
+  <li>b</li>
+  <li>b</li>
+  <li>b</li>
+  <li>b</li>
+  <li>b</li>
+  <li>b</li>
 </ol>
 
 ### <a name="proceedings"></a>Proceedings ###
-<ol class="start">
+<ol>
   <li>
     P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
@@ -37,7 +46,7 @@ test
 </ol>
 
 ### <a name="theses"></a>Theses ###
-<ol class="continue">
+<ol start="2">
   <li>
     <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
