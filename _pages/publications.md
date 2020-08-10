@@ -10,7 +10,9 @@ author_profile: true
 [Proceedings](#proceedings)  
 [Theses](#theses)
 
-You can also find my publications on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can also find my publications on my
+<a href="{{author.googlescholar}}">Google Scholar</a>
+and <a href="{{author.orcid}}">ORCID</a> profiles.
 
 ## THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
 
@@ -21,13 +23,17 @@ test
 ### <a name="journal"></a>Journal Articles ###
 
 ### <a name="proceedings"></a>Proceedings ###
-1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+<ol class="start">
+  <li>
+    P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
     of the Hankel-norm approximation</a>. <i>Proc. Appl. Math. Mech.</i>,
     17(1):823--824, 2017. doi:10.1002/pamm.201710379.
+  </li>
+</ol>
 
 ### <a name="theses"></a>Theses ###
-<ol start="2">
+<ol start="1">
   <li>
     <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
