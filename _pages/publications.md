@@ -11,14 +11,15 @@ author_profile: true
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles</a>
 </p>
-
-[Journal Articles](#journal)
-
-[Proceedings](#proceedings)
-
-[Software](#software)
-
-[Theses](#theses)
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#proceedings">Proceedings</a>
+</p>
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#software">Software</a>
+</p>
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#theses">Theses</a>
+</p>
 
 You can also find my publications on my
 <a href="{{author.googlescholar}}">Google Scholar</a>
