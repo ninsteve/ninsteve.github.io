@@ -15,9 +15,30 @@ You can also find my publications on my
 <a href="{{author.googlescholar}}">Google Scholar</a>
 and <a href="{{author.orcid}}">ORCID</a> profiles.
 
-# THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://arxiv.org/abs/2007.11269">Structure-preserving
+    interpolation for model reduction of parametric bilinear systems</a>.
+    e-print 2007.11269, arXiv, 2020. math.NA.
+    URL: https://arxiv.org/abs/2007.11269
+    
+1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://arxiv.org/abs/2005.00795">Structure-preserving
+    interpolation of bilinear control systems</a>. e-print 2005.00795,
+    arXiv, 2020. math.NA. URL: https://arxiv.org/abs/2005.00795
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://arxiv.org/abs/2002.12682">MORLAB &ndash; The Model Order
+    Reduction LABoratory</a>. e-print 2002.12682, arXiv, 2020. cs.MS.
+    URL: https://arxiv.org/abs/2002.12682
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://arxiv.org/abs/2001.06185">Frequency- and time-limited balanced
+    truncation for large-scale second-order systems</a>. e-print 2001.06185,
+    arXiv, 2020. math.OC, to appear in Linear Algebra Appl.
+    URL: https://arxiv.org/abs/2001.06185
 
 ## <a name="journal"></a>Journal Articles ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
