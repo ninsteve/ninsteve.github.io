@@ -8,6 +8,7 @@ author_profile: true
 [Submitted Articles](#submitted)  
 [Journal Articles](#journal)  
 [Proceedings](#proceedings)  
+[Software](#software)  
 [Theses](#theses)
 
 You can also find my publications on my
@@ -55,11 +56,14 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     of the Hankel-norm approximation</a>. <i>Proc. Appl. Math. Mech.</i>,
     17(1):823&ndash;824, 2017. doi:10.1002/pamm.201710379.
 
+## <a name="software"></a>Software ##
+
 ## <a name="theses"></a>Theses ##
 1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
     Germany, 2016. doi:10.25673/4507.
+    <button class="btn btn--inverse">BibTeX</button>
     
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
