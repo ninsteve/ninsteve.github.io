@@ -28,8 +28,8 @@ author_profile: true
 </p>
 
 You can also find my publications on my
-<a href="{{ author.googlescholar }}">Google Scholar</a>
-and <a href="{{ author.orcid }}">ORCID</a> profiles.
+<a target="blank_" href="{{ author.googlescholar }}">Google Scholar</a>
+and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 
 
 ## <a name="submitted"></a>Submitted Articles ##
