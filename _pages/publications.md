@@ -24,9 +24,9 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1016/j.ifacol.2019.08.005">Robust
     controller versus numerical model uncertainties for stabilization of
-    Navier-Stokes equations</a>. <i>IFACPapersOnLine</i>, 52(2):25&ndash;29,
-    2019. 3rd IFAC/IEEE CSS Workshop on Control of Systems Governed by Partial
-    Differential Equation CPDE 2019.
+    Navier-Stokes equations</a>. <i>IFACPapersOnLine</i>,
+    52(2):25&ndash;29, 2019. 3rd IFAC/IEEE CSS Workshop on Control of Systems
+    Governed by Partial Differential Equation CPDE 2019.
     doi:10.1016/j.ifacol.2019.08.005.
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -38,7 +38,7 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
     descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
     Vienna International Conference on Mathematical Modelling MATHMOD 2018,
-    Vienna, Austria, 21&ndash;23 February 2018</a>, 51(2):547&ndash;552, 2018.
+    Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
     doi:10.1016/j.ifacol.2018.03.092.
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
