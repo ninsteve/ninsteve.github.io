@@ -53,7 +53,8 @@
     background-color: #fff;
 
     &:hover {
-      color: $header-color !important;
+      color: #fff !important;
+      background-color: $header-color;
       border-color: $header-color;
     }
   }

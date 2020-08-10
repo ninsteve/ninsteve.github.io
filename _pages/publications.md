@@ -64,7 +64,7 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
     Germany, 2016. doi:10.25673/4507.  
     <button class="btn btn--inverse">BibTeX</button>
-    <div class="btn btn--info">test</div>
+    <p aria-hidden="true">test</p>
     
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
