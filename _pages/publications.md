@@ -5,10 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Submitted Articles](#submitted)  
-[Journal Articles](#journal)  
-[Proceedings](#proceedings)  
-[Software](#software)  
+[Submitted Articles](#submitted)
+
+[Journal Articles](#journal)
+
+[Proceedings](#proceedings)
+
+[Software](#software)
+
 [Theses](#theses)
 
 You can also find my publications on my
