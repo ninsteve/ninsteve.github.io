@@ -22,6 +22,13 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
 
 ## <a name="proceedings"></a>Proceedings ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
+    descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
+    Vienna International Conference on Mathematical Modelling MATHMOD 2018,
+    Vienna, Austria, 21&ndash;23 February 2018</a>, 51(2):547&ndash;552, 2018.
+    doi:10.1016/j.ifacol.2018.03.092.
+    
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2017-fa-1.30">
     MORLAB - Modellreduktion in MATLAB</a>. In T. Meurer and F. Woittennek,
     editors, <i>Tagungsband GMA-FA 1.30 'Modellierung, Identifikation und
@@ -29,6 +36,7 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     Verfahren der Regelungstechnik', Workshop in Anif, Salzburg,
     18.-22.09.2017</i>, pages 508--517, 2017. URL:
     http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf.
+    
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
     of the Hankel-norm approximation</a>. <i>Proc. Appl. Math. Mech.</i>,
@@ -39,6 +47,7 @@ and <a href="{{author.orcid}}">ORCID</a> profiles.
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
     Germany, 2016. doi:10.25673/4507.
+    
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.
