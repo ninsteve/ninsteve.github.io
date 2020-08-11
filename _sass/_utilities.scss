@@ -508,6 +508,7 @@ ol.start li:before, ol.continue li:before {
   height: 100%;
   border: none;
   display: block;
+  position: absolute;
   
   @include breakpoint($large) {
     width: 80%;
