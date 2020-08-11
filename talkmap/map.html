@@ -21,17 +21,30 @@
   <body>
     <div id="talkmap"></div>
       <script>
-        var mymap = L.map('talkmap').setView([40, -30], 1.5);
+        var mymap = L.map('talkmap');
+        var mywindow = mymap.getSize();
+        
+        if (mywindow.x < 925) {
+          mymap.setView([30, -30], 0);
+          
+          var maxClusterRadius = 25;
+          var scaling          = 0.75;
+        } else {
+          mymap.setView([40, -30], 1.5);
+          
+          var maxClusterRadius = 25;
+          var scaling          = 0.8;
+        }
 
         L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
           maxZoom: 8,
-          minZoom: 1,
+          minZoom: 0,
           attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012',
         }).addTo(mymap);
 
        var markers = L.markerClusterGroup({
          showCoverageOnHover: true,
-         maxClusterRadius: 15
+         maxClusterRadius: maxClusterRadius
        });
        
        for (var i = 0; i < addressPoints.length; i++) {
@@ -41,11 +54,11 @@
          
          // Rescaling of markers if wanted.
          var icon = marker.options.icon;
-         icon.options.iconSize      = [18.9024, 31];       // [25, 41]
-         icon.options.iconAnchor    = [9.0732, 31];        // [12, 41]
-         icon.options.popupAnchor   = [0.7561, -25.7073];  // [1, -34]
-         icon.options.tooltipAnchor = [12.0976, -21.1707]; // [16, -28]
-         icon.options.shadowSize    = [31, 31];            // [41, 41]
+         icon.options.iconSize      = [25, 41].map(x => x * scaling);
+         icon.options.iconAnchor    = [12, 41].map(x => x * scaling);
+         icon.options.popupAnchor   = [1, -34].map(x => x * scaling);
+         icon.options.tooltipAnchor = [16, -28].map(x => x * scaling);
+         icon.options.shadowSize    = [41, 41].map(x => x * scaling);
          marker.setIcon(icon);
          
          marker.bindPopup(title);
