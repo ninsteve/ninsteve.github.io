@@ -505,10 +505,8 @@ ol.start li:before, ol.continue li:before {
 
 .talkmap {
   width: 100%;
-  height: 100%;
+  height: 420px;
   border: none;
-  display: block;
-  position: absolute;
   
   @include breakpoint($large) {
     width: 80%;
