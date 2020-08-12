@@ -83,7 +83,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <i>Mathematical Software &ndash; ICMS 2020</i>, volume 12097 of 
     <i>Lecture Notes in Comput. Sci.</i>, pages 432&ndash;441.
     Springer International Publishing, Cham, 2020.
-    doi:10.1007/978-3-030-52200-1_43
+    doi:10.1007/978-3-030-52200-1_43  
+    <button id="morBenW20e-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2019-fa-1.30">
@@ -93,7 +94,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Identifikation und Simulation in der Automatisierungstechnik' und
     GMA-FA 1.40 'Systemtheorie und Regelungstechnik', Workshops in Anif,
     Salzburg, 23.-27.09.2019, pages 460&ndash;474, 2019.
-    URL: http://www.control.tf.uni-kiel.de/files/gma/2019/Tagungsband2019.pdf
+    URL: http://www.control.tf.uni-kiel.de/files/gma/2019/Tagungsband2019.pdf  
+    <button id="morBenW19d-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2019-fa-1.30">
@@ -102,13 +104,15 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Identifikation und Simulation in der Automatisierungstechnik' und
     GMA-FA 1.40 'Systemtheorie und Regelungstechnik', Workshops in Anif,
     Salzburg, 23.-27.09.2019, pages 337&ndash;342, 2019.
-    URL: http://www.control.tf.uni-kiel.de/files/gma/2019/Tagungsband2019.pdf
+    URL: http://www.control.tf.uni-kiel.de/files/gma/2019/Tagungsband2019.pdf  
+    <button id="morBenW19c-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201900224">Model reduction for
     second-order dynamical systems revisited</a>. <i>Proc. Appl. Math.
-    Mech.</i>, 19(1):e201900224, 2019. doi:10.1002/pamm.201900224
+    Mech.</i>, 19(1):e201900224, 2019. doi:10.1002/pamm.201900224  
+    <button id="morBedBDetal19-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1016/j.ifacol.2019.08.005">Robust
