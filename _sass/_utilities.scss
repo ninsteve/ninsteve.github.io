@@ -529,6 +529,6 @@ ol.start li:before, ol.continue li:before {
   font-size: 14px;
   
   @include breakpoint($large) {
-    max-width: 700px;
+    max-width: 720px;
   }
 }
