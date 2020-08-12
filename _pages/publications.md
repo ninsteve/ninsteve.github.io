@@ -148,22 +148,27 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3332706">SOMDDPA &ndash; Second-Order
     Modally-Damped Dominant Pole Algorithm (version 1.1)</a>, 2020.
-    doi:10.5281/zenodo.3332706
+    doi:10.5281/zenodo.3332706  
+    <button id="morBenW20a-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3331592">Limited balanced truncation
     for large-scale sparse second-order systems (version 2.0)</a>, 2020.
-    doi:10.5281/zenodo.3331592
+    doi:10.5281/zenodo.3331592  
+    <button id="morBenW20-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3332716">MORLAB &ndash; Model Order
     Reduction LABoratory (version 5.0)</a>, 2019. see also:
-    http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.3332716
+    http://www.mpi-magdeburg.mpg.de/projects/morlab.
+    doi:10.5281/zenodo.3332716  
+    <button id="morBenW19b-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553926">Limited balanced truncation
     for large-scale sparse second-order systems (version 1.0)</a>, 2019.
-    doi:10.5281/zenodo.2553926
+    doi:10.5281/zenodo.2553926  
+    <button id="morBenW19a-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553902">SOMDDPA &ndash; Second-Order
@@ -196,6 +201,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.  
     <button id="Wer14-pop" class="btn btn--inverse">BibTeX</button>
     
+
 <div id="includedBibTeX"></div>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css"/>
