@@ -67,13 +67,15 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/s10444-020-09750-w">Hankel-norm approximation
     of large-scale descriptor systems</a>. <i>Adv. Comput. Math.</i>,
-    46(3):40, 2020. doi:10.1007/s10444-020-09750-w
+    46(3):40, 2020. doi:10.1007/s10444-020-09750-w  
+    <button id="morBenW20d-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1515/auto-2019-0027">A comparison
     of second-order model order reduction methods for an artificial
     fishtail</a>. <i>at-Automatisierungstechnik</i>, 67(8):648&ndash;667, 2019.
-    doi:10.1515/auto-2019-0027
+    doi:10.1515/auto-2019-0027  
+    <button id="morSaaSW19-pop" class="btn btn--inverse">BibTeX</button>
 
 ## <a name="proceedings"></a>Proceedings ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
