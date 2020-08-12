@@ -11,20 +11,27 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<p class="text-block">
-  Here you can have a look on the different talks and poster I presented on 
-  various occasions.
-  The following map is an overview of the different places I attended therefore.
-  Clusters are labeled by the number of places they collect and can be zoomed in 
-  for more details.
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#talks">Talks ()</a>
 </p>
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#posters">Posters ()</a>
+</p>
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#participation">Participation without Contribution ()</a>
+</p>
+
 <div style="width:100%; text-align:center;">
 <iframe src="/talkmap/map.html" class="talkmap"></iframe>
 </div>
+<p class="text-block">
+  This map is an overview of the different places I attended for talks and
+  poster presentations.
+  Clusters are labeled by the number of places they collect and can be zoomed in 
+  for more details.
+</p>
 
-
-
-## Talks ##
+## <a name="talks"></a>Talks ##
 
 <table style="width:100%; border:none">
   <tr>
@@ -33,9 +40,9 @@ author_profile: true
   </tr>
 </table>
 
-## Posters ##
+## <a name="posters"></a>Posters ##
 
-## Participation without Contribution ##
+## <a name="participation"></a>Participation without Contribution ##
 
 # THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
 
