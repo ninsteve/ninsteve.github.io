@@ -22,12 +22,14 @@ author_profile: true
 <iframe src="/talkmap/map.html" class="talkmap"></iframe>
 </div>
 
+
+
 ## Talks ##
 
-<table style="width:100%, border:none">
+<table style="width:100%; border:none">
   <tr>
-    <td> Date </td>
-    <td> Description </td>
+    <td style="width:130px; border:none"> Date </td>
+    <td style="border:none"> Description </td>
   </tr>
 </table>
 
