@@ -67,6 +67,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     URL: https://arxiv.org/abs/2001.06185  
     <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
 
+
 ## <a name="journal"></a>Journal Articles ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/s10444-020-09750-w">Hankel-norm approximation
@@ -80,6 +81,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     fishtail</a>. <i>at-Automatisierungstechnik</i>, 67(8):648&ndash;667, 2019.
     doi:10.1515/auto-2019-0027  
     <button id="morSaaSW19-pop" class="btn btn--inverse">BibTeX</button>
+
 
 ## <a name="proceedings"></a>Proceedings ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -159,6 +161,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     17(1):823&ndash;824, 2017. doi:10.1002/pamm.201710379  
     <button id="morBenW17-pop" class="btn btn--inverse">BibTeX</button>
 
+
 ## <a name="software"></a>Software ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3332706">SOMDDPA &ndash; Second-Order
@@ -204,6 +207,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.842659  
     <button id="morBenW17a-pop" class="btn btn--inverse">BibTeX</button>
 
+
 ## <a name="theses"></a>Theses ##
 1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
@@ -215,7 +219,9 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.  
     <button id="Wer14-pop" class="btn btn--inverse">BibTeX</button>
-    
+
+
+<!-- Javascripts for Buttons and BibTeX content. -->
 
 <div id="includedBibTeX"></div>
 
