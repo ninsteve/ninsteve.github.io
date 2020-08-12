@@ -31,6 +31,13 @@ You can also find my publications on my
 <a target="blank_" href="{{ author.googlescholar }}">Google Scholar</a>
 and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 
+<style>
+  p {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
 
 ## <a name="submitted"></a>Submitted Articles ##
 
@@ -130,7 +137,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Simulation in der Automatisierungstechnik' und GMA-FA 1.40 'Theoretische
     Verfahren der Regelungstechnik', Workshop in Anif, Salzburg,
     18.-22.09.2017</i>, pages 508&ndash;517, 2017. URL:
-    http://http://www.control.tf.uni-kiel.de/<wbr>files/<wbr>gma/<wbr>2017/<wbr>Tagungsband2017.pdf
+    http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
@@ -181,7 +188,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
     systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
-    Germany, 2016. doi:10.25673/4507  
+    Germany, 2016. doi:10.25673/<wbr>4507  
     <button id="morWer16-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
