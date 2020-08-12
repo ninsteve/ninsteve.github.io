@@ -161,18 +161,21 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553902">SOMDDPA &ndash; Second-Order
     Modally Damped Dominant Pole Algorithm (version 1.0)</a>, 2019.
-    doi:10.5281/zenodo.2553902
+    doi:10.5281/zenodo.2553902  
+    <button id="morBenW19-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.1574083">MORLAB – Model Order Reduction
     LABoratory (version 4.0)</a>, 2018.
     see also: http://www.mpi-magdeburg.mpg.de/projects/morlab.
     doi:10.5281/zenodo.1574083
+    <button id="morBenW18b-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.842659">MORLAB-3.0 – model order
     reduction laboratory</a>, 2017. see also:
-    http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.842659
+    http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.842659  
+    <button id="morBenW17a-pop" class="btn btn--inverse">BibTeX</button>
 
 ## <a name="theses"></a>Theses ##
 1.  <strong>S. Werner</strong>. <a target="blank_"
