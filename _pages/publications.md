@@ -12,19 +12,19 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles</a>
+  <a href="#journal">Journal Articles (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#proceedings">Proceedings</a>
+  <a href="#proceedings">Proceedings (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#software">Software</a>
+  <a href="#software">Software (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#theses">Theses</a>
+  <a href="#theses">Theses (2)</a>
 </p>
 
 You can also find my publications on my
