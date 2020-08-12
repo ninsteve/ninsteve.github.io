@@ -137,7 +137,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Simulation in der Automatisierungstechnik' und GMA-FA 1.40 'Theoretische
     Verfahren der Regelungstechnik', Workshop in Anif, Salzburg,
     18.-22.09.2017</i>, pages 508&ndash;517, 2017. URL:
-    http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf
+    http://http://www.control.tf.uni-kiel.de/files/gma/2017/Tagungsband2017.pdf  
+    <button id="morBenW17b-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
