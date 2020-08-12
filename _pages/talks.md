@@ -35,7 +35,7 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
-    <td style="width:10%"> 16/07/2020 </td>
+    <td style="width:9%"> 16/07/2020 </td>
     <td>
       <a target="blank_" href="https://doi.org/10.5446/48002">MORLAB &ndash;
       A Model Order Reduction Framework in MATLAB &amp; Octave</a>,

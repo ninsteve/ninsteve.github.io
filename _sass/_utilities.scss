@@ -520,10 +520,14 @@ ol.start li:before, ol.continue li:before {
 .eventtable {
   width: 100%;
   border: none;
-  font-size: 16px;
+  font-size: 15px;
     
   @include breakpoint($large) {
-      font-size: 18px;
+      font-size: 17px;
+  }
+  
+  tr {
+    vertical-align: top;
   }
   
   td {
