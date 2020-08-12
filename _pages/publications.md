@@ -142,7 +142,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201710379">On the transformation formulas
     of the Hankel-norm approximation</a>. <i>Proc. Appl. Math. Mech.</i>,
-    17(1):823&ndash;824, 2017. doi:10.1002/pamm.201710379
+    17(1):823&ndash;824, 2017. doi:10.1002/pamm.201710379  
+    <button id="morBenW17-pop" class="btn btn--inverse">BibTeX</button>
 
 ## <a name="software"></a>Software ##
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
