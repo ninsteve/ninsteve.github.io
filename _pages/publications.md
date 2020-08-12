@@ -116,19 +116,22 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Navier-Stokes equations</a>. <i>IFACPapersOnLine</i>,
     52(2):25&ndash;29, 2019. 3rd IFAC/IEEE CSS Workshop on Control of Systems
     Governed by Partial Differential Equation CPDE 2019.
-    doi:10.1016/j.ifacol.2019.08.005
+    doi:10.1016/j.ifacol.2019.08.005  
+    <button id="BenHW19-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201800083">Balancing related model
     reduction with the MORLAB toolbox</a>. <i>Proc. Appl. Math. Mech.</i>,
-    18(1):e201800083, 2018. doi:10.1002/pamm.201800083
+    18(1):e201800083, 2018. doi:10.1002/pamm.201800083  
+    <button id="morBenW18a-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
     descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
     Vienna International Conference on Mathematical Modelling MATHMOD 2018,
     Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
-    doi:10.1016/j.ifacol.2018.03.092
+    doi:10.1016/j.ifacol.2018.03.092  
+    <button id="morBenW18-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2017-fa-1.30">
