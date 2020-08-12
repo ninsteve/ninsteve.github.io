@@ -33,10 +33,10 @@ author_profile: true
 
 ## <a name="talks"></a>Talks ##
 
-<table style="width:100%; border:none">
+<table class="eventtable">
   <tr>
-    <td style="width:130px; border:none"> Date </td>
-    <td style="border:none"> Description </td>
+    <td style="width:10%"> 00/00/0000 </td>
+    <td> Description </td>
   </tr>
 </table>
 

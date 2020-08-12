@@ -513,6 +513,24 @@ ol.start li:before, ol.continue li:before {
   }
 }
 
+/*
+ * Event tables.
+ * ========================================================================== */
+
+.eventtable {
+  width: 100%;
+  border: none;
+  font-size: 16px;
+    
+  @include breakpoint($large) {
+      font-size: 18px;
+  }
+  
+  td {
+    border: none;
+  }
+}
+
 
 /*
  * BibTeX dialog boxes.
