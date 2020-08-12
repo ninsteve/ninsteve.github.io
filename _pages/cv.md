@@ -8,8 +8,3 @@ redirect_from:
 ---
 
 # THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
-
-Planned content:
-* education
-* professional experience
-* download of full pdf CV
