@@ -24,5 +24,3 @@ University</a> in Magdeburg.
 My main research interest is in the areas of model order reduction,
 numerical linear algebra, and mathematical software.
 </p>
-
-# THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE REGULARLY UPDATED IN THE FUTURE.
