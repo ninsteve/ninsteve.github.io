@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (2)</a>
+  <a href="#journal">Journal Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#proceedings">Proceedings (9)</a>
