@@ -59,16 +59,16 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Reduction LABoratory</a>. e-print 2002.12682, arXiv, 2020. cs.MS.
     URL: https://arxiv.org/abs/2002.12682  
     <button id="morBenW20c-pop" class="btn btn--inverse">BibTeX</button>
-    
-1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
-    href="https://arxiv.org/abs/2001.06185">Frequency- and time-limited balanced
-    truncation for large-scale second-order systems</a>. e-print 2001.06185,
-    arXiv, 2020. math.OC, to appear in Linear Algebra Appl.
-    URL: https://arxiv.org/abs/2001.06185  
-    <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
 
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.1016/j.laa.2020.06.024">Frequency- and time-limited
+    balanced truncation for large-scale second-order systems</a>. <i>Linear
+    Algebra Appl.</i>, 2020. article in press. doi:10.1016/j.laa.2020.06.024  
+    <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
+    
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/s10444-020-09750-w">Hankel-norm approximation
     of large-scale descriptor systems</a>. <i>Adv. Comput. Math.</i>,
