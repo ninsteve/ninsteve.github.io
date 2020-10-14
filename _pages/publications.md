@@ -41,6 +41,13 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 
 ## <a name="submitted"></a>Submitted Articles ##
 
+1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
+    <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://arxiv.org/abs/2010.06331">Structure-preserving model reduction
+    for dissipative mechanical systems</a>. e-print 2010.06331, arXiv, 2020.
+    math.OC. URL: https://arxiv.org/abs/2010.06331  
+    <button id="morBedBDetal20-pop" class="btn btn--inverse">BibTeX</button>
+    
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://arxiv.org/abs/2007.11269">Structure-preserving
     interpolation for model reduction of parametric bilinear systems</a>.
