@@ -22,5 +22,5 @@ Also, I am an associate member of the DFG Research Training Group
 <a target="blank_" href="https://www.uni-magdeburg.de/en/">Otto von Guericke
 University</a> in Magdeburg.
 My main research interest is in the areas of model order reduction,
-numerical linear algebra, and mathematical software.
+numerical linear algebra, scientific computing, and mathematical software.
 </p>

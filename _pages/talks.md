@@ -31,6 +31,8 @@ author_profile: true
   for more details by just clicking on them.
 </p>
 
+---
+
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
@@ -242,6 +244,8 @@ author_profile: true
   </tr>
 </table>
 
+---
+
 ## <a name="posters"></a>Posters ##
 
 <table class="eventtable">
@@ -301,7 +305,9 @@ author_profile: true
   </tr>
 </table>
 
-## <a name="participation"></a>Participation without Contribution ##
+---
+
+## <a name="participation"></a>Conference/Workshop Participation without Contribution ##
 
 <table class="eventtable">
   <tr>
