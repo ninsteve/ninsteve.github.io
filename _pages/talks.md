@@ -18,7 +18,7 @@ author_profile: true
   <a href="#posters">Posters (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#participation">Participation without Contribution (3)</a>
+  <a href="#participation">Conference/Workshop Participation without Contribution (3)</a>
 </p>
 
 <div style="width:100%; text-align:center;">
