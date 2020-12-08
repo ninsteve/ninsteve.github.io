@@ -19,7 +19,7 @@ author_profile: true
     <td style="width:18%"> 11/2019 </td>
     <td> <b>Introduction to MATLAB</b>, <i>Lecturer (self-directed)</i>, 
       Max Planck Institute for Dynamics of Complex Technical Systems,
-      Magdeburg, Germany.
+      Magdeburg, Germany, (one week compact course).
     </td>
   </tr>
   <tr>

@@ -48,11 +48,12 @@ author_profile: true
 
 * **M-M.E.S.S. (Matrix Equation Sparse Solvers Library)**:
   Starting in version 1.0.1, I made continuously updates in the MATLAB version 
-  on the MATLAB version of the M.E.S.S. library involving among other an 
-  implementation of the Riccati iteration, the RADI method and several bug fixes.
-  See the <a target="_blank" 
-  href="https://www.mpi-magdeburg.mpg.de/projects/mess">project website</a>
-  for more details.
+  on the MATLAB version of the <a target="_blank" 
+  href="https://www.mpi-magdeburg.mpg.de/projects/mess">M.E.S.S. library</a>
+  involving among other an implementation of the Riccati iteration, the RADI
+  method and several bug fixes.
+  For more details see the <a target="_blank"
+  href="https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/-/blob/master/CONTRIBUTORS.md">contributors file</a>.
 
 ---
 
