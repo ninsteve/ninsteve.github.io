@@ -77,9 +77,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     balanced truncation for large-scale second-order systems</a>. <i>Linear
     Algebra Appl.</i>, 2020. article in press. doi:10.1016/j.laa.2020.06.024  
     <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
-    [<image src="../images/open_access_symbol.png" alt="Open Access Published"
-    class="openaccess">](https://test.de)
-    <a target="_blank" href="https://test.de" class="openaccess">test</a>
+    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/s10444-020-09750-w">Hankel-norm approximation
@@ -136,6 +135,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     second-order dynamical systems revisited</a>. <i>Proc. Appl. Math.
     Mech.</i>, 19(1):e201900224, 2019. doi:10.1002/pamm.201900224  
     <button id="morBedBDetal19-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess">
     
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1016/j.ifacol.2019.08.005">Robust
@@ -145,6 +146,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Governed by Partial Differential Equation CPDE 2019.
     doi:10.1016/j.ifacol.2019.08.005  
     <button id="BenHW19-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1002/pamm.201800083">Balancing related model
@@ -159,6 +162,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
     doi:10.1016/j.ifacol.2018.03.092  
     <button id="morBenW18-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2017-fa-1.30">
