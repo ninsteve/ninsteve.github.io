@@ -77,8 +77,9 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     balanced truncation for large-scale second-order systems</a>. <i>Linear
     Algebra Appl.</i>, 2020. article in press. doi:10.1016/j.laa.2020.06.024  
     <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_access_tag.png" alt="Open Access Published"
+    <image src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess">
+    <image class="openaccess">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/s10444-020-09750-w">Hankel-norm approximation
