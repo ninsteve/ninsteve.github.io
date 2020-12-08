@@ -77,7 +77,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     balanced truncation for large-scale second-order systems</a>. <i>Linear
     Algebra Appl.</i>, 2020. article in press. doi:10.1016/j.laa.2020.06.024  
     <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
-    <a href="https://en.wikipedia.org/wiki/Open_access" target="_blank">
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <image src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
     
