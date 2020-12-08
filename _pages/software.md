@@ -8,6 +8,8 @@ author_profile: true
 ## Software Packages ##
 
 * **MORLAB (Model Order Reduction LABoratory)**:
+  <a target ="_blank"
+  href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
   <a href="https://www.gnu.org/licenses/agpl-3.0">
