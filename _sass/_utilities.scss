@@ -546,6 +546,7 @@ ol.start li:before, ol.continue li:before {
   
   @include breakpoint($large) {
       max-height: 30px;
+      margin: auto 7px;
   }
   
   background: url(https://ninsteve.github.io/images/open_access_symbol.png) left top no-repeat;
