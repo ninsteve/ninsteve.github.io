@@ -243,8 +243,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <button id="morBenW17a-pop" class="btn btn--inverse">BibTeX</button>
     <image src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg"
-    alt="License: AGPL v3" class="badge">
+    <a href="test"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg"
+    alt="License: AGPL v3" class="badge"></a>
 
 ---
 
