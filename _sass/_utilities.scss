@@ -541,8 +541,8 @@ ol.start li:before, ol.continue li:before {
  * ========================================================================== */
 .openaccess {
   max-height: 20px;
-  vertical-align: middle;
-  margin: 0px 20px;
+  vertical-align: top;
+  margin-left: 10px;
   
   @include breakpoint($large) {
       max-height: 30px;
