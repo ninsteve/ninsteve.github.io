@@ -573,7 +573,7 @@ ol.start li:before, ol.continue li:before {
   margin-left: 10px;
   
   @include breakpoint($large) {
-      height: 25px;
+      height: 23px;
       margin-left: 7px;
   }
 }
