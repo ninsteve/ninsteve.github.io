@@ -27,6 +27,13 @@ author_profile: true
   href="https://doi.org/10.5281/zenodo.842658">Zenodo upload</a>.
 
 * **SOMDDPA (Second-Order Modally-Damped Dominant Pole Algorithm)**:
+  <a target ="_blank"
+  href="https://en.wikipedia.org/wiki/Open-source_software">
+  <img src="../images/open_source_symbol.png" alt="Open Source Software"
+  class="opensource"></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+  <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
+  alt="License: GPL v3" class="badge"></a><br/>
   For model order reduction via modal truncation, dominant poles have been 
   proven to be an efficient and accurate approach.
   In case of modally-damped second-order systems, it is possible to extend the 
@@ -38,6 +45,13 @@ author_profile: true
   href="https://doi.org/10.5281/zenodo.2553901">Zenodo</a>.
 
 * **Limited Balanced Truncation for Large-Scale Sparse Second-Order Systems**:
+  <a target ="_blank"
+  href="https://en.wikipedia.org/wiki/Open-source_software">
+  <img src="../images/open_source_symbol.png" alt="Open Source Software"
+  class="opensource"></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+  <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
+  alt="License: GPL v3" class="badge"></a><br/>
   In practical applications, only local approximations of system's behavior in 
   frequency or time domain are needed.
   This package extends the idea of frequency- and time-limited balanced 
@@ -54,6 +68,13 @@ author_profile: true
 ## Contributions to other Projects ##
 
 * **M-M.E.S.S. (Matrix Equation Sparse Solvers Library)**:
+  <a target ="_blank"
+  href="https://en.wikipedia.org/wiki/Open-source_software">
+  <img src="../images/open_source_symbol.png" alt="Open Source Software"
+  class="opensource"></a>
+  <a href="https://www.gnu.org/licenses/gpl-2.0">
+  <img src="https://img.shields.io/badge/License-GPL%20v2+-orange.svg"
+  alt="License: GPL v2+" class="badge"></a><br/>
   Starting in version 1.0.1, I made continuously updates in the MATLAB version 
   on the MATLAB version of the <a target="_blank" 
   href="https://www.mpi-magdeburg.mpg.de/projects/mess">M.E.S.S. library</a>

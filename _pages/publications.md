@@ -200,7 +200,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    alt="License: GPL v3" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3331592">Limited balanced truncation
@@ -213,7 +213,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    alt="License: GPL v3" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3332716">MORLAB &ndash; Model Order
@@ -240,7 +240,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    alt="License: GPL v3" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553902">SOMDDPA &ndash; Second-Order
@@ -253,7 +253,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    alt="License: GPL v3" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.1574083">MORLAB – Model Order Reduction
