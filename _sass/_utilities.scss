@@ -548,8 +548,20 @@ ol.start li:before, ol.continue li:before {
       max-height: 30px;
       margin: auto 7px;
   }
+}
+
+/*
+ * Open Source Tags.
+ * ========================================================================== */
+.opensource {
+  max-height: 25px;
+  vertical-align: middle;
+  margin: auto 10px;
   
-  background: url(https://ninsteve.github.io/images/open_access_symbol.png) left top no-repeat;
+  @include breakpoint($large) {
+      max-height: 30px;
+      margin: auto 7px;
+  }
 }
 
 

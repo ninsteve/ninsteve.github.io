@@ -189,6 +189,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Modally-Damped Dominant Pole Algorithm (version 1.1)</a>, 2020.
     doi:10.5281/zenodo.3332706  
     <button id="morBenW20a-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3331592">Limited balanced truncation
