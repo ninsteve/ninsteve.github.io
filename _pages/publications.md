@@ -224,6 +224,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <button id="morBenW19-pop" class="btn btn--inverse">BibTeX</button>
     <image src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
+    [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.1574083">MORLAB – Model Order Reduction
@@ -233,6 +234,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <button id="morBenW18b-pop" class="btn btn--inverse">BibTeX</button>
     <image src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
+    [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.842659">MORLAB-3.0 – model order
@@ -241,7 +243,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <button id="morBenW17a-pop" class="btn btn--inverse">BibTeX</button>
     <image src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
-    [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+    ![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)
 
 ---
 
