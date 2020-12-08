@@ -540,9 +540,9 @@ ol.start li:before, ol.continue li:before {
  * Open Access Tags.
  * ========================================================================== */
 .openaccess {
-  max-height: 20px;
-  vertical-align: top;
-  margin-left: 10px;
+  max-height: 25px;
+  vertical-align: middle;
+  margin: auto 10px;
   
   @include breakpoint($large) {
       max-height: 30px;
