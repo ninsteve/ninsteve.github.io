@@ -79,6 +79,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
     [<image src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess">](https://test.de)
+    <a target="_blank" href="https://test.de" class="openaccess">test</a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/s10444-020-09750-w">Hankel-norm approximation
