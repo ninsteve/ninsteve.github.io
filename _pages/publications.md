@@ -244,7 +244,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <image src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg"
-    alt="License: AGPL v3" class="opensource">
+    alt="License: AGPL v3" class="badge">
 
 ---
 

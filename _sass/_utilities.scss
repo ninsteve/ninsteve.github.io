@@ -542,11 +542,11 @@ ol.start li:before, ol.continue li:before {
 .openaccess {
   max-height: 25px;
   vertical-align: middle;
-  margin: auto 10px;
+  margin-left: 10px;
   
   @include breakpoint($large) {
       max-height: 30px;
-      margin: auto 7px;
+      margin-left: 7px;
   }
 }
 
@@ -556,11 +556,25 @@ ol.start li:before, ol.continue li:before {
 .opensource {
   max-height: 25px;
   vertical-align: middle;
-  margin: auto 10px;
+  margin-left: 10px;
   
   @include breakpoint($large) {
       max-height: 30px;
-      margin: auto 7px;
+      margin-left: 7px;
+  }
+}
+
+/*
+ * License badges.
+ * ========================================================================== */
+.badge {
+  height: 25px;
+  vertical-align: middle;
+  margin-left: 10px;
+  
+  @include breakpoint($large) {
+      height: 30px;
+      margin-left: 7px;
   }
 }
 
