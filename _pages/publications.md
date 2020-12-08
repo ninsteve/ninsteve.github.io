@@ -197,6 +197,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     for large-scale sparse second-order systems (version 2.0)</a>, 2020.
     doi:10.5281/zenodo.3331592  
     <button id="morBenW20-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3332716">MORLAB &ndash; Model Order
@@ -204,18 +206,24 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     http://www.mpi-magdeburg.mpg.de/projects/morlab.
     doi:10.5281/zenodo.3332716  
     <button id="morBenW19b-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553926">Limited balanced truncation
     for large-scale sparse second-order systems (version 1.0)</a>, 2019.
     doi:10.5281/zenodo.2553926  
     <button id="morBenW19a-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553902">SOMDDPA &ndash; Second-Order
     Modally Damped Dominant Pole Algorithm (version 1.0)</a>, 2019.
     doi:10.5281/zenodo.2553902  
     <button id="morBenW19-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.1574083">MORLAB – Model Order Reduction
@@ -223,12 +231,17 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     see also: http://www.mpi-magdeburg.mpg.de/projects/morlab.
     doi:10.5281/zenodo.1574083  
     <button id="morBenW18b-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.842659">MORLAB-3.0 – model order
     reduction laboratory</a>, 2017. see also:
     http://www.mpi-magdeburg.mpg.de/projects/morlab. doi:10.5281/zenodo.842659  
     <button id="morBenW17a-pop" class="btn btn--inverse">BibTeX</button>
+    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource">
+    [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 ---
 
