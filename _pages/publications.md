@@ -77,7 +77,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     balanced truncation for large-scale second-order systems</a>. <i>Linear
     Algebra Appl.</i>, 2020. article in press. doi:10.1016/j.laa.2020.06.024  
     <button id="morBenW20b-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -85,7 +85,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     of large-scale descriptor systems</a>. <i>Adv. Comput. Math.</i>,
     46(3):40, 2020. doi:10.1007/s10444-020-09750-w  
     <button id="morBenW20d-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess">
     
 1.  J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a
@@ -135,7 +135,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     second-order dynamical systems revisited</a>. <i>Proc. Appl. Math.
     Mech.</i>, 19(1):e201900224, 2019. doi:10.1002/pamm.201900224  
     <button id="morBedBDetal19-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess">
     
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
@@ -146,7 +146,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Governed by Partial Differential Equation CPDE 2019.
     doi:10.1016/j.ifacol.2019.08.005  
     <button id="BenHW19-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -162,7 +162,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
     doi:10.1016/j.ifacol.2018.03.092  
     <button id="morBenW18-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_access_symbol.png" alt="Open Access Published"
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -189,7 +189,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Modally-Damped Dominant Pole Algorithm (version 1.1)</a>, 2020.
     doi:10.5281/zenodo.3332706  
     <button id="morBenW20a-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -197,7 +197,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     for large-scale sparse second-order systems (version 2.0)</a>, 2020.
     doi:10.5281/zenodo.3331592  
     <button id="morBenW20-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -206,7 +206,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     http://www.mpi-magdeburg.mpg.de/projects/morlab.
     doi:10.5281/zenodo.3332716  
     <button id="morBenW19b-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -214,7 +214,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     for large-scale sparse second-order systems (version 1.0)</a>, 2019.
     doi:10.5281/zenodo.2553926  
     <button id="morBenW19a-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -222,7 +222,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Modally Damped Dominant Pole Algorithm (version 1.0)</a>, 2019.
     doi:10.5281/zenodo.2553902  
     <button id="morBenW19-pop" class="btn btn--inverse">BibTeX</button>
-    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource">
     [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
     
@@ -234,7 +234,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <button id="morBenW18b-pop" class="btn btn--inverse">BibTeX</button>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
-    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg"
@@ -247,7 +247,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <button id="morBenW17a-pop" class="btn btn--inverse">BibTeX</button>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
-    <image src="../images/open_source_symbol.png" alt="Open Source Software"
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg"
