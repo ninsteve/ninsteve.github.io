@@ -543,7 +543,7 @@ ol.start li:before, ol.continue li:before {
   max-height: 15px;
   
   @include breakpoint($large) {
-      font-size: 20px;
+      max-height: 20px;
   }
 }
 
