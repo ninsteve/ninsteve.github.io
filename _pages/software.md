@@ -8,6 +8,11 @@ author_profile: true
 ## Software Packages ##
 
 * **MORLAB (Model Order Reduction LABoratory)**:
+  <img src="../images/open_source_symbol.png" alt="Open Source Software"
+  class="opensource"></a>
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+  <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
+  alt="License: AGPL v3" class="badge"></a><br/>
   This toolbox is a collection of MATLAB routines for model order reduction of 
   dynamical systems based on the solution of matrix equations.
   The implementation is based on spectral projection methods, e.g., methods 
