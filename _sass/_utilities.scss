@@ -540,12 +540,12 @@ ol.start li:before, ol.continue li:before {
  * Open Access Tags.
  * ========================================================================== */
 .openaccess {
-  max-height: 25px;
+  max-height: 27px;
   vertical-align: middle;
   margin-left: 10px;
   
   @include breakpoint($large) {
-      max-height: 30px;
+      max-height: 31px;
       margin-left: 7px;
   }
 }
@@ -554,12 +554,12 @@ ol.start li:before, ol.continue li:before {
  * Open Source Tags.
  * ========================================================================== */
 .opensource {
-  max-height: 25px;
+  max-height: 30px;
   vertical-align: middle;
   margin-left: 10px;
   
   @include breakpoint($large) {
-      max-height: 30px;
+      max-height: 34px;
       margin-left: 7px;
   }
 }
