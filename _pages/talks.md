@@ -37,6 +37,24 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 16/03/2021 </td>
+    <td>
+      <strong><a target="blank_" href="https://hessenbox.uni-kassel.de/dl/fiUVgdpGYRwJeGzRN2jt5n2o/bookofabstracts2021.pdf?inline">Structure-Preserving Model Reduction for Bilinear Systems</a></strong>,
+      <i>91st GAMM Annual Meeting, Section ``Dynamics and Control'' (GAMM 2020@21)</i>,
+      Kassel, Germany, (online conference).
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 11/01/2021 </td>
+    <td>
+      <strong><a target="blank_" href="https://slideslive.com/38943798/model-reduction-of-parametric-bilinear-mechanical-systems">Model Reduction of Parametric Bilinear Mechanical Systems</a></strong>,
+      <i>14th World Congress in Computational Mechanics and ECCOMAS Congress 
+      (WCCM-ECCOMAS 2020)</i>,
+      Paris, France, (online conference).<br>
+      <a target="blank_" href="https://slideslive.com/38943798/model-reduction-of-parametric-bilinear-mechanical-systems"><button class="btn btn--inverse">Video</button></a>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 16/07/2020 </td>
     <td>
       <strong><a target="blank_" href="https://doi.org/10.5446/48002">MORLAB 

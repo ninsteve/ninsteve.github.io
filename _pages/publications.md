@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (3)</a>
@@ -41,6 +41,13 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
+    output-feedback stabilization for incompressible flows using low-dimensional 
+    H-infinity-controllers</a>. e-print 2103.01608, arXiv, 2021. math.OC.
+    URL: https://arxiv.org/abs/2103.01608  
+    <button id="morBenHW21-pop" class="btn btn--inverse">BibTeX</button>
 
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
