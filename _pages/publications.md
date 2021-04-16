@@ -21,7 +21,7 @@ author_profile: true
   <a href="#proceedings">Proceedings (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#software">Software (7)</a>
+  <a href="#software">Software (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#theses">Theses (2)</a>
@@ -196,6 +196,32 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 ---
 
 ## <a name="software"></a>Software ##
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.4600763">SOLBT &ndash; Limited balanced 
+    truncation for large-scale sparse second-order systems (version 3.0)</a>, 
+    April 2021. doi:10.5281/zenodo.4600763  
+    <button id="morBenW21a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.3997649">SOMDDPA &ndash; Second-Order
+    Modally-Damped Dominant Pole Algorithm (version 2.0)</a>, April 2021.
+    doi:10.5281/zenodo.3997649  
+    <button id="morBenW21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3332706">SOMDDPA &ndash; Second-Order
     Modally-Damped Dominant Pole Algorithm (version 1.1)</a>, 2020.
