@@ -44,7 +44,8 @@ author_profile: true
   Find the latest upload on <a target="_blank" 
   href="https://doi.org/10.5281/zenodo.2553901">Zenodo</a>.
 
-* **Limited Balanced Truncation for Large-Scale Sparse Second-Order Systems**:
+* **SOLBT (Limited Balanced Truncation for Large-Scale Sparse Second-Order 
+  Systems)**:
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
