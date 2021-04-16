@@ -12,9 +12,9 @@ author_profile: true
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
-  <a href="https://opensource.org/licenses/BSD-2-Clause">
-  <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
-  alt="License: BSD 2-Clause" class="badge"></a><br/>
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+  <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
+  alt="License: GPL v3" class="badge"></a><br/>
   This toolbox is a collection of MATLAB routines for model order reduction of 
   dynamical systems based on the solution of matrix equations.
   The implementation is based on spectral projection methods, e.g., methods 
@@ -50,9 +50,9 @@ author_profile: true
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
-  <a href="https://www.gnu.org/licenses/gpl-3.0">
-  <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-  alt="License: GPL v3" class="badge"></a><br/>
+  <a href="https://opensource.org/licenses/BSD-2-Clause">
+  <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+  alt="License: BSD 2-Clause" class="badge"></a><br/>
   In practical applications, only local approximations of system's behavior in 
   frequency or time domain are needed.
   This package extends the idea of frequency- and time-limited balanced 
