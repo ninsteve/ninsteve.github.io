@@ -71,7 +71,7 @@ Born September 6, 1992 in Stendal, Germany.
   <tr>
     <td style="width:20%"> since 10/2016 </td>
     <td>
-      <b>PhD student</b>, Computational Methods in Systems and Control 
+      <b>Doctoral researcher</b>, Computational Methods in Systems and Control 
       Theory, Max Planck Institute for Dynamics of Complex Technical Systems, 
       Magdeburg, Germany.
     </td>
