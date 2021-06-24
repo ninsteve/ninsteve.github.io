@@ -37,6 +37,14 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 24/06/2021 </td>
+    <td>
+    <strong><a target="blank_" href="https://8ecm.si/abstracts">Structure-Preserving Interpolation for Bilinear Systems</a></strong>,
+    <i>8th European Congress of Mathematics (8ECM)</i>,
+    Portoro&zcaron;, Slovenia, (online conference).
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 16/03/2021 </td>
     <td>
       <strong><a target="blank_" href="https://hessenbox.uni-kassel.de/dl/fiUVgdpGYRwJeGzRN2jt5n2o/bookofabstracts2021.pdf?inline">Structure-Preserving Model Reduction for Bilinear Systems</a></strong>,
