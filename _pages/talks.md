@@ -41,7 +41,7 @@ author_profile: true
     <td>
     <strong><a target="blank_" href="https://8ecm.si/abstracts">Structure-Preserving Interpolation for Bilinear Systems</a></strong>,
     <i>8th European Congress of Mathematics (8ECM)</i>,
-    Portoro&zcaron;, Slovenia, (online conference).
+    Portoro&zcaron;, Slovenia, (invited minisymposium talk, online conference).
     </td>
   </tr>
   <tr>
