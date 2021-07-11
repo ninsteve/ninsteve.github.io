@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (4)</a>
+  <a href="#journal">Journal Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#proceedings">Proceedings (9)</a>
@@ -56,13 +56,6 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     math.OC. URL: https://arxiv.org/abs/2010.06331  
     <button id="morBedBDetal20-pop" class="btn btn--inverse">BibTeX</button>
     
-1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://arxiv.org/abs/2007.11269">Structure-preserving
-    interpolation for model reduction of parametric bilinear systems</a>.
-    e-print 2007.11269, arXiv, 2020. math.NA.
-    URL: https://arxiv.org/abs/2007.11269  
-    <button id="morBenGW20a-pop" class="btn btn--inverse">BibTeX</button>
-    
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://arxiv.org/abs/2002.12682">MORLAB &ndash; The Model Order
     Reduction LABoratory</a>. e-print 2002.12682, arXiv, 2020. cs.MS.
@@ -72,6 +65,13 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1016/j.automatica.2021.109799">
+    Structure-preserving interpolation for model reduction of parametric 
+    bilinear systems</a>. <i>Automatica J. IFAC</i>, 132:109799, 2021. 
+    doi:10.1016/j.automatica.2021.109799  
+    <button id="morBenGW21-pop" class="btn btn--inverse">BibTeX</button>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a 
     target="blank_" 
