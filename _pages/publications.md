@@ -48,6 +48,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     H-infinity-controllers</a>. e-print 2103.01608, arXiv, 2021. math.OC.
     URL: https://arxiv.org/abs/2103.01608  
     <button id="morBenHW21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2103.01608">
+    <button class="btn btn--inverse">Preprint</button></a>
 
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
