@@ -57,12 +57,16 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     for dissipative mechanical systems</a>. e-print 2010.06331, arXiv, 2020.
     math.OC. URL: https://arxiv.org/abs/2010.06331  
     <button id="morBedBDetal20-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2010.06331">
+    <button class="btn btn--inverse">Preprint</button></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://arxiv.org/abs/2002.12682">MORLAB &ndash; The Model Order
     Reduction LABoratory</a>. e-print 2002.12682, arXiv, 2020. cs.MS.
     URL: https://arxiv.org/abs/2002.12682  
     <button id="morBenW20c-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2002.12682">
+    <button class="btn btn--inverse">Preprint</button></a>
 
 ---
 
@@ -74,6 +78,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     bilinear systems</a>. <i>Automatica J. IFAC</i>, 132:109799, 2021. 
     doi:10.1016/j.automatica.2021.109799  
     <button id="morBenGW21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2007.11269">
+    <button class="btn btn--inverse">Preprint</button></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a 
     target="blank_" 
@@ -81,6 +87,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     interpolation of bilinear control systems</a>. <i>Adv. Comput. Math.</i>, 
     47(3):43, 2021. doi:10.1007/s10444-021-09863-w  
     <button id="morBenGW21a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2005.00795">
+    <button class="btn btn--inverse">Preprint</button></a>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
@@ -92,6 +100,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Dooren, Edited by F. Dopico, D. Kressner, N. Mastronardi, V. Mehrmann, and 
     R. Vandebril. doi:10.1016/j.laa.2020.06.024  
     <button id="morBenW21b-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2001.06185">
+    <button class="btn btn--inverse">Preprint</button></a>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
@@ -101,6 +111,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     of large-scale descriptor systems</a>. <i>Adv. Comput. Math.</i>,
     46(3):40, 2020. doi:10.1007/s10444-020-09750-w  
     <button id="morBenW20d-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/1612.06205">
+    <button class="btn btn--inverse">Preprint</button></a>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
