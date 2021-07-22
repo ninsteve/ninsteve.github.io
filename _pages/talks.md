@@ -37,6 +37,14 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 20/07/2021 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=116595">Robust Output-Feedback Stabilization for Incompressible Flows using Low-Dimensional H-Infinity Controllers</a></strong>,
+    <i>SIAM Conference on Control and Its Applications (CT21)</i>,
+    Spokane, Washington, USA, (invited minisymposium talk, online conference).
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 24/06/2021 </td>
     <td>
     <strong><a target="blank_" href="https://8ecm.si/abstracts">Structure-Preserving Interpolation for Bilinear Systems</a></strong>,
