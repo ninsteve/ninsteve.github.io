@@ -83,37 +83,3 @@ author_profile: true
   method and several bug fixes.
   For more details see the <a target="_blank"
   href="https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/-/blob/master/CONTRIBUTORS.md">contributors file</a>.
-
----
-
-## Codes and Results for Reported Numerical Experiments ##
-
-Reproducability and reusability of numerical experiments is an important topic 
-in computer-based science.
-The following list contains contains public uploads of scripts and numerical 
-results from numerical experiments reported in corresponding papers:
-
-* <a target="_black" href="https://zenodo.org/record/4507759">MATLAB and Python 
-  scripts and results</a> for the experiments reported in
-  > P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
-  > target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
-  > output-feedback stabilization for incompressible flows using low-dimensional 
-  > H-infinity-controllers</a>. e-print 2103.01608, arXiv, 2021. math.OC.
-  > URL: https://arxiv.org/abs/2103.01608
-
-* <a target="_black" href="https://zenodo.org/record/3865495">MATLAB scripts and 
-  routines</a> for the experiments reported in
-  > P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
-  > href="https://arxiv.org/abs/2002.12682">MORLAB &ndash; The Model Order
-  > Reduction LABoratory</a>. e-print 2002.12682, arXiv, 2020. cs.MS.
-  > URL: https://arxiv.org/abs/2002.12682
-
-* <a target="_black" href="https://zenodo.org/record/2563874">MATLAB scripts and 
-  routines</a>, as well as <a target="_black" 
-  href="https://zenodo.org/record/2564050">numerical results</a> for the 
-  experiments reported in
-  > J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a
-  > target="blank_" href="https://doi.org/10.1515/auto-2019-0027">A comparison
-  > of second-order model order reduction methods for an artificial
-  > fishtail</a>. <i>at-Automatisierungstechnik</i>, 67(8):648&ndash;667, 2019.
-  > doi:10.1515/auto-2019-0027
