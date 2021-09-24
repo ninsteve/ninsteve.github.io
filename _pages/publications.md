@@ -372,13 +372,14 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 ## <a name="theses"></a>Theses ##
 1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
-    systems</a>. Master's thesis, Otto-von-Guericke-Universität, Magdeburg,
-    Germany, 2016. doi:<a target="blank_" href="https://doi.org/10.25673/4507">10.25673/4507</a><br /> 
+    systems</a>. Master's thesis, Department of Mathematics, Otto von Guericke 
+    University, Magdeburg, Germany, 2016. doi:<a target="blank_" href="https://doi.org/10.25673/4507">10.25673/4507</a><br /> 
     <button id="Wer16-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
-    Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.  
+    Department of Mathematics, Otto von Guericke University, Magdeburg,
+    Germany, 2014.  
     <button id="Wer14-pop" class="btn btn--inverse">BibTeX</button>
 
 
