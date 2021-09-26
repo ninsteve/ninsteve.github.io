@@ -41,7 +41,9 @@ author_profile: true
     <td>
     <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=116595">Robust Output-Feedback Stabilization for Incompressible Flows using Low-Dimensional H-Infinity Controllers</a></strong>,
     <i>SIAM Conference on Control and Its Applications (CT21)</i>,
-    Spokane, Washington, USA, (invited minisymposium talk, online conference).
+    Spokane, Washington, USA, (invited minisymposium talk, online
+    conference).<br>
+    <a target="blank_" href="https://player.vimeo.com/video/566696356"><button class="btn btn--inverse">Video</button></a>
     </td>
   </tr>
   <tr>
