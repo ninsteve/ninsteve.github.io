@@ -80,8 +80,7 @@ author_profile: true
       &ndash; A Model Order Reduction Framework in MATLAB &amp; Octave</a></strong>,
       <i>International Congress on Mathematical Software (ICMS 2020)</i>,
       Braunschweig, Germany, (online conference).<br>
-      <a target="blank_" href="https://doi.org/10.5446/48002"><button class="btn btn--inverse">Slides</button></a>
-      <a target="blank_" href="https://doi.org/10.5446/48002"><button class="btn btn--inverse">Video</button></a>
+      <a target="blank_" href="https://doi.org/10.5446/48002"><button class="btn btn--inverse">Video & Slides</button></a>
     </td>
   </tr>
   <tr>
