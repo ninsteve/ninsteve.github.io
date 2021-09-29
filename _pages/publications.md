@@ -55,7 +55,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <a target="blank_" href="https://arxiv.org/abs/2103.01608">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.4507758">
-    <button class="btn btn--inverse">Codes & Results</button></a>
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -132,7 +132,9 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     doi:<a target="blank_" href="https://doi.org/10.1515/auto-2019-0027">10.1515/auto-2019-0027</a><br />
     <button id="SaaSW19-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.2563873">
-    <button class="btn btn--inverse">Codes</button></a>
+    <button class="btn btn--inverse">Code</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.2558728">
+    <button class="btn btn--inverse">Data</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.2564049">
     <button class="btn btn--inverse">Results</button></a>
 
@@ -152,7 +154,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <a target="blank_" href="https://arxiv.org/abs/2002.12682">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.3678212">
-    <button class="btn btn--inverse">Codes</button></a>
+    <button class="btn btn--inverse">Code</button></a>
 
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/978-3-030-52200-1_43">MORLAB &ndash; A model
