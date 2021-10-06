@@ -27,7 +27,7 @@ author_profile: true
   <a href="#software">Software (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#theses">Theses (2)</a>
+  <a href="#theses">Theses (3)</a>
 </p>
 
 You can also find my publications on my
