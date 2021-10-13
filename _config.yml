@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Steffen W. R. Werner"
 title_separator          : "-"
 name                     : &name "Steffen W. R. Werner"
-description              : &description "PhD Student at Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg"
+description              : &description "Postdoctoral associate at Courant Institute of Mathematical Sciences, New York University, USA"
 url                      : https://ninsteve.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ninsteve/ninsteve.github.io"
@@ -82,24 +82,24 @@ analytics:
 author:
   name             : "Steffen W. R. Werner"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at Max Planck Institute Magdeburg"
-  location_str     : "Sandtorstr. 1"
-  location_plc     : "39106 Magdeburg"
-  location_ctr     : "Germany"
+  bio              : "Postdoctoral associate at Courant Institute, New York University"
+  location_str     : "251 Mercer Street"
+  location_plc     : "New York, NY 10012"
+  location_ctr     : "USA"
   location         : 
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=F2v1uKAAAAAJ&hl=en"
-  email            : "werner@mpi-magdeburg.mpg.de"
+  email            : "steffen.werner@nyu.edu"
   researchgate     :
-  uri              : "https://www.mpi-magdeburg.mpg.de/person/38514/2316"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/ninsteve"
   google_plus      :
   keybase          :
   instagram        :
