@@ -48,8 +48,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
     output-feedback stabilization for incompressible flows using low-dimensional 
-    H-infinity-controllers</a>. e-print 2103.01608, arXiv, 2021. math.OC.
-    URL: <a target="blank_" href="https://arxiv.org/abs/2103.01608">
+    \\(\mathcal{H}_{\infty}\\)-controllers</a>. e-print 2103.01608, arXiv, 2021.
+    math.OC. URL: <a target="blank_" href="https://arxiv.org/abs/2103.01608">
     https://arxiv.org/abs/2103.01608</a><br />
     <button id="BenHW21-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://arxiv.org/abs/2103.01608">
