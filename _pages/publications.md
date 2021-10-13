@@ -378,6 +378,10 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     Otto von Guericke University, Magdeburg, Germany, 2021.
     doi:<a target="blank_" href="https://doi.org/10.25673/38617">10.25673/38617</a><br /> 
     <button id="Wer21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.4650402">
+    <button class="btn btn--inverse">Code & Data</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.4650422">
+    <button class="btn btn--inverse">Results</button></a>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
