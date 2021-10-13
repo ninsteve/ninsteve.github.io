@@ -219,9 +219,9 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1016/j.ifacol.2018.03.092">Model reduction of
-    descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine 9th
-    Vienna International Conference on Mathematical Modelling MATHMOD 2018,
-    Vienna, Austria, 21&ndash;23 February 2018</i>, 51(2):547&ndash;552, 2018.
+    descriptor systems with the MORLAB toolbox</a>. <i>IFAC-PapersOnLine</i>,
+    51(2):547&ndash;552, 2018. 9th Vienna International Conference on
+    Mathematical Modelling MATHMOD 2018.
     doi:<a target="blank_" href="https://doi.org/10.1016/j.ifacol.2018.03.092">10.1016/j.ifacol.2018.03.092</a><br />
     <button id="BenW18-pop" class="btn btn--inverse">BibTeX</button>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
