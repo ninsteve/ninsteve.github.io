@@ -202,7 +202,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1016/j.ifacol.2019.08.005">Robust
     controller versus numerical model uncertainties for stabilization of
-    Navier-Stokes equations</a>. <i>IFACPapersOnLine</i>,
+    Navier-Stokes equations</a>. <i>IFAC-PapersOnLine</i>,
     52(2):25&ndash;29, 2019. 3rd IFAC/IEEE CSS Workshop on Control of Systems
     Governed by Partial Differential Equation CPDE 2019.
     doi:<a target="blank_" href="https://doi.org/10.1016/j.ifacol.2019.08.005">10.1016/j.ifacol.2019.08.005</a><br />
