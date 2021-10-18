@@ -16,12 +16,14 @@ My name is <strong>Steffen W. R. Werner</strong> and I am postdoctoral associate
 in the Department of Computer Science at the <a target="blank_"
 href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences,
 New York University</a>.
-There I am working on projects involving scientific machine learning, numerical
+There, I am working on projects involving scientific machine learning, numerical
 linear algebra, model order reduction and optimization.
-I obtained my doctoral degree from the Department of Mathematics at the <a
-target="blank_" href="https://www.uni-magdeburg.de/en/">Otto von Guericke
-University</a> in Magdeburg, Germany, while I work as a doctoral researcher in
-the <a target="blank_" href="https://www.mpi-magdeburg.mpg.de/csc">
+</p>
+<p class="text-block">
+I obtained my doctoral degree (Dr. rer. nat.) from the Department of Mathematics
+at the <a target="blank_" href="https://www.uni-magdeburg.de/en/">Otto von
+Guericke University</a> in Magdeburg, Germany, while I work as a doctoral
+researcher in the <a target="blank_" href="https://www.mpi-magdeburg.mpg.de/csc">
 Computational Methods in Systems and Control Theory group</a> at the <a
 target="blank_" href="https://www.mpi-magdeburg.mpg.de/2316/en">Max Planck 
 Institute for Dynamics of Complex Technical Systems</a> in Magdeburg.
