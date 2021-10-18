@@ -7,18 +7,37 @@ author_profile: true
 
 ## Research Interests ##
 
-* **Model order reduction**:
+* **Scientific Machine Learning**:
+  data-driven modeling,
+  context-aware (robust) controller design,
+* **Model Order Reduction**:
   approximation of dynamical systems,
   structured interpolation,
-  data-driven reduced-order modeling
-* **Numerical linear algebra**:
+  projection-based methods
+* **Numerical Linear Algebra**:
   matrix equations,
-  robust controller design,
-  differential-algebraic equations
-* **Scientific computing**:
+  differential-algebraic equations,
+  PDE-constraint optimization
+* **Scientific Computing**:
   mathematical software,
   efficient algorithm design,
   numerical experiments
+  
+---
+
+## Context-aware learning of controllers ##
+  
+<p class="text-block">
+UNDER CONSTRUCTION!
+</p>
+
+---
+
+## Data-driven construction of mechanical systems ##
+  
+<p class="text-block">
+UNDER CONSTRUCTION!
+</p>
   
 ---
 
