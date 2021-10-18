@@ -87,8 +87,9 @@ Born September 6, 1992 in Stendal, Germany.
 <table class="eventtable">
   <tr>
     <td style="width:20%"> 10/2016&ndash;08/2021 </td>
-    <td> <b>Doctoral Studies (doctor rerum naturalium)</b>, Department of
-      Mathematics, Otto von Guericke University, Magdeburg , Germany.
+    <td> <b>Doctoral studies (doctor rerum naturalium)</b>, Department of
+      Mathematics, Otto von Guericke University, Magdeburg , Germany.<br/>
+      Thesis: <i>Structure-Preserving Model Reduction for Mechanical Systems</i>.
       <ul>
         <li>
           10/2016&ndash;09/2019: Project research in the Priority Program 1897 
@@ -113,8 +114,8 @@ Born September 6, 1992 in Stendal, Germany.
   <tr>
     <td> 10/2011&ndash;09/2014 </td>
     <td>
-      <b>Bachelor of Science, Mathematics</b>, Otto von Guericke University, 
-      Magdeburg , Germany, very good with distinction.
+      <b>Bachelor of Science</b>, Department of Mathematics, Otto von Guericke
+      University, Magdeburg , Germany, very good with distinction.<br/>
       Thesis: <i>Numerische Berechnung der Eigenwerte großer 
       Hamiltonisch-positiver Matrizen</i>.
     </td>
@@ -130,5 +131,6 @@ Born September 6, 1992 in Stendal, Germany.
 
 ---
 
-A detailed version of my CV can be downloaded as PDF
+A one-page resume of my CV can be downloaded <a target="blank_"
+href="../files/cv/swrwerner_resume.pdf">here</a> and the full version of my CV
 <a target="blank_" href="../files/cv/swrwerner_cv.pdf">here</a>.
