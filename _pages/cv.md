@@ -98,7 +98,8 @@ Born September 6, 1992 in Stendal, Germany.
         </li>
         <li>
           04/2017&ndash;08/2021: Associated researcher in the Research
-          Training Group 2297 <q>MathCoRe</q>, Magdeburg.
+          Training Group 2297 <q>Mathematical Complexity Reduction
+          (MathCoRe)</q>, Magdeburg.
         </li>
       </ul>
     </td>
