@@ -24,10 +24,10 @@ author_profile: true
   </tr>
   <tr>
     <td> Winter term 2017/2018 </td>
-    <td> <b>Funktionentheorie</b>, <i>Co-lecturer together with
-      <a target="_blank" href="https://www.janheiland.de/">Jan Heiland</a></i>, 
-      Max Planck Institute for Dynamics of Complex Technical Systems,
-      Magdeburg, Germany.
+    <td> <b>Funktionentheorie (Complex Analysis)</b>, <i>Co-lecturer together
+      with <a target="_blank" href="https://www.janheiland.de/">Jan
+      Heiland</a></i>, Max Planck Institute for Dynamics of Complex Technical
+      Systems, Magdeburg, Germany.
     </td>
   </tr>
   <tr>
@@ -38,14 +38,14 @@ author_profile: true
   </tr>
   <tr>
     <td> Summer term 2014 </td>
-    <td> <b>Stochastik für Ingenieure</b>, <i>Exercise tutor</i>, 
-      Otto von Guericke University, Magdeburg, Germany.
+    <td> <b>Stochastik für Ingenieure (Stochastics for Engineers)</b>,
+      <i>Exercise tutor</i>, Otto von Guericke University, Magdeburg, Germany.
     </td>
   </tr>
   <tr>
     <td> Winter term 2013/2014 </td>
-    <td> <b>Explorative Datenanalyse</b>, <i>Exercise tutor</i>, 
-      Otto von Guericke University, Magdeburg, Germany.
+    <td> <b>Explorative Datenanalyse (Exploratory Data Analysis)</b>,
+      <i>Exercise tutor</i>, Otto von Guericke University, Magdeburg, Germany.
     </td>
   </tr>
 </table>
