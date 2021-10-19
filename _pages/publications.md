@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (2)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (6)</a>
@@ -44,6 +44,18 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
+    target="blank_" href="https://arxiv.org/abs/2110.09220">Structured vector
+    fitting framework for mechanical systems</a>. e-print 2110.09220, arXiv,
+    2021. math.NA.
+    URL: <a target="blank_" href="https://arxiv.org/abs/2110.09220">
+    https://arxiv.org/abs/2110.09220</a><br />
+    <button id="WerGG21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2110.09220">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.5539944">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
