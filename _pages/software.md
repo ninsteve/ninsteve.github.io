@@ -86,6 +86,6 @@ author_profile: true
 
 ---
 
-## Supplementary code and data packages ##
+## Supplementary code packages and data ##
 
 UNDER CONSTRUCTION
