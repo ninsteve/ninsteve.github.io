@@ -5,6 +5,12 @@ permalink: /software/
 author_profile: true
 --- 
 
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 ## Software Packages ##
 
 * **MORLAB (Model Order Reduction LABoratory)**:
@@ -88,4 +94,31 @@ author_profile: true
 
 ## Supplementary code packages and data ##
 
-UNDER CONSTRUCTION
+1. <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.5539944">Code, data and results for
+    numerical experiments in &ldquo;Structured vector fitting framework for
+    mechanical systems&rdquo; (version 1.0)</a>, October 2021. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.5539944">10.5281/zenodo.5539944</a><br />
+    <button id="supWer21b-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2110.09220"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+<!-- Javascripts for Buttons and BibTeX content. -->
+
+<div id="includedBibTeX"></div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+<script> 
+  $(function(){
+    $("#includedBibTeX").load("{{ base_path }}/files/software/bibtex.html"); 
+  });
+</script>
