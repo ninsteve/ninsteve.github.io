@@ -137,9 +137,43 @@ author_profile: true
     <button id="supJenW21-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.1515/auto-2021-0035"><button
     class="btn btn--inverse">Paper</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
     <a href="https://creativecommons.org/licenses/by/4.0">
     <img src="https://licensebuttons.net/l/by/3.0/88x31.png"
     alt="License: CC BY 4.0" class="badge"></a>
+    
+1. <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.4650422">Results of numerical
+    experiments in &ldquo;Structure-Preserving Model Reduction for Mechanical
+    Systems&rdquo; (version 1.0)</a>, April 2021. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.4650422">10.5281/zenodo.4650422</a><br />
+    <button id="supWer21a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.25673/38617"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
+    <a href="https://creativecommons.org/licenses/by/4.0">
+    <img src="https://licensebuttons.net/l/by/3.0/88x31.png"
+    alt="License: CC BY 4.0" class="badge"></a>
+    
+1. <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.4650402">Code and data for numerical
+    experiments in &ldquo;Structure-Preserving Model Reduction for Mechanical
+    Systems&rdquo; (version 1.0)</a>, April 2021. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.4650402">10.5281/zenodo.4650402</a><br />
+    <button id="supWer21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.25673/38617"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
 
 <!-- Javascripts for Buttons and BibTeX content. -->
 
