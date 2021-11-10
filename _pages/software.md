@@ -222,6 +222,35 @@ author_profile: true
     <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
     alt="License: AGPL v3" class="badge"></a>
+    
+1. J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.2564050">Reduction results for an
+    artificial fish tail (version 19-02-14)</a>, February 2019.
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.2564050">10.5281/zenodo.2564050</a><br />
+    <button id="supSaaSW19a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1515/auto-2019-0027"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
+    <a href="https://creativecommons.org/licenses/by/4.0">
+    <img src="https://licensebuttons.net/l/by/3.0/88x31.png"
+    alt="License: CC BY 4.0" class="badge"></a>
+    
+1. J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.2563874">Second order reduction
+    comparison for the fishtail model (version 1.0)</a>, February 2019.
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.2563874">10.5281/zenodo.2563874</a><br />
+    <button id="supSaaSW19-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1515/auto-2019-0027"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"
+    alt="License: AGPL v3" class="badge"></a>
 
 <!-- Javascripts for Buttons and BibTeX content. -->
 
