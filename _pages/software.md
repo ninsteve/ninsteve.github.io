@@ -127,6 +127,19 @@ author_profile: true
     <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-green.svg"
     alt="License: MIT" class="badge"></a>
+    
+1. R. Jendersie and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.4745518">Results of numerical
+    experiments in &ldquo;A comparison
+    of numerical methods for model reduction of dense discrete-time
+    systems&rdquo; (version 1.0)</a>, May 2021. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.4745518">10.5281/zenodo.4745518</a><br />
+    <button id="supJenW21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1515/auto-2021-0035"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a href="https://creativecommons.org/licenses/by/4.0">
+    <img src="https://licensebuttons.net/l/by/3.0/88x31.png"
+    alt="License: CC BY 4.0" class="badge"></a>
 
 <!-- Javascripts for Buttons and BibTeX content. -->
 
