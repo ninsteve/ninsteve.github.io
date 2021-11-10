@@ -180,7 +180,7 @@ author_profile: true
     numerical experiments in &ldquo;Robust output-feedback stabilization for
     incompressible flows using low-dimensional
     \\(\mathcal{H}_{\infty}\\)-controllers&rdquo; (version 1.0)</a>,
-    October 2021. doi:<a
+    March 2021. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.4507759">10.5281/zenodo.4507759</a><br />
     <button id="supHeiW21-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://arxiv.org/abs/2103.01608"><button
@@ -192,6 +192,36 @@ author_profile: true
     <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-green.svg"
     alt="License: MIT" class="badge"></a>
+    
+1. J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.3865495">Parametric and two-step model
+    reduction using M-M.E.S.S. and MORLAB (version 1.1)</a>, June 2020. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.3865495">10.5281/zenodo.3865495</a><br />
+    <button id="supSaaW20a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1007/978-3-030-72983-7_19"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
+    alt="License: AGPL v3" class="badge"></a>
+    
+1. J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.3678213">Parametric and two-step model
+    reduction using M-M.E.S.S. and MORLAB (version 1.0)</a>, February 2020.
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.3678213">10.5281/zenodo.3678213</a><br />
+    <button id="supSaaW20-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1007/978-3-030-72983-7_19"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
+    alt="License: AGPL v3" class="badge"></a>
 
 <!-- Javascripts for Buttons and BibTeX content. -->
 
