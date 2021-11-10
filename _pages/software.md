@@ -174,6 +174,24 @@ author_profile: true
     <a href="https://opensource.org/licenses/BSD-2-Clause">
     <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
     alt="License: BSD 2-Clause" class="badge"></a>
+    
+1. J. Heiland and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.4507759">Code, data and results for
+    numerical experiments in &ldquo;Robust output-feedback stabilization for
+    incompressible flows using low-dimensional
+    \\(\mathcal{H}_{\infty}\\)-controllers&rdquo; (version 1.0)</a>,
+    October 2021. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.4507759">10.5281/zenodo.4507759</a><br />
+    <button id="supHeiW21-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2103.01608"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg"
+    alt="License: MIT" class="badge"></a>
 
 <!-- Javascripts for Buttons and BibTeX content. -->
 
