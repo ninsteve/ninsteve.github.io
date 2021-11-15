@@ -97,8 +97,8 @@ author_profile: true
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5155993">Code, data and results for
     numerical experiments in &ldquo;A low-rank solution method for riccati
-    equations with indefinite quadratic terms&rdquo; (version 1.0)</a>, November
-    2021. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">10.5281/zenodo.5155993</a><br />
+    equations with indefinite quadratic terms&rdquo; (version 1.0)</a>,
+    November 2021. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">10.5281/zenodo.5155993</a><br />
     <button id="supWer21c-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://arxiv.org/abs/2111.06516"><button
     class="btn btn--inverse">Paper</button></a>
