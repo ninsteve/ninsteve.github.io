@@ -94,7 +94,23 @@ author_profile: true
 
 ## Supplementary code packages and data ##
 
-1. <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.5155993">Code, data and results for
+    numerical experiments in &ldquo;A low-rank solution method for riccati
+    equations with indefinite quadratic terms&rdquo; (version 1.0)</a>, November
+    2021. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">10.5281/zenodo.5155993</a><br />
+    <button id="supWer21c-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2111.06516"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5539944">Code, data and results for
     numerical experiments in &ldquo;Structured vector fitting framework for
     mechanical systems&rdquo; (version 1.0)</a>, October 2021. doi:<a
@@ -110,7 +126,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
     alt="License: BSD 2-Clause" class="badge"></a>
 
-1. J. Heiland and <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  J. Heiland and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5532539">Code, data and results for
     numerical experiments in &ldquo;Robust output-feedback stabilization for
     incompressible flows using low-dimensional
@@ -128,7 +144,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/license-MIT-green.svg"
     alt="License: MIT" class="badge"></a>
     
-1. R. Jendersie and <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  R. Jendersie and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.4745518">Results of numerical
     experiments in &ldquo;A comparison
     of numerical methods for model reduction of dense discrete-time
@@ -144,7 +160,7 @@ author_profile: true
     <img src="https://licensebuttons.net/l/by/3.0/88x31.png"
     alt="License: CC BY 4.0" class="badge"></a>
     
-1. <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.4650422">Results of numerical
     experiments in &ldquo;Structure-Preserving Model Reduction for Mechanical
     Systems&rdquo; (version 1.0)</a>, April 2021. doi:<a
@@ -159,7 +175,7 @@ author_profile: true
     <img src="https://licensebuttons.net/l/by/3.0/88x31.png"
     alt="License: CC BY 4.0" class="badge"></a>
     
-1. <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.4650402">Code and data for numerical
     experiments in &ldquo;Structure-Preserving Model Reduction for Mechanical
     Systems&rdquo; (version 1.0)</a>, April 2021. doi:<a
@@ -175,7 +191,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
     alt="License: BSD 2-Clause" class="badge"></a>
     
-1. J. Heiland and <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  J. Heiland and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.4507759">Code, data and results for
     numerical experiments in &ldquo;Robust output-feedback stabilization for
     incompressible flows using low-dimensional
@@ -193,7 +209,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/license-MIT-green.svg"
     alt="License: MIT" class="badge"></a>
     
-1. J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3865495">Parametric and two-step model
     reduction using M-M.E.S.S. and MORLAB (version 1.1)</a>, June 2020. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.3865495">10.5281/zenodo.3865495</a><br />
@@ -208,7 +224,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
     alt="License: AGPL v3" class="badge"></a>
     
-1. J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3678213">Parametric and two-step model
     reduction using M-M.E.S.S. and MORLAB (version 1.0)</a>, February 2020.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.3678213">10.5281/zenodo.3678213</a><br />
@@ -223,9 +239,9 @@ author_profile: true
     <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
     alt="License: AGPL v3" class="badge"></a>
     
-1. J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a target="blank_"
-    href="https://doi.org/10.5281/zenodo.2564050">Reduction results for an
-    artificial fish tail (version 19-02-14)</a>, February 2019.
+1.  J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.5281/zenodo.2564050">Reduction
+    results for an artificial fish tail (version 19-02-14)</a>, February 2019.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.2564050">10.5281/zenodo.2564050</a><br />
     <button id="supSaaSW19a-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.1515/auto-2019-0027"><button
@@ -237,9 +253,9 @@ author_profile: true
     <img src="https://licensebuttons.net/l/by/3.0/88x31.png"
     alt="License: CC BY 4.0" class="badge"></a>
     
-1. J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a target="blank_"
-    href="https://doi.org/10.5281/zenodo.2563874">Second order reduction
-    comparison for the fishtail model (version 1.0)</a>, February 2019.
+1.  J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.5281/zenodo.2563874">Second order
+    reduction comparison for the fishtail model (version 1.0)</a>, February 2019.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.2563874">10.5281/zenodo.2563874</a><br />
     <button id="supSaaSW19-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.1515/auto-2019-0027"><button

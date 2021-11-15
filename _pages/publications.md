@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (3)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (6)</a>
@@ -44,6 +44,18 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://arxiv.org/abs/2111.06516">A low-rank solution
+    method for Riccati equations with indefinite quadratic terms</a>.
+    e-print 2111.06516, arXiv, 2021.
+    math.NA. URL: <a target="blank_" href="https://arxiv.org/abs/2111.06516">
+    https://arxiv.org/abs/2111.06516</a><br />
+    <button id="BenHW21a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2111.06516">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
     target="blank_" href="https://arxiv.org/abs/2110.09220">Structured vector
