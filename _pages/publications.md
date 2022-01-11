@@ -98,7 +98,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner, Y. Filanova, D. Karachalios, S. Monem Abdelhafez, J. Przybilla,
     and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1515/dmvm-2021-0075">
-    Mathematische Komplexit¨atsreduktion: Modellreduktion dynamischer
+    Mathematische Komplexitätsreduktion: Modellreduktion dynamischer
     Systeme</a>. <i>Mitteilungen der Deutschen Mathematiker-Vereinigung</i>,
     29(4):198&ndash;204, 2021.
     doi:<a target="blank_" href="https://doi.org/10.1515/dmvm-2021-0075">10.1515/dmvm-2021-0075</a><br />
