@@ -15,7 +15,7 @@ author_profile: true
   <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (6)</a>
+  <a href="#journal">Journal Articles (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (2)</a>
@@ -95,10 +95,20 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 
 ## <a name="journal"></a>Journal Articles ##
 
-1. R. Jendersie and <strong>S. W. R. Werner</strong>. <a
+1.  P. Benner, Y. Filanova, D. Karachalios, S. Monem Abdelhafez, J. Przybilla,
+    and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1515/dmvm-2021-0075">
+    Mathematische Komplexit¨atsreduktion: Modellreduktion dynamischer
+    Systeme</a>. <i>Mitteilungen der Deutschen Mathematiker-Vereinigung</i>,
+    29(4):198&ndash;204, 2021.
+    doi:<a target="blank_" href="https://doi.org/10.1515/dmvm-2021-0075">10.1515/dmvm-2021-0075</a><br />
+    <button id="BenFKetal21-pop" class="btn btn--inverse">BibTeX</button>
+
+1.  R. Jendersie and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1515/auto-2021-0035">
-    A comparison of numerical methods for model reduction of dense discrete-time 
-    systems</a>. <i>at-Automatisierungstechnik</i>, 69(8):683&ndash;694, 2021.
+    A comparison of numerical methods for model reduction of dense
+    discrete-time systems</a>.
+    <i>at-Automatisierungstechnik</i>, 69(8):683&ndash;694, 2021.
     doi:<a target="blank_" href="https://doi.org/10.1515/auto-2021-0035">10.1515/auto-2021-0035</a><br />
     <button id="JenW21-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.4745517">
