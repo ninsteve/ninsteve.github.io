@@ -421,8 +421,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 ## <a name="theses"></a>Theses ##
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/38617">Structure-Preserving Model Reduction
-    for Mechanical Systems</a>. Dissertation, Department of Mathematics,
-    Otto von Guericke University, Magdeburg, Germany, 2021.
+    for Mechanical Systems</a>. Dissertation, Otto-von-Guericke-Universität,
+    Magdeburg, Germany, 2021.
     doi:<a target="blank_" href="https://doi.org/10.25673/38617">10.25673/38617</a><br /> 
     <button id="Wer21-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.4650402">
@@ -435,8 +435,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 
 1.  <strong>S. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.25673/4507">Hankel-norm approximation of descriptor
-    systems</a>. Master's thesis, Department of Mathematics, Otto von Guericke 
-    University, Magdeburg, Germany, 2016. doi:<a target="blank_" href="https://doi.org/10.25673/4507">10.25673/4507</a><br /> 
+    systems</a>. Master's thesis, Otto-von-Guericke-Universität,
+    Magdeburg, Germany, 2016. doi:<a target="blank_" href="https://doi.org/10.25673/4507">10.25673/4507</a><br /> 
     <button id="Wer16-pop" class="btn btn--inverse">BibTeX</button>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
@@ -444,8 +444,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     
 1.  <strong>S. Werner</strong>. Numerische Berechnung der Eigenwerte großer
     Hamiltonisch-positiver Matrizen. Bachelor's thesis,
-    Department of Mathematics, Otto von Guericke University, Magdeburg,
-    Germany, 2014.  
+    Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.  
     <button id="Wer14-pop" class="btn btn--inverse">BibTeX</button>
 
 
