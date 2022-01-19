@@ -49,8 +49,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     target="blank_" href="https://arxiv.org/abs/2201.06518">Structured model
     order reduction for vibro-acoustic problems using interpolation and
     balancing methods</a>.
-    e-print 2201.06518, arXiv, 2022.
-    math.NA. URL: <a target="blank_" href="https://arxiv.org/abs/2201.06518">
+    e-print 2201.06518, arXiv, 2022. Numerical Analysis (math.NA).
+    URL: <a target="blank_" href="https://arxiv.org/abs/2201.06518">
     https://arxiv.org/abs/2201.06518</a><br />
     <button id="AumW22-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://arxiv.org/abs/2201.06518">
@@ -61,8 +61,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://arxiv.org/abs/2111.06516">A low-rank solution
     method for Riccati equations with indefinite quadratic terms</a>.
-    e-print 2111.06516, arXiv, 2021.
-    math.NA. URL: <a target="blank_" href="https://arxiv.org/abs/2111.06516">
+    e-print 2111.06516, arXiv, 2021. Numerical Analysis (math.NA).
+    URL: <a target="blank_" href="https://arxiv.org/abs/2111.06516">
     https://arxiv.org/abs/2111.06516</a><br />
     <button id="BenHW21a-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://arxiv.org/abs/2111.06516">
@@ -73,7 +73,7 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
     target="blank_" href="https://arxiv.org/abs/2110.09220">Structured vector
     fitting framework for mechanical systems</a>. e-print 2110.09220,
-    arXiv, 2021. math.NA.
+    arXiv, 2021. Numerical Analysis (math.NA).
     URL: <a target="blank_" href="https://arxiv.org/abs/2110.09220">
     https://arxiv.org/abs/2110.09220</a><br />
     <button id="WerGG21-pop" class="btn btn--inverse">BibTeX</button>
@@ -86,7 +86,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
     output-feedback stabilization for incompressible flows using low-dimensional 
     \\(\mathcal{H}_{\infty}\\)-controllers</a>. e-print 2103.01608, arXiv, 2021.
-    math.OC. URL: <a target="blank_" href="https://arxiv.org/abs/2103.01608">
+    Optimization and Control (math.OC).
+    URL: <a target="blank_" href="https://arxiv.org/abs/2103.01608">
     https://arxiv.org/abs/2103.01608</a><br />
     <button id="BenHW21-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://arxiv.org/abs/2103.01608">
@@ -98,7 +99,8 @@ and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
     <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://arxiv.org/abs/2010.06331">Structure-preserving model reduction
     for dissipative mechanical systems</a>. e-print 2010.06331, arXiv, 2020.
-    math.OC. URL: <a target="blank_" href="https://arxiv.org/abs/2010.06331">
+    Optimization and Control (math.OC).
+    URL: <a target="blank_" href="https://arxiv.org/abs/2010.06331">
     https://arxiv.org/abs/2010.06331</a><br />
     <button id="BedBDetal20-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://arxiv.org/abs/2010.06331">
