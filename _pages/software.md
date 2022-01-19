@@ -94,6 +94,23 @@ author_profile: true
 
 ## Supplementary code packages and data ##
 
+1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.5836047">Code, data and results for
+    numerical experiments in &ldquo;Structured model order reduction for
+    vibro-acoustic problems using interpolation and balancing methods&rdquo;
+    (version 1.0)</a>,
+    January 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5836047">10.5281/zenodo.5836047</a><br />
+    <button id="supAumW22-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://arxiv.org/abs/2201.06518"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5155993">Code, data and results for
     numerical experiments in &ldquo;A low-rank solution method for riccati
