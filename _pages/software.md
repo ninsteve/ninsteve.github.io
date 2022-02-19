@@ -82,8 +82,13 @@ author_profile: true
   Find the latest upload on <a target="_blank" 
   href="https://doi.org/10.5281/zenodo.2553925">Zenodo</a>.
   Check out the corresponding <a target="_blank" 
-  href="https://doi.org/10.1016/j.laa.2020.06.024">paper</a> for the theoretical 
-  background.
+  href="https://doi.org/10.1016/j.laa.2020.06.024">paper</a> for the
+  theoretical background.<br/>
+  <a target="blank_" href="https://doi.org/10.5281/zenodo.2553925">
+  <button class="btn btn--inverse">Download</button></a>
+  <a target="blank_" href="https://doi.org/10.1016/j.laa.2020.06.024">
+  <button class="btn btn--inverse">Documentation</button></a>
+  <button id="citationSOLBT-pop" class="btn btn--inverse">Citation</button>
 
 ---
 
@@ -102,8 +107,9 @@ author_profile: true
   href="https://www.mpi-magdeburg.mpg.de/projects/mess">M.E.S.S. library</a>
   involving among other an implementation of the Riccati iteration, the RADI
   method and several bug fixes.
-  For more details see the <a target="_blank"
-  href="https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/-/blob/master/CONTRIBUTORS.md">contributors file</a>.
+  For more details on my contributions see the <a target="_blank"
+  href="https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/-/blob/master/CONTRIBUTORS.md">contributors file</a> and checkout the latest version on
+  <a target="_blank" href="https://doi.org/10.5281/zenodo.632897">Zenodo</a>.
 
 ---
 
