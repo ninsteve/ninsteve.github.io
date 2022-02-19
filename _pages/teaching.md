@@ -24,7 +24,7 @@ author_profile: true
   </tr>
   <tr>
     <td> Winter term 2017/2018 </td>
-    <td> <b>Funktionentheorie (Complex Analysis)</b>, <i>Co-lecturer together
+    <td> <b><a target="_blank" href="https://www.janheiland.de/17-funktionentheorie-ovgu/">Funktionentheorie (Complex Analysis)</a></b>, <i>Co-lecturer together
       with <a target="_blank" href="https://www.janheiland.de/">Jan
       Heiland</a></i>, Max Planck Institute for Dynamics of Complex Technical
       Systems, Magdeburg, Germany.
