@@ -418,7 +418,7 @@ found at the end of my
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
+    <img src="https://img.shields.io/badge/License-AGPLv3+-blue.svg"
     alt="License: AGPLv3+" class="badge"></a>
 
 ---
