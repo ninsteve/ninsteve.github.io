@@ -37,6 +37,18 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 03/02/2022 </td>
+    <td> <strong>Accepted Manuscript:</strong>
+      Our paper
+      <a target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
+      output-feedback stabilization for incompressible flows using
+      low-dimensional \\(\mathcal{H}_{\infty}\\)-controllers</a>
+      has been accepted for publication in
+      <a target="blank_" href="https://www.springer.com/journal/10589">Computational
+      Optimization and Applications</a>.
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 23/01/2022 </td>
     <td> <strong>Accepted Manuscript:</strong>
       Our paper
@@ -44,6 +56,16 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
       vector fitting framework for mechanical systems"</a>
       has been accepted for publication in the IFAC-PapersOnline special issue
       for <a target="blank_" href="https://www.mathmod.at/">MATHMOD 2022</a>.
+      Don't miss the corresponding upcoming talk.
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 17/01/2022 </td>
+    <td> <strong>New Preprint:</strong>
+      Check out our new preprint about
+      <a target="blank_" href="https://arxiv.org/abs/2201.06518">"Structured
+      model order reduction for vibro-acoustic problems using interpolation
+      and balancing methods"</a>.
     </td>
   </tr>
 </table>
