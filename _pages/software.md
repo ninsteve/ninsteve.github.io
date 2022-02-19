@@ -21,7 +21,7 @@ author_profile: true
   <a href="https://www.gnu.org/licenses/gpl-3.0">
   <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
   alt="License: GPL v3" class="badge"></a>
-  *Latest Version: 5.0*<br/>
+  &nbsp;*Latest Version: 5.0*<br/>
   This toolbox is a collection of MATLAB routines for model order reduction of 
   dynamical systems based on the solution of matrix equations.
   The implementation is based on spectral projection methods, e.g., methods 
@@ -34,14 +34,14 @@ author_profile: true
   href="https://doi.org/10.5281/zenodo.842658">Zenodo upload</a>.
 
 * **SOMDDPA (Second-Order Modally-Damped Dominant Pole Algorithm)**<br/>
-  *Latest Version: 2.0* 
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
   <a href="https://opensource.org/licenses/BSD-2-Clause">
   <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
-  alt="License: BSD 2-Clause" class="badge"></a><br/>
+  alt="License: BSD 2-Clause" class="badge"></a>
+  &nbsp;*Latest Version: 2.0*<br/>
   For model order reduction via modal truncation, dominant poles have been 
   proven to be an efficient and accurate approach.
   In case of modally-damped second-order systems, it is possible to extend the 
@@ -54,14 +54,14 @@ author_profile: true
 
 * **SOLBT (Limited Balanced Truncation for Large-Scale Sparse Second-Order 
   Systems)**<br/>
-  *Latest Version: 3.0* 
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
   <a href="https://opensource.org/licenses/BSD-2-Clause">
   <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
-  alt="License: BSD 2-Clause" class="badge"></a><br/>
+  alt="License: BSD 2-Clause" class="badge"></a>
+  &nbsp;*Latest Version: 3.0*<br/>
   In practical applications, only local approximations of system's behavior in 
   frequency or time domain are needed.
   This package extends the idea of frequency- and time-limited balanced 
