@@ -17,7 +17,7 @@ author_profile: true
 * **Numerical Linear Algebra**:
   Matrix Equations,
   Eigenvalue Problems,
-  PDE-Constraint Optimization
+  PDE-Constrained Optimization
 * **Scientific Computing**:
   Mathematical Software,
   Efficient Algorithm Design,
