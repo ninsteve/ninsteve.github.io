@@ -616,13 +616,27 @@ ol.start li:before, ol.continue li:before {
   }
 }
 
-.projectpic {
+.projectpicright {
   display: block;
   float: center;
   max-width: 95%;
   margin-left: 0px;
 
   @include breakpoint($medium-wide) {
+    float: right;
+    max-width: 40%;
+    margin-left: 20px;
+  }
+}
+
+.projectpicleft {
+  display: block;
+  float: center;
+  max-width: 95%;
+  margin-left: 0px;
+
+  @include breakpoint($medium-wide) {
+    float: left;
     max-width: 40%;
     margin-left: 20px;
   }

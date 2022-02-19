@@ -44,8 +44,8 @@ UNDER CONSTRUCTION!
 ## Structure-Preserving Model Reduction for Mechanical Systems ##
 
 <p class="text-block">
-<img src="/images/mor_system_so.png" alt="Second-Order System MOR"
-style="float:right; max-width:320px; display: block; margin-left: 20px">
+<img class="projectpicright" src="/images/mor_system_so.png"
+alt="Second-Order System MOR">
 For the construction of complex mechanical structures such as bridges, 
 buildings, or vehicles, the use of computer models is nowadays indispensable. 
 Such computer models are typically used to simulate and, if necessary, to 
