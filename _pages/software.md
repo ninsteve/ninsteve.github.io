@@ -92,7 +92,7 @@ author_profile: true
 
 ---
 
-## Supplementary code packages and data ##
+## <a name="codepackages"></a>Supplementary code packages and data ##
 
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5836047">Code, data and results for
