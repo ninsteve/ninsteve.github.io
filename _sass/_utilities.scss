@@ -616,7 +616,7 @@ ol.start li:before, ol.continue li:before {
   }
 }
 
-.projectpicright {
+.projectpicsomor {
   display: block;
   float: center;
   max-width: 95%;
@@ -629,7 +629,7 @@ ol.start li:before, ol.continue li:before {
   }
 }
 
-.projectpicleft {
+.projectpicstabflow {
   display: block;
   float: center;
   max-width: 95%;
@@ -637,7 +637,20 @@ ol.start li:before, ol.continue li:before {
 
   @include breakpoint($medium-wide) {
     float: left;
-    max-width: 50%;
+    max-width: 45%;
+    margin-right: 20px;
+  }
+}
+
+.projectpicmorlab {
+  display: block;
+  float: center;
+  max-width: 80%;
+  margin-left: 0px;
+
+  @include breakpoint($medium-wide) {
+    float: right;
+    max-width: 30%;
     margin-left: 20px;
   }
 }
