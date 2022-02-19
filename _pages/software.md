@@ -13,7 +13,8 @@ author_profile: true
 
 ## Software Packages ##
 
-* **MORLAB (Model Order Reduction LABoratory)**:
+* **MORLAB (Model Order Reduction LABoratory)**<br/>
+  Latest Version: 5.0 
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
