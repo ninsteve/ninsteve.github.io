@@ -605,45 +605,55 @@ ol.start li:before, ol.continue li:before {
  
 .mainprofilepic {
   display: block;
-  float: center;
+  margin-bottom: 10px;
+  float: none;
   max-width: 95%;
-  margin-left: 0px;
+  margin-left: auto;
+  margin-right: auto;
 
   @include breakpoint($medium-wide) {
     float: right;
     max-width: 40%;
     margin-left: 20px;
+    margin-right: 0;
   }
 }
 
 .projectpicsomor {
   display: block;
-  float: center;
+  margin-bottom: 10px;
+  float: none;
   max-width: 95%;
-  margin-left: 0px;
+  margin-left: auto;
+  margin-right: auto;
 
   @include breakpoint($medium-wide) {
     float: right;
     max-width: 50%;
     margin-left: 20px;
+    margin-right: 0px;
   }
 }
 
 .projectpicstabflow {
   display: block;
-  float: center;
+  margin-bottom: 10px;
+  float: none;
   max-width: 95%;
-  margin-left: 0px;
+  margin-left: auto;
+  margin-right: auto;
 
   @include breakpoint($medium-wide) {
     float: left;
     max-width: 40%;
+    margin-left: 0px;
     margin-right: 20px;
   }
 }
 
 .projectpicmorlab {
   display: block;
+  margin-bottom: 10px;
   float: none;
   max-width: 80%;
   margin-left: auto;
