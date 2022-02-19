@@ -14,14 +14,14 @@ author_profile: true
 ## Software Packages ##
 
 * **MORLAB (Model Order Reduction LABoratory)**<br/>
-  *Latest Version: 5.0* 
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0">
   <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-  alt="License: GPL v3" class="badge"></a><br/>
+  alt="License: GPL v3" class="badge"></a>
+  *Latest Version: 5.0*<br/>
   This toolbox is a collection of MATLAB routines for model order reduction of 
   dynamical systems based on the solution of matrix equations.
   The implementation is based on spectral projection methods, e.g., methods 
