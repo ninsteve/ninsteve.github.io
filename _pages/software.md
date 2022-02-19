@@ -14,7 +14,7 @@ author_profile: true
 ## Software Packages ##
 
 * **MORLAB (Model Order Reduction LABoratory)**<br/>
-  Latest Version: 5.0 
+  *Latest Version: 5.0* 
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
@@ -33,7 +33,8 @@ author_profile: true
   entry</a> and the latest <a target="_blank" 
   href="https://doi.org/10.5281/zenodo.842658">Zenodo upload</a>.
 
-* **SOMDDPA (Second-Order Modally-Damped Dominant Pole Algorithm)**:
+* **SOMDDPA (Second-Order Modally-Damped Dominant Pole Algorithm)**<br/>
+  *Latest Version: 2.0* 
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
@@ -52,7 +53,8 @@ author_profile: true
   href="https://doi.org/10.5281/zenodo.2553901">Zenodo</a>.
 
 * **SOLBT (Limited Balanced Truncation for Large-Scale Sparse Second-Order 
-  Systems)**:
+  Systems)**<br/>
+  *Latest Version: 3.0* 
   <a target ="_blank"
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
