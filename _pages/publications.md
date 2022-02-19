@@ -335,7 +335,7 @@ found at the end of my
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: GPL v3" class="badge"></a>
+    alt="License: GPLv3+" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3331592">Limited balanced truncation
@@ -348,7 +348,7 @@ found at the end of my
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: GPL v3" class="badge"></a>
+    alt="License: GPLv3+" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3332716">MORLAB &ndash; Model Order
@@ -362,8 +362,8 @@ found at the end of my
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    <img src="https://img.shields.io/badge/License-AGPLv3+-blue.svg"
+    alt="License: AGPLv3+" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553926">Limited balanced truncation
@@ -376,7 +376,7 @@ found at the end of my
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: GPL v3" class="badge"></a>
+    alt="License: GPLv3+" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.2553902">SOMDDPA &ndash; Second-Order
@@ -389,7 +389,7 @@ found at the end of my
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-    alt="License: GPL v3" class="badge"></a>
+    alt="License: GPLv3+" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.1574083">MORLAB – Model Order Reduction
@@ -403,8 +403,8 @@ found at the end of my
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    <img src="https://img.shields.io/badge/License-AGPLv3+-blue.svg"
+    alt="License: AGPLv3+" class="badge"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.842659">MORLAB-3.0 &ndash; model order
@@ -419,7 +419,7 @@ found at the end of my
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    alt="License: AGPLv3+" class="badge"></a>
 
 ---
 

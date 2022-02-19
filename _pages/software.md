@@ -18,9 +18,9 @@ author_profile: true
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
-  <a href="https://www.gnu.org/licenses/gpl-3.0">
-  <img src="https://img.shields.io/badge/License-GPLv3+-blue.svg"
-  alt="License: GPL v3" class="badge"></a>
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+  <img src="https://img.shields.io/badge/License-AGPLv3+-blue.svg"
+  alt="License: AGPLv3+" class="badge"></a>
   &nbsp;*Latest Version: 5.0*<br/>
   This toolbox is a collection of MATLAB routines for model order reduction of 
   dynamical systems based on the solution of matrix equations.
@@ -241,8 +241,8 @@ author_profile: true
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    <img src="https://img.shields.io/badge/License-AGPLv3+-blue.svg"
+    alt="License: AGPLv3+" class="badge"></a>
     
 1.  J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.3678213">Parametric and two-step model
@@ -256,8 +256,8 @@ author_profile: true
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3+-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    <img src="https://img.shields.io/badge/License-AGPLv3+-blue.svg"
+    alt="License: AGPLv3+" class="badge"></a>
     
 1.  J. Saak, D. Siebelts, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.5281/zenodo.2564050">Reduction
@@ -285,8 +285,8 @@ author_profile: true
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
     class="opensource"></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"
-    alt="License: AGPL v3" class="badge"></a>
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg"
+    alt="License: GPLv3" class="badge"></a>
 
 <!-- Javascripts for Buttons and BibTeX content. -->
 
