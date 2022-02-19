@@ -35,7 +35,7 @@ You can also find my publications on my
 and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
 A detailed list of citable code packages accompaning my publications can be
 found at the end of my
-<a target="blank_" href="{{ base_path }}/software/">Software</a> page.
+<a href="{{ base_path }}/software/">Software</a> page.
 
 <style>
   p {
