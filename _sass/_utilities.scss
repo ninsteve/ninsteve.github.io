@@ -605,12 +605,12 @@ ol.start li:before, ol.continue li:before {
  
 .mainprofilepic {
   display: block;
-  float: right;
+  float: center;
   max-width: 95%;
   margin-left: 0px;
 
   @include breakpoint($medium-wide) {
-    max-width: 30%;
+    max-width: 40%;
     margin-left: 20px;
   }
 }
