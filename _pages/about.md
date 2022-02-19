@@ -33,7 +33,17 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 (MathCoRe)"</a>.
 </p>
 
-# Latest News #
+## Latest News ##
 
-UNDER CONSTRUCTION!
-
+<table class="eventtable">
+  <tr>
+    <td style="width:8%"> 23/01/2022 </td>
+    <td> <strong>Accepted Manuscript:</strong>
+      Our paper
+      <a target="blank_" href="https://arxiv.org/abs/2110.09220">"Structured
+      vector fitting framework for mechanical systems"</a>
+      has been accepted for publication in the IFAC-PapersOnline special issue
+      for <a target="blank_" href="https://www.mathmod.at/">MATHMOD 2022</a>.
+    </td>
+  </tr>
+</table>
