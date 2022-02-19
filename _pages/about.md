@@ -42,7 +42,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
       Our paper
       <a target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
       output-feedback stabilization for incompressible flows using
-      low-dimensional \\(\mathcal{H}_{\infty}\\)-controllers</a>
+      low-dimensional H-infinity-controllers</a>
       has been accepted for publication in
       <a target="blank_" href="https://www.springer.com/journal/10589">Computational
       Optimization and Applications</a>.
