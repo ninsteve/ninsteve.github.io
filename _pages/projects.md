@@ -68,8 +68,7 @@ like dissipativity.
 ## Robust Flow Control via HINFBT ##
 
 <p class="text-block">
-<img src="/images/hinfbt.png" alt="HINFBT"
-style="float:left; max-width:320px; display: block; margin-right: 20px">
+<img class="projectpicleft" src="/images/hinfbt.png" alt="Flow Stabilization">
 For the efficient stabilization of flows, controllers of small orders are 
 needed, which also bridge the gap between approximation and model, or
 model and reality.
@@ -87,8 +86,7 @@ methods and controller theory.
 ## MORLAB &ndash; Model Order Reduction LABoratory ##
 
 <p class="text-block">
-<img src="/images/morlab_logo.png" alt="MORLAB Logo"
-style="float:right; max-width:220px; display: block; margin-left: 20px">
+<img class="projectpicright" src="/images/morlab_logo.png" alt="MORLAB Logo">
 <b>MORLAB</b>, the <b>M</b>odel <b>O</b>rder <b>R</b>eduction <b>LAB</b>oratory
 toolbox, is a collection of MATLAB and Octave routines for model order reduction 
 of dense linear time-invariant continuous-time systems. The toolbox contains 

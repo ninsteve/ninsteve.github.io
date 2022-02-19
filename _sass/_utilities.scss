@@ -624,7 +624,7 @@ ol.start li:before, ol.continue li:before {
 
   @include breakpoint($medium-wide) {
     float: right;
-    max-width: 40%;
+    max-width: 50%;
     margin-left: 20px;
   }
 }
@@ -637,7 +637,7 @@ ol.start li:before, ol.continue li:before {
 
   @include breakpoint($medium-wide) {
     float: left;
-    max-width: 40%;
+    max-width: 50%;
     margin-left: 20px;
   }
 }
