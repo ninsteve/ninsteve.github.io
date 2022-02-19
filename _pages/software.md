@@ -31,7 +31,11 @@ author_profile: true
   the <a target="_blank" 
   href="https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/MORLAB">MORwiki 
   entry</a> and the latest <a target="_blank" 
-  href="https://doi.org/10.5281/zenodo.842658">Zenodo upload</a>.
+  href="https://doi.org/10.5281/zenodo.842658">Zenodo upload</a>.<br/>
+  <a target="blank_" href="https://doi.org/10.5281/zenodo.842658">
+  <button class="btn btn--inverse">Download</button></a>
+  <a target="blank_" href="https://doi.org/10.1007/978-3-030-72983-7_19">
+  <button class="btn btn--inverse">Documentation</button></a>
 
 * **SOMDDPA (Second-Order Modally-Damped Dominant Pole Algorithm)**<br/>
   <a target ="_blank"
