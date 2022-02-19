@@ -36,6 +36,19 @@ author_profile: true
   <button class="btn btn--inverse">Download</button></a>
   <a target="blank_" href="https://doi.org/10.1007/978-3-030-72983-7_19">
   <button class="btn btn--inverse">Documentation</button></a>
+  <button id="citationMORLAB-pop" class="btn btn--inverse">Citation</button>
+<script>
+  $(function(){
+  $('#citationMORLAB-pop').magnificPopup({ items: { src: '#citationMORLAB' }, 
+  closeBtnInside: true, autoFocusLast: false, fixedContentPos: false,
+  type: 'inline' }); });
+</script>
+<div id="citationMORLAB" class="bibtex-dialog mfp-hide">
+<pre><code>
+[1]
+
+[2]
+</code></pre></div>
 
 * **SOMDDPA (Second-Order Modally-Damped Dominant Pole Algorithm)**<br/>
   <a target ="_blank"
