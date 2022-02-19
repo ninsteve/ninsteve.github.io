@@ -11,7 +11,7 @@ author_profile: true
   Data-Driven (Structured) Reduced-Order Modeling,
   Context-Aware Learning
 * **Model Order Reduction**:
-  Approximation Of Dynamical Systems,
+  Approximation of Dynamical Systems,
   Structured Interpolation,
   Projection-Based Methods
 * **Numerical Linear Algebra**:
@@ -25,7 +25,7 @@ author_profile: true
   
 ---
 
-## Context-aware learning of controllers ##
+## Context-Aware Learning of Low-Order Controllers ##
   
 <p class="text-block">
 UNDER CONSTRUCTION!
@@ -33,7 +33,7 @@ UNDER CONSTRUCTION!
 
 ---
 
-## Data-driven construction of mechanical systems ##
+## Data-Driven Reduced-Order Modeling of Mechanical Systems ##
   
 <p class="text-block">
 UNDER CONSTRUCTION!
