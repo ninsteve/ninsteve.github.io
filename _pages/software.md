@@ -37,18 +37,6 @@ author_profile: true
   <a target="blank_" href="https://doi.org/10.1007/978-3-030-72983-7_19">
   <button class="btn btn--inverse">Documentation</button></a>
   <button id="citationMORLAB-pop" class="btn btn--inverse">Citation</button>
-<script>
-  $(function(){
-  $('#citationMORLAB-pop').magnificPopup({ items: { src: '#citationMORLAB' }, 
-  closeBtnInside: true, autoFocusLast: false, fixedContentPos: false,
-  type: 'inline' }); });
-</script>
-<div id="citationMORLAB" class="bibtex-dialog mfp-hide">
-<pre><code>
-[1]
-
-[2]
-</code></pre></div>
 
 * **SOMDDPA (Second-Order Modally-Damped Dominant Pole Algorithm)**<br/>
   <a target ="_blank"
@@ -308,12 +296,14 @@ author_profile: true
 <!-- Javascripts for Buttons and BibTeX content. -->
 
 <div id="includedBibTeX"></div>
+<div id="includedCitation"></div>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 <script> 
   $(function(){
-    $("#includedBibTeX").load("{{ base_path }}/files/software/bibtex.html"); 
+    $("#includedBibTeX").load("{{ base_path }}/files/software/bibtex.html");
+    $("#includedCitation").load("{{ base_path }}/files/software/citation.html");
   });
 </script>
