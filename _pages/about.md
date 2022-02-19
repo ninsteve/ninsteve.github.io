@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 <p class="text-block">
-<img src="/images/profile_large.jpg"
-alt="Full Profile picture"
-style="float:right; max-width:320px; display: block; margin-left: 20px">
+<img class="mainprofilepic" src="/images/profile_large.jpg"
+alt="Full Profile picture">
 My name is <strong>Steffen W. R. Werner</strong> and I am postdoctoral associate
 in the Department of Computer Science at the <a target="blank_"
 href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences,
