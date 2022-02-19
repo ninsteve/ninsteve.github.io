@@ -55,7 +55,14 @@ author_profile: true
   This package contains a structure-preserving implementation in MATLAB and 
   Octave of the dominant pole algorithm for modally-damped second-order systems.
   Find the latest upload on <a target="_blank" 
-  href="https://doi.org/10.5281/zenodo.2553901">Zenodo</a>.
+  href="https://doi.org/10.5281/zenodo.2553901">Zenodo</a> and checkout my
+  <a target="_blank" href="https://doi.org/10.25673/38617">dissertation</a>
+  for the theoretical background.<br/>
+  <a target="blank_" href="https://doi.org/10.5281/zenodo.2553901">
+  <button class="btn btn--inverse">Download</button></a>
+  <a target="blank_" href="https://doi.org/10.25673/38617">
+  <button class="btn btn--inverse">Documentation</button></a>
+  <button id="citationSOMDDPA-pop" class="btn btn--inverse">Citation</button>
 
 * **SOLBT (Limited Balanced Truncation for Large-Scale Sparse Second-Order 
   Systems)**<br/>
