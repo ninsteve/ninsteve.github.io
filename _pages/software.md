@@ -122,7 +122,7 @@ author_profile: true
     (version 1.0)</a>,
     January 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5836047">10.5281/zenodo.5836047</a><br />
     <button id="supAumW22-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2201.06518"><button
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -138,7 +138,7 @@ author_profile: true
     equations with indefinite quadratic terms&rdquo; (version 1.0)</a>,
     November 2021. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">10.5281/zenodo.5155993</a><br />
     <button id="supWer21c-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2111.06516"><button
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -154,7 +154,7 @@ author_profile: true
     mechanical systems&rdquo; (version 1.0)</a>, October 2021. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.5539944">10.5281/zenodo.5539944</a><br />
     <button id="supWer21b-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2110.09220"><button
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -172,7 +172,7 @@ author_profile: true
     October 2021. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.5532539">10.5281/zenodo.5532539</a><br />
     <button id="supHeiW21a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2103.01608"><button
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -237,7 +237,7 @@ author_profile: true
     March 2021. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.4507759">10.5281/zenodo.4507759</a><br />
     <button id="supHeiW21-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2103.01608"><button
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
