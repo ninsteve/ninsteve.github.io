@@ -115,6 +115,23 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.5902997">Code, data and results for
+    numerical experiments in &ldquo;On the sample complexity of stabilizing
+    linear dynamical systems from data&rdquo;
+    (version 1.0)</a>,
+    February 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">10.5281/zenodo.5902997</a><br />
+    <button id="supWer22-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5836047">Code, data and results for
     numerical experiments in &ldquo;Structured model order reduction for

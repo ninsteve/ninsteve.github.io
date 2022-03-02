@@ -50,15 +50,17 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     <td style="width:8%"> 02/03/2022 </td>
     <td> <strong>New Preprint:</strong>
       Check out our new preprint
-      <a target="blank_" href="https://arxiv.org/abs/2203.00474">"On the sample
-      complexity of stabilizing linear dynamical systems from data"</a>.
+      <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">"On
+      the sample complexity of stabilizing linear dynamical systems from
+      data"</a>.
     </td>
   </tr>
   <tr>
     <td style="width:8%"> 03/02/2022 </td>
     <td> <strong>Accepted Manuscript:</strong>
       Our paper
-      <a target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
+      <a target="blank_"
+      href="https://doi.org/10.48550/arXiv.2111.06516">Robust 
       output-feedback stabilization for incompressible flows using
       low-dimensional H-infinity-controllers</a>
       has been accepted for publication in
@@ -70,8 +72,9 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     <td style="width:8%"> 23/01/2022 </td>
     <td> <strong>Accepted Manuscript:</strong>
       Our paper
-      <a target="blank_" href="https://arxiv.org/abs/2110.09220">"Structured
-      vector fitting framework for mechanical systems"</a>
+      <a target="blank_"
+      href="https://doi.org/10.48550/arXiv.2110.09220">"Structured vector
+      fitting framework for mechanical systems"</a>
       has been accepted for publication in the IFAC-PapersOnline special issue
       for <a target="blank_" href="https://www.mathmod.at/">MATHMOD 2022</a>.
       Don't miss the corresponding upcoming talk.
@@ -81,7 +84,8 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     <td style="width:8%"> 17/01/2022 </td>
     <td> <strong>New Preprint:</strong>
       Check out our new preprint about
-      <a target="blank_" href="https://arxiv.org/abs/2201.06518">"Structured
+      <a target="blank_"
+      href="https://doi.org/10.48550/arXiv.2201.06518">"Structured
       model order reduction for vibro-acoustic problems using interpolation
       and balancing methods"</a>.
     </td>

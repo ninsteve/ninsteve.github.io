@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (5)</a>
+  <a href="#submitted">Submitted Articles (6)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (7)</a>
@@ -47,6 +47,17 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">On the
+    sample complexity of stabilizing linear dynamical systems from data</a>.
+    e-print 2203.00474, arXiv, 2022. Optimization and Control (math.OC).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">10.48550/arXiv.2203.00474</a><br />
+    <button id="WerP22-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">Structured
