@@ -49,64 +49,61 @@ found at the end of my
 ## <a name="submitted"></a>Submitted Articles ##
 
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://arxiv.org/abs/2201.06518">Structured model
-    order reduction for vibro-acoustic problems using interpolation and
+    target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">Structured
+    model order reduction for vibro-acoustic problems using interpolation and
     balancing methods</a>.
     e-print 2201.06518, arXiv, 2022. Numerical Analysis (math.NA).
-    URL: <a target="blank_" href="https://arxiv.org/abs/2201.06518">
-    https://arxiv.org/abs/2201.06518</a><br />
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">10.48550/arXiv.2201.06518</a><br />
     <button id="AumW22-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2201.06518">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5836047">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://arxiv.org/abs/2111.06516">A low-rank solution
-    method for Riccati equations with indefinite quadratic terms</a>.
+    target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">A low-rank
+    solution method for Riccati equations with indefinite quadratic terms</a>.
     e-print 2111.06516, arXiv, 2021. Numerical Analysis (math.NA).
-    URL: <a target="blank_" href="https://arxiv.org/abs/2111.06516">
-    https://arxiv.org/abs/2111.06516</a><br />
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">10.48550/arXiv.2111.06516</a><br />
     <button id="BenHW21a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2111.06516">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
-    target="blank_" href="https://arxiv.org/abs/2110.09220">Structured vector
-    fitting framework for mechanical systems</a>. e-print 2110.09220,
+    target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">Structured
+    vector fitting framework for mechanical systems</a>. e-print 2110.09220,
     arXiv, 2021. Numerical Analysis (math.NA).
-    URL: <a target="blank_" href="https://arxiv.org/abs/2110.09220">
-    https://arxiv.org/abs/2110.09220</a><br />
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">10.48550/arXiv.2110.09220</a><br />
     <button id="WerGG21-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2110.09220">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5539944">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://arxiv.org/abs/2103.01608">Robust 
-    output-feedback stabilization for incompressible flows using low-dimensional 
-    \\(\mathcal{H}_{\infty}\\)-controllers</a>. e-print 2103.01608, arXiv, 2021.
+    target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608">Robust 
+    output-feedback stabilization for incompressible flows using
+    low-dimensional \\(\mathcal{H}_{\infty}\\)-controllers</a>.
+    e-print 2103.01608, arXiv, 2021.
     Optimization and Control (math.OC).
-    URL: <a target="blank_" href="https://arxiv.org/abs/2103.01608">
-    https://arxiv.org/abs/2103.01608</a><br />
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608">10.48550/arXiv.2103.01608</a><br />
     <button id="BenHW21-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2103.01608">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.4507758">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
-    href="https://arxiv.org/abs/2010.06331">Structure-preserving model reduction
-    for dissipative mechanical systems</a>. e-print 2010.06331, arXiv, 2020.
+    href="https://doi.org/10.48550/arXiv.2010.06331">Structure-preserving model
+    reduction for dissipative mechanical systems</a>.
+    e-print 2010.06331, arXiv, 2020.
     Optimization and Control (math.OC).
-    URL: <a target="blank_" href="https://arxiv.org/abs/2010.06331">
-    https://arxiv.org/abs/2010.06331</a><br />
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2010.06331">10.48550/arXiv.2010.06331</a><br />
     <button id="BedBDetal20-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2010.06331">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2010.06331">
     <button class="btn btn--inverse">Preprint</button></a>
 
 ---
@@ -138,7 +135,7 @@ found at the end of my
     bilinear systems</a>. <i>Automatica J. IFAC</i>, 132:109799, 2021. 
     doi:<a target="blank_" href="https://doi.org/10.1016/j.automatica.2021.109799">10.1016/j.automatica.2021.109799</a><br />
     <button id="BenGW21-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2007.11269">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2007.11269">
     <button class="btn btn--inverse">Preprint</button></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a 
@@ -147,7 +144,7 @@ found at the end of my
     interpolation of bilinear control systems</a>. <i>Adv. Comput. Math.</i>, 
     47(3):43, 2021. doi:<a target="blank_" href="https://doi.org/10.1007/s10444-021-09863-w">10.1007/s10444-021-09863-w</a><br />
     <button id="BenGW21a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2005.00795">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2005.00795">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
@@ -160,7 +157,7 @@ found at the end of my
     Dooren, Edited by F. Dopico, D. Kressner, N. Mastronardi, V. Mehrmann, and 
     R. Vandebril. doi:<a target="blank_" href="https://doi.org/10.1016/j.laa.2020.06.024">10.1016/j.laa.2020.06.024</a><br />
     <button id="BenW21b-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2001.06185">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2001.06185">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
@@ -203,7 +200,7 @@ found at the end of my
     pages 393&ndash;415. Birkhäuser, Cham, 2021.
     doi:<a target="blank_" href="https://doi.org/10.1007/978-3-030-72983-7_19">10.1007/978-3-030-72983-7_19</a><br />
     <button id="BenW21c-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://arxiv.org/abs/2002.12682">
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2002.12682">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.3678212">
     <button class="btn btn--inverse">Code</button></a>
