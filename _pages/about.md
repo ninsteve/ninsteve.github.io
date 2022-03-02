@@ -36,7 +36,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 
 <table class="eventtable">
   <tr>
-    <td style="width:8%"> 04/15/2022 </td>
+    <td style="width:8%"> 15/04/2022 </td>
     <td> <strong>Invited Minisymposium Talk:</strong>
       I am going to give a presentation about our latest results on
       <a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=119386">"Context-Aware
@@ -44,6 +44,14 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
       <a target="blank_" href="https://www.siam.org/conferences/cm/conference/uq22">SIAM
       Conference on Uncertainty Quantification (UQ22)</a>
       in Atlanta, Georgia, USA.
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 02/03/2022 </td>
+    <td> <strong>New Preprint:</strong>
+      Check out our new preprint
+      <a target="blank_" href="https://arxiv.org/abs/2203.00474">"On the sample
+      complexity of stabilizing linear dynamical systems from data"</a>.
     </td>
   </tr>
   <tr>
