@@ -47,7 +47,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     </td>
   </tr>
   <tr>
-    <td style="width:8%"> 03/02/2022 </td>
+    <td style="width:8%"> 10/04/2022 </td>
     <td> <strong>Published Manuscript:</strong>
       Our paper
       <a target="blank_"
