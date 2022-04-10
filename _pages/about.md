@@ -47,25 +47,25 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     </td>
   </tr>
   <tr>
+    <td style="width:8%"> 03/02/2022 </td>
+    <td> <strong>Published Manuscript:</strong>
+      Our paper
+      <a target="blank_"
+      href="https://doi.org/10.1007/s10589-022-00359-x">Robust 
+      output-feedback stabilization for incompressible flows using
+      low-dimensional H-infinity-controllers</a>
+      is now available in
+      <a target="blank_" href="https://www.springer.com/journal/10589">Computational
+      Optimization and Applications</a>.
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 02/03/2022 </td>
     <td> <strong>New Preprint:</strong>
       Check out our new preprint
       <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">"On
       the sample complexity of stabilizing linear dynamical systems from
       data"</a>.
-    </td>
-  </tr>
-  <tr>
-    <td style="width:8%"> 03/02/2022 </td>
-    <td> <strong>Accepted Manuscript:</strong>
-      Our paper
-      <a target="blank_"
-      href="https://doi.org/10.48550/arXiv.2111.06516">Robust 
-      output-feedback stabilization for incompressible flows using
-      low-dimensional H-infinity-controllers</a>
-      has been accepted for publication in
-      <a target="blank_" href="https://www.springer.com/journal/10589">Computational
-      Optimization and Applications</a>.
     </td>
   </tr>
   <tr>
