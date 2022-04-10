@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (6)</a>
+  <a href="#submitted">Submitted Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (7)</a>
+  <a href="#journal">Journal Articles (8)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (2)</a>
@@ -93,19 +93,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5539944">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608">Robust 
-    output-feedback stabilization for incompressible flows using
-    low-dimensional \\(\mathcal{H}_{\infty}\\)-controllers</a>.
-    e-print 2103.01608, arXiv, 2021.
-    Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608">10.48550/arXiv.2103.01608</a><br />
-    <button id="BenHW21-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.4507758">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2010.06331">Structure-preserving model
@@ -120,6 +107,18 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1007/s10589-022-00359-x">Robust 
+    output-feedback stabilization for incompressible flows using
+    low-dimensional \\(\mathcal{H}_{\infty}\\)-controllers</a>.
+    <i>Comput. Optim. Appl.</i>, 82(1):225&ndash;249, 2022.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10589-022-00359-x">10.1007/s10589-022-00359-x</a><br />
+    <button id="BenHW22-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2103.01608">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.4507758">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, Y. Filanova, D. Karachalios, S. Monem Abdelhafez, J. Przybilla,
     and <strong>S. W. R. Werner</strong>. <a
