@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (23)</a>
+  <a href="#talks">Talks (24)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (5)</a>
@@ -36,6 +36,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 29/03/2022 </td>
+    <td>
+    <strong><a target="blank_" href="http://vims.mathos.unios.hr/page-builder/workshop-daad-2022/">A New Tangential Interpolation Framework for Model Reduction of Bilinear Systems</a></strong>,
+    <i>3rd Workshop on Optimal Control of Dynamical Systems and
+    Applications</i>,
+    Osijek, Croatia, (invited talk, hybrid conference).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 20/07/2021 </td>
     <td>
