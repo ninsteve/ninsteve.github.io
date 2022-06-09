@@ -117,6 +117,23 @@ author_profile: true
 
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5902997">Code, data and results for
+    numerical experiments in &ldquo;A low-rank solution method for Riccati
+    equations with indefinite quadratic terms&rdquo;
+    (version 2.0)</a>,
+    March 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.6308400">10.5281/zenodo.6308400</a><br />
+    <button id="supWer22a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.5902997">Code, data and results for
     numerical experiments in &ldquo;On the sample complexity of stabilizing
     linear dynamical systems from data&rdquo;
     (version 1.0)</a>,
@@ -155,7 +172,7 @@ author_profile: true
     equations with indefinite quadratic terms&rdquo; (version 1.0)</a>,
     November 2021. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">10.5281/zenodo.5155993</a><br />
     <button id="supWer21c-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516"><button
+    <a target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
