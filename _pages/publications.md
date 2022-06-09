@@ -48,6 +48,18 @@ found at the end of my
 
 ## <a name="submitted"></a>Submitted Articles ##
 
+1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2206.01657">A unifying framework for
+    tangential interpolation of structured bilinear control systems</a>.
+    e-print 2206.01657, arXiv, 2022. Numerical Analysis (math.NA).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2206.01657">10.48550/arXiv.2206.01657</a><br />
+    <button id="BenGW22-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2206.01657">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.5793356">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+
 1.  <strong>S. W. R. Werner</strong>, M. L. Overton, and B. Peherstorfer. <a
     target="blank_"
     href="https://doi.org/10.48550/arXiv.2205.15050">Multi-fidelity robust
