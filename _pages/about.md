@@ -36,7 +36,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 
 <table class="eventtable">
   <tr>
-    <td style="width:8%"> 26/09/2022&ndash;30/09/2022 </td>
+    <td style="width:8%"> 26/09/2022&ndash;<br>30/09/2022 </td>
     <td> <strong>SIAM MDS22:</strong>
       I am going to give a presentation about our latest results on
       <a target="blank_"
@@ -50,7 +50,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     </td>
   </tr>
   <tr>
-    <td style="width:8%"> 19/09/2022&ndash;23/09/2022 </td>
+    <td style="width:8%"> 19/09/2022&ndash;<br>23/09/2022 </td>
     <td> <strong>MORE 2022:</strong>
       I am going to give a presentation about our latest results on
       "Context-aware learning of low-dimensional stabilizing controllers in the
@@ -65,7 +65,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     </td>
   </tr>
   <tr>
-    <td style="width:8%"> 12/07/2022&ndash;17/07/2022 </td>
+    <td style="width:8%"> 12/07/2022&ndash;<br>17/07/2022 </td>
     <td> <strong>XXI Householder Symposium:</strong>
       Thanks to an invitation, I am going to attend this years
       <a target="blank_"
