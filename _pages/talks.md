@@ -27,8 +27,8 @@ author_profile: true
 <p class="text-block">
   This map is an overview of the different places I attended for conferences,
   workshops and seminars to give talks and poster presentations.
-  Clusters are labeled by the number of places they collect and can be zoomed in 
-  for more details by just clicking on them.
+  Clusters are labeled by the number of places they collect and can be zoomed
+  in for more details by clicking on them.
 </p>
 
 ---
@@ -36,6 +36,31 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 01/06/2022 </td>
+    <td>
+    <strong><a target="blank_" href="https://icerm.brown.edu/events/re-22-sp20/">Stabilizing Dynamical Systems in the Scarce Data Regime</a></strong>,
+    <i>ICERM Spring 2020 Reunion Event</i>,
+    Providence, RI, USA, (invited talk).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 22/04/2022 </td>
+    <td>
+    <strong><a target="blank_" href="https://cs.nyu.edu/dynamic/news/seminar_event/1246/">Stabilizing Dynamical Systems in the Scarce Data Regime</a></strong>,
+    <i>Numerical Analysis and Scientific Computing Seminar, Courant Institute
+    of Mathematical Sciences, New York University</i>,
+    New York, NY, USA, (invited seminar talk).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 15/04/2022 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=119386">Context-Aware Learning of Stabilizing Controllers from Data</a></strong>,
+    <i>SIAM Conference on Uncertainty Quantification (UQ22)</i>,
+    Atlanta, GA, USA, (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 29/03/2022 </td>
     <td>
@@ -50,7 +75,7 @@ author_profile: true
     <td>
     <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=116595">Robust Output-Feedback Stabilization for Incompressible Flows using Low-Dimensional H-Infinity Controllers</a></strong>,
     <i>SIAM Conference on Control and Its Applications (CT21)</i>,
-    Spokane, Washington, USA, (invited minisymposium talk, online
+    Spokane, WA, USA, (invited minisymposium talk, online
     conference).<br>
     <a target="blank_" href="https://player.vimeo.com/video/566696356"><button class="btn btn--inverse">Video</button></a>
     </td>
@@ -179,7 +204,7 @@ author_profile: true
       href="https://www.siam.org/Portals/0/Conferences/cse19/CSE19_Program_with_abstracts.pdf?ver=2019-02-18-210049-180">H-Infinity
       Balanced Truncation for Feedback Control of Flow Problems</a></strong>,
       <i>SIAM Conference on Computational Science and Engineering (CSE19)</i>,
-      Spokane, Washington, USA, (invited minisymposium talk).
+      Spokane, WA, USA, (invited minisymposium talk).
     </td>
   </tr>
   <tr>
@@ -189,7 +214,7 @@ author_profile: true
       Problems</strong>,
       <i>Applied Numerical Analysis Seminar, Virginia Polytechnic Institute and
       State University</i>,
-      Blacksburg, Virginia, USA, (invited seminar talk).
+      Blacksburg, VA, USA, (invited seminar talk).
     </td>
   </tr>
   <tr>
@@ -323,7 +348,7 @@ author_profile: true
       href="https://www.siam.org/Portals/0/Conferences/cse19/CSE19_Program_with_abstracts.pdf?ver=2019-02-18-210049-180">MORLAB &ndash; Model Order 
       Reduction LABoratory</a></strong>,
       <i>SIAM Conference on Computational Science and Engineering (CSE19)</i>,
-      Spokane, Washington, USA, (invited poster).
+      Spokane, WA, USA, (invited poster).
     </td>
   </tr>
   <tr>
