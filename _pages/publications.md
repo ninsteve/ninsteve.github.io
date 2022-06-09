@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (5)</a>
+  <a href="#submitted">Submitted Articles (6)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (8)</a>
+  <a href="#journal">Journal Articles (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (2)</a>
@@ -71,17 +71,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5836047">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">A low-rank
-    solution method for Riccati equations with indefinite quadratic terms</a>.
-    e-print 2111.06516, arXiv, 2021. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">10.48550/arXiv.2111.06516</a><br />
-    <button id="BenHW21a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.5155993">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
     target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">Structured
     vector fitting framework for mechanical systems</a>. e-print 2110.09220,
@@ -107,6 +96,18 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">A
+    low-rank solution method for Riccati equations with indefinite quadratic
+    terms</a>.
+    <i>Numer. Algorithms</i>, 2022.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">10.1007/s11075-022-01331-w</a><br />
+    <button id="BenHW22a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.6308400">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1007/s10589-022-00359-x">Robust 
