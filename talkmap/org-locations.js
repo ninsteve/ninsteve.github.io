@@ -10,6 +10,11 @@ var addressPoints = [
     13.064
   ],
   [
+    "Atlanta, US",
+    33.748,
+    -84.3904
+  ],
+  [
     "Berlin, DE",
     52.5072,
     13.4248
@@ -30,11 +35,6 @@ var addressPoints = [
     15.4420
   ],
   [
-    "Nantes, FR",
-    47.2383,
-    -1.5603
-  ],
-  [
     "Magdeburg, DE",
     52.1196,
     11.6646
@@ -43,6 +43,16 @@ var addressPoints = [
     "Munich, DE",
     48.1550,
     11.5418
+  ],
+  [
+    "Nantes, FR",
+    47.2383,
+    -1.5603
+  ],
+  [
+    "New York, US",
+    40.75423,
+    -73.99492
   ],
   [
     "Oaxaca, MX",
@@ -58,6 +68,11 @@ var addressPoints = [
     "Osijek, HR",
     45.5469,
     18.6890
+  ],
+  [
+    "Providence, US",
+    41.8239,
+    -71.4128
   ],
   [
     "Spokane, US",
