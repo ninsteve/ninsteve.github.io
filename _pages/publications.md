@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (6)</a>
+  <a href="#submitted">Submitted Articles (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (9)</a>
@@ -47,6 +47,18 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2207.11049">Context-aware controller
+    inference for stabilizing dynamical systems from scarce data</a>.
+    e-print 2207.11049, arXiv, 2022. Optimization and Control (math.OC).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049">10.48550/arXiv.2207.11049</a><br />
+    <button id="WerP22a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.6567552">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"

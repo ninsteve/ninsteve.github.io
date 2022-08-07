@@ -116,6 +116,23 @@ author_profile: true
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.6567552">Code, data and results for
+    numerical experiments in &ldquo;Context-aware controller inference for
+    stabilizing dynamical systems from scarce data&rdquo;
+    (version 1.0)</a>,
+    July 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.6567552">10.5281/zenodo.6567552</a><br />
+    <button id="supWer22c-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.5793356">Code, data and results for
     numerical experiments in &ldquo;A unifying framework for tangential
     interpolation of structured bilinear control systems&rdquo;
