@@ -12,13 +12,13 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (27)</a>
+  <a href="#talks">Talks (29)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#participation">Conference/Workshop Participation without Contribution (3)</a>
+  <a href="#participation">Additional participation (4)</a>
 </p>
 
 <div style="width:100%; text-align:center;">
@@ -36,6 +36,22 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 27/07/2022 </td>
+    <td>
+    <strong><a target="blank_" href="https://ifac.papercept.net/conferences/conferences/MAMO21/program/MAMO21_ContentListWeb_2.html">Structured Vector Fitting Framework for Mechanical Systems</a></strong>,
+    <i>10th Vienna International Conference on Mathematical Modelling (MATHMOD)</i>,
+    Vienna, Austria.<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 02/07/2022 </td>
+    <td>
+    <strong><a target="blank_" href="https://indico3.mpi-magdeburg.mpg.de/event/6/timetable/#20220702.detailed">Stabilizing Dynamical Systems in the Scarce Data Regime</a></strong>,
+    <i>Workshop on New Trends in Computational Science in Engineering and Industrial Mathematics</i>,
+    Magdeburg, Germany.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 01/06/2022 </td>
     <td>
@@ -377,9 +393,17 @@ author_profile: true
 
 ---
 
-## <a name="participation"></a>Conference/Workshop Participation without Contribution ##
+## <a name="participation"></a>Additional participation ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 12/06/2022&ndash;<br>17/06/2022 </td>
+    <td>
+      <i><a target="blank_" 
+      href="https://users.ba.cnr.it/iac/irmanm21/HHXXI/program_HH_XXIb.pdf">Householder Symposium XXI</a></i>,
+      Selva di Fasano, Italy, (invited participation).
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 20/06/2018&ndash;<br>22/06/2018 </td>
     <td>

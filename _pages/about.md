@@ -65,16 +65,6 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     </td>
   </tr>
   <tr>
-    <td style="width:8%"> 12/07/2022&ndash;<br>17/07/2022 </td>
-    <td> <strong>XXI Householder Symposium:</strong>
-      Thanks to an invitation, I am going to attend this years
-      <a target="blank_"
-      href="https://users.ba.cnr.it/iac/irmanm21/HHXXI/index.html">XXI
-      Householder Symposium on Numerical Linear Algebra</a>
-      in Selva di Fasano, Italy.
-    </td>
-  </tr>
-  <tr>
     <td style="width:8%"> 03/06/2022 </td>
     <td> <strong>New Preprint:</strong>
       Check out our new preprint
