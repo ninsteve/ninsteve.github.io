@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (29)</a>
+  <a href="#talks">Talks (31)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Posters (5)</a>
+  <a href="#posters">Posters (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (4)</a>
@@ -37,11 +37,27 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 27/09/2022 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=122450">Stabilizing Dynamical Systems in the Scarce Data Regime</a></strong>,
+    <i>SIAM Conference on Mathematics of Data Science (MDS22)</i>,
+    San Diego, CA, USA, (invited minisymposium talk).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 23/09/2022 </td>
+    <td>
+    <strong><a target="blank_" href="https://more.sciencesconf.org/program/details">Context-aware learning of low-dimensional stabilizing controllers in the scarce data regime</a></strong>,
+    <i>Model Reduction and Surrogate Modeling (MORE)</i>,
+    Berlin, Germany.<br>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 27/07/2022 </td>
     <td>
     <strong><a target="blank_" href="https://ifac.papercept.net/conferences/conferences/MAMO21/program/MAMO21_ContentListWeb_2.html">Structured Vector Fitting Framework for Mechanical Systems</a></strong>,
     <i>10th Vienna International Conference on Mathematical Modelling (MATHMOD)</i>,
-    Vienna, Austria.<br>
+    Vienna, Austria, (invited minisymposium talk).<br>
     </td>
   </tr>
   <tr>
@@ -49,7 +65,7 @@ author_profile: true
     <td>
     <strong><a target="blank_" href="https://indico3.mpi-magdeburg.mpg.de/event/6/timetable/#20220702.detailed">Stabilizing Dynamical Systems in the Scarce Data Regime</a></strong>,
     <i>Workshop on New Trends in Computational Science in Engineering and Industrial Mathematics</i>,
-    Magdeburg, Germany.<br>
+    Magdeburg, Germany, (invited minisymposium talk).<br>
     </td>
   </tr>
   <tr>
@@ -335,6 +351,24 @@ author_profile: true
 ## <a name="posters"></a>Posters ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 28/09/2022 </td>
+    <td>
+      <strong><a target="blank_" 
+      href="https://meetings.siam.org/sess/dsp_talk.cfm?p=122921">Structure-Preserving Learning of Mechanical Systems</a></strong>,
+      <i>SIAM Conference on Mathematics of Data Science (MDS22)</i>,
+      San Diego, CA, USA.
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 21/09/2022 </td>
+    <td>
+      <strong><a target="blank_" 
+      href="https://more.sciencesconf.org/program/details">Balancing-related model reduction of large-scale sparse systems in MATLAB and Octave with the MORLAB toolbox</a></strong>,
+      <i>Model Reduction and Surrogate Modeling (MORE)</i>,
+      Berlin, Germany.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 07/11/2019 </td>
     <td>
