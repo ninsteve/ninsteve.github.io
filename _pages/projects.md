@@ -25,11 +25,11 @@ author_profile: true
   
 ---
 
-## Context-Aware Learning of Low-Order Controllers ##
+## Context-Aware Learning of Low-Dimensional Controllers ##
   
 <p class="text-block">
 <img class="projectpiccalearn" src="/images/context_aware_learning.png"
-alt="Context-Aware Learning Flow Chart">
+alt="Context-aware Learning Flow Chart">
 The general idea of context-aware learning is to directly learn the task of
 interest rather than some generic descriptions of the occurring dynamics, which
 usually demands for lots of data and computational resources to learn an
