@@ -75,6 +75,11 @@ var addressPoints = [
     -71.4128
   ],
   [
+    "San Diego, US",
+    32.7175,
+    -117.163
+  ],
+  [
     "Selva di Fasano, IT",
     40.8294646,
     17.3192575

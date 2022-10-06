@@ -263,7 +263,7 @@ found at the end of my
     href="https://doi.org/10.1016/j.ifacol.2022.09.089">Structured vector
     fitting framework for mechanical systems</a>.
     <i>IFAC-Pap.</i>, 55(20):163&ndash;168, 2022.
-    10th Vienna International Conference on Mathematical Modelling {MATHMOD}
+    10th Vienna International Conference on Mathematical Modelling MATHMOD
     2022.
     doi:<a target="blank_" href="https://doi.org/10.1016/j.ifacol.2022.09.089">10.1016/j.ifacol.2022.09.089</a><br />
     <button id="WerGG22-pop" class="btn btn--inverse">BibTeX</button>
