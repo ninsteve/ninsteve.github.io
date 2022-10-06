@@ -36,32 +36,27 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 
 <table class="eventtable">
   <tr>
-    <td style="width:8%"> 26/09/2022&ndash;<br>30/09/2022 </td>
-    <td> <strong>SIAM MDS22:</strong>
-      I am going to give a presentation about our latest results on
+    <td style="width:8%"> 28/09/2022 </td>
+    <td> <strong>Published Paper:</strong>
+      Our paper
       <a target="blank_"
-      href="https://meetings.siam.org/sess/dsp_talk.cfm?p=122450">"Stabilizing
-      Dynamical Systems in the Scarce Data Regime"</a> 
-      as well as a poster about our work on <a target="blank_"
-      href="https://meetings.siam.org/sess/dsp_talk.cfm?p=122921">"Structure-Preserving Learning of Mechanical Systems"</a> 
-      at this years <a target="blank_" href="https://www.siam.org/conferences/cm/conference/mds22">SIAM
-      Conference on Mathematics of Data Science (MDS22)</a>
-      in San Diego, CA, USA.
+      href="https://doi.org/10.48550/arXiv.2201.06518">"Structured model order
+      reduction for vibro-acoustic problems using interpolation and balancing
+      methods"</a> has been accepted for publication in the <a target="blank_"
+      href="https://www.sciencedirect.com/journal/journal-of-sound-and-vibration/vol/517/suppl/C">
+      Journal of Sound and Vibration</a>.
     </td>
   </tr>
   <tr>
-    <td style="width:8%"> 19/09/2022&ndash;<br>23/09/2022 </td>
-    <td> <strong>MORE 2022:</strong>
-      I am going to give a presentation about our latest results on
-      "Context-aware learning of low-dimensional stabilizing controllers in the
-      scarce data regime" 
-      as well as a poster about our work on "Balancing-related model reduction
-      of large-scale sparse systems in MATLAB and Octave with the MORLAB
-      toolbox" 
-      at this years <a target="blank_"
-      href="https://more.sciencesconf.org/">Model Reduction and Surrogate
-      Modeling (MORE 2022)</a>
-      in Berlin, Germany.
+    <td style="width:8%"> 28/09/2022 </td>
+    <td> <strong>Published Paper:</strong>
+      Our paper
+      <a target="blank_"
+      href="https://doi.org/10.1016/j.ifacol.2022.09.089">"Structured vector
+      fitting framework for mechanical systems"</a> is now published in
+      volume 55 issue 20 of <a target="blank_"
+      href="https://www.journals.elsevier.com/ifac-papersonline">
+      IFAC-PapersOnLine</a>.
     </td>
   </tr>
   <tr>
