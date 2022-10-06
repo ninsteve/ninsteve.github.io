@@ -46,7 +46,21 @@ systems from given data.
 ## Data-Driven Reduced-Order Modeling of Mechanical Systems ##
   
 <p class="text-block">
-UNDER CONSTRUCTION!
+<img class="projectpicddrom" src="/images/dd_rom.png"
+alt="Structured Data-Driven Reduced-Order Modeling">
+Data-driven reduced-order modeling is essential in the construction of compact,
+high-fidelity models from frequency domain data.
+While there exist already unstructured approaches for data-driven modeling from
+data, it is of particular interest to retain the physical structure as in the
+case of structure-preserving model reduction. The main problems arising here
+are, first of all, to enforce the classical mechanical system structure,
+which is typically lost in data obtained from the system’s transfer function
+and second, to receive physically interpretable properties in the resulting
+matrices such as positive definiteness of mass, damping and stiffness.
+In this project, we develop extensions of the barycentric form to the
+case of mechanical systems leading to the extension of known techniques to the
+learning of structured models from frequency domain data such as the
+AAA algorithm, the Loewner framework or vector fitting.
 </p>
   
 ---
