@@ -619,6 +619,22 @@ ol.start li:before, ol.continue li:before {
   }
 }
 
+.projectpiccalearn {
+  display: block;
+  margin-bottom: 10px;
+  float: none;
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include breakpoint($medium-wide) {
+    float: right;
+    max-width: 50%;
+    margin-left: 20px;
+    margin-right: 0px;
+  }
+}
+
 .projectpicsomor {
   display: block;
   margin-bottom: 10px;

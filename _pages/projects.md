@@ -28,7 +28,9 @@ author_profile: true
 ## Context-Aware Learning of Low-Order Controllers ##
   
 <p class="text-block">
-UNDER CONSTRUCTION!
+<p class="text-block">
+<img class="projectpiccalearn" src="/images/context_aware_learning.png"
+alt="Context-Aware Learning Flow Chart">
 </p>
 
 ---
