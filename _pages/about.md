@@ -37,7 +37,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 <table class="eventtable">
   <tr>
     <td style="width:8%"> 28/09/2022 </td>
-    <td> <strong>Published Paper:</strong>
+    <td> <strong>Accepted Paper:</strong>
       Our paper
       <a target="blank_"
       href="https://doi.org/10.48550/arXiv.2201.06518">"Structured model order

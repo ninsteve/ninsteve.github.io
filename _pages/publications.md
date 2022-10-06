@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (7)</a>
+  <a href="#submitted">Submitted Articles (6)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (9)</a>
@@ -21,7 +21,7 @@ author_profile: true
   <a href="#bookchapters">Book Chapters (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#proceedings">Proceedings (8)</a>
+  <a href="#proceedings">Proceedings (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#software">Software (9)</a>
@@ -105,17 +105,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5836047">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
-1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
-    target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">Structured
-    vector fitting framework for mechanical systems</a>. e-print 2110.09220,
-    arXiv, 2021. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">10.48550/arXiv.2110.09220</a><br />
-    <button id="WerGG21-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.5539944">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
@@ -268,6 +257,23 @@ found at the end of my
 ---
 
 ## <a name="proceedings"></a>Proceedings ##
+
+1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
+    target="blank_"
+    href="https://doi.org/10.1016/j.ifacol.2022.09.089">Structured vector
+    fitting framework for mechanical systems</a>.
+    <i>IFAC-Pap.</i>, 55(20):163&ndash;168, 2022.
+    10th Vienna International Conference on Mathematical Modelling {MATHMOD}
+    2022.
+    doi:<a target="blank_" href="https://doi.org/10.1016/j.ifacol.2022.09.089">10.1016/j.ifacol.2022.09.089</a><br />
+    <button id="WerGG22-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.5539944">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2019-fa-1.30">
@@ -276,7 +282,7 @@ found at the end of my
     Woittennek, editors, <i>Tagungsband GMA-FA 1.30 'Modellbildung,
     Identifikation und Simulation in der Automatisierungstechnik' und
     GMA-FA 1.40 'Systemtheorie und Regelungstechnik', Workshops in Anif,
-    Salzburg, 23.-27.09.2019, pages 460&ndash;474, 2019.<br />
+    Salzburg, 23.-27.09.2019</i>, pages 460&ndash;474, 2019.<br />
     <button id="BenW19d-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
@@ -285,7 +291,7 @@ found at the end of my
     Woittennek, editors, <i>Tagungsband GMA-FA 1.30 'Modellbildung,
     Identifikation und Simulation in der Automatisierungstechnik' und
     GMA-FA 1.40 'Systemtheorie und Regelungstechnik', Workshops in Anif,
-    Salzburg, 23.-27.09.2019, pages 337&ndash;342, 2019.<br />
+    Salzburg, 23.-27.09.2019</i>, pages 337&ndash;342, 2019.<br />
     <button id="BenW19c-pop" class="btn btn--inverse">BibTeX</button>
     
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
