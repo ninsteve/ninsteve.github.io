@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (6)</a>
+  <a href="#submitted">Submitted Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (9)</a>
+  <a href="#journal">Journal Articles (10)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (2)</a>
@@ -95,18 +95,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">Structured
-    model order reduction for vibro-acoustic problems using interpolation and
-    balancing methods</a>.
-    e-print 2201.06518, arXiv, 2022. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">10.48550/arXiv.2201.06518</a><br />
-    <button id="AumW22-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.5836047">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2010.06331">Structure-preserving model
@@ -121,6 +109,18 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">Structured
+    model order reduction for vibro-acoustic problems using interpolation and
+    balancing methods</a>.
+    <i>J. Sound Vib.</i>, page 117363, 2022.
+    doi:<a target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">10.1016/j.jsv.2022.117363</a><br />
+    <button id="AumW22-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.6806016">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">A

@@ -40,7 +40,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
     <td> <strong>Accepted Paper:</strong>
       Our paper
       <a target="blank_"
-      href="https://doi.org/10.48550/arXiv.2201.06518">"Structured model order
+      href="https://doi.org/10.1016/j.jsv.2022.117363">"Structured model order
       reduction for vibro-acoustic problems using interpolation and balancing
       methods"</a> has been accepted for publication in the <a target="blank_"
       href="https://www.sciencedirect.com/journal/journal-of-sound-and-vibration/vol/517/suppl/C">
