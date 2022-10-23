@@ -114,7 +114,7 @@ found at the end of my
     target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">Structured
     model order reduction for vibro-acoustic problems using interpolation and
     balancing methods</a>.
-    <i>J. Sound Vib.</i>, page 117363, 2022.
+    <i>J. Sound Vib.</i>, 543:117363, 2023.
     doi:<a target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">10.1016/j.jsv.2022.117363</a><br />
     <button id="AumW22-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
