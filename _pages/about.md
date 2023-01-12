@@ -32,9 +32,9 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 (MathCoRe)"</a>.
 </p>
 
-## Latest News ##
+<!-- ## Latest News ##
 
-<!-- <table class="eventtable">
+<table class="eventtable">
   <tr>
     <td style="width:8%"> 28/09/2022 </td>
     <td> <strong>Accepted Paper:</strong>
