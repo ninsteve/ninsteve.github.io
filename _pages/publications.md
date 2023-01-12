@@ -110,6 +110,18 @@ found at the end of my
 
 ## <a name="journal"></a>Journal Articles ##
 
+1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">A
+    low-rank solution method for Riccati equations with indefinite quadratic
+    terms</a>.
+    <i>Numer. Algorithms</i>, 92(2):1083&ndash;1103, 2023.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">10.1007/s11075-022-01331-w</a><br />
+    <button id="BenHW23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.6308400">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">Structured
     model order reduction for vibro-acoustic problems using interpolation and
@@ -120,18 +132,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.6806016">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
-1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">A
-    low-rank solution method for Riccati equations with indefinite quadratic
-    terms</a>.
-    <i>Numer. Algorithms</i>, 2022.
-    doi:<a target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">10.1007/s11075-022-01331-w</a><br />
-    <button id="BenHW22a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.6308400">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a

@@ -34,7 +34,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 
 ## Latest News ##
 
-<table class="eventtable">
+<!-- <table class="eventtable">
   <tr>
     <td style="width:8%"> 28/09/2022 </td>
     <td> <strong>Accepted Paper:</strong>
@@ -89,4 +89,4 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
       robust controller design with gradient sampling"</a>.
     </td>
   </tr>
-</table>
+</table> -->
