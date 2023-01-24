@@ -115,6 +115,23 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.7530566">Code, data and results for
+    numerical experiments in &ldquo;Context-aware controller inference for
+    stabilizing dynamical systems from scarce data&rdquo;
+    (version 1.1)</a>,
+    January 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7530566">10.5281/zenodo.7530566</a><br />
+    <button id="supWer23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.6806016">Code, data and results for
     numerical experiments in &ldquo;Structured model order reduction for
@@ -207,7 +224,7 @@ author_profile: true
     (version 1.0)</a>,
     February 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">10.5281/zenodo.5902997</a><br />
     <button id="supWer22-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474"><button
+    <a target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">

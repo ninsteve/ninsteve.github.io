@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (5)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (10)</a>
+  <a href="#journal">Journal Articles (11)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (2)</a>
@@ -57,7 +57,7 @@ found at the end of my
     <button id="WerP22a-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049">
     <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.6567552">
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.7530566">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
@@ -84,17 +84,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.6403121">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
-    target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">On the
-    sample complexity of stabilizing linear dynamical systems from data</a>.
-    e-print 2203.00474, arXiv, 2022. Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">10.48550/arXiv.2203.00474</a><br />
-    <button id="WerP22-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2010.06331">Structure-preserving model
@@ -110,6 +99,29 @@ found at the end of my
 
 ## <a name="journal"></a>Journal Articles ##
 
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">On the
+    sample complexity of stabilizing linear dynamical systems from data</a>.
+    <i>Found. Comput. Math.</i>, 2023.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">10.1007/s10208-023-09605-y</a><br />
+    <button id="WerP23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+
+1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">A
+    low-rank solution method for Riccati equations with indefinite quadratic
+    terms</a>.
+    <i>Numer. Algorithms</i>, 92(2):1083&ndash;1103, 2023.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">10.1007/s11075-022-01331-w</a><br />
+    <button id="BenHW23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.6308400">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">Structured
     model order reduction for vibro-acoustic problems using interpolation and
@@ -120,18 +132,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.6806016">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
-1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">A
-    low-rank solution method for Riccati equations with indefinite quadratic
-    terms</a>.
-    <i>Numer. Algorithms</i>, 2022.
-    doi:<a target="blank_" href="https://doi.org/10.1007/s11075-022-01331-w">10.1007/s11075-022-01331-w</a><br />
-    <button id="BenHW22a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2111.06516">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.6308400">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
