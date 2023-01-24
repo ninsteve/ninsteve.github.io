@@ -32,7 +32,7 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 (MathCoRe)"</a>.
 </p>
 
-## Latest News ##
+<!-- ## Latest News ##
 
 <table class="eventtable">
   <tr>
@@ -89,4 +89,4 @@ href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
       robust controller design with gradient sampling"</a>.
     </td>
   </tr>
-</table>
+</table> -->

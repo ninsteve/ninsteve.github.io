@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (31)</a>
+  <a href="#talks">Talks (32)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (7)</a>
@@ -36,6 +36,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 04/01/2023 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/18942">Learning mechanical systems using structured barycentric forms</a></strong>,
+    <i>Joint Mathematics Meetings (JMM 2023)</i>,
+    Boston, MA, USA, (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 27/09/2022 </td>
     <td>
