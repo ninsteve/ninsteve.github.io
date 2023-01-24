@@ -128,7 +128,7 @@ found at the end of my
     balancing methods</a>.
     <i>J. Sound Vib.</i>, 543:117363, 2023.
     doi:<a target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">10.1016/j.jsv.2022.117363</a><br />
-    <button id="AumW22-pop" class="btn btn--inverse">BibTeX</button>
+    <button id="AumW23-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.6806016">
