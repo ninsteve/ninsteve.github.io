@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (32)</a>
+  <a href="#talks">Talks (33)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (7)</a>
@@ -36,6 +36,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 30/01/2023 </td>
+    <td>
+    <strong>Context-aware learning of controllers for stabilizing dynamical systems</strong>,
+    <i>Virginia Tech</i>,
+    Blacksburg, VA, USA, (invited talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 04/01/2023 </td>
     <td>

@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (11)</a>
+  <a href="#journal">Journal Articles (12)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (2)</a>
@@ -47,18 +47,6 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
-
-1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
-    target="blank_"
-    href="https://doi.org/10.48550/arXiv.2207.11049">Context-aware controller
-    inference for stabilizing dynamical systems from scarce data</a>.
-    e-print 2207.11049, arXiv, 2022. Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049">10.48550/arXiv.2207.11049</a><br />
-    <button id="WerP22a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.7530566">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
@@ -98,6 +86,18 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_"
+    href="https://doi.org/10.1098/rspa.2022.0506">Context-aware controller
+    inference for stabilizing dynamical systems from scarce data</a>.
+    <i>Proc. R. Soc. A: Math. Phys. Eng. Sci.</i>, 479(2270):20220506, 2023.
+    doi:<a target="blank_" href="https://doi.org/10.1098/rspa.2022.0506">10.1098/rspa.2022.0506</a><br />
+    <button id="WerP23a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.7530566">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
     target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">On the

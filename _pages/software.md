@@ -122,7 +122,7 @@ author_profile: true
     (version 1.1)</a>,
     January 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7530566">10.5281/zenodo.7530566</a><br />
     <button id="supWer23-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049"><button
+    <a target="blank_" href="https://doi.org/10.1098/rspa.2022.0506"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -185,7 +185,7 @@ author_profile: true
 
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.6403121">Code, data and results for
-    numerical experiments in &ldquo;Multi-fidelity robust controller design
+    numerical experiments in &ldquo;Multifidelity robust controller design
     with gradient sampling&rdquo;
     (version 1.0)</a>,
     May 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.6403121">10.5281/zenodo.6403121</a><br />
