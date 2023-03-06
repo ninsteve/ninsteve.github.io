@@ -12,7 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (33)</a>
+  <a href="#ms">Organized minisymposia (1)</a>
+</p>
+<p style="margin-top:0.5em; margin-bottom:0.5em">
+  <a href="#talks">Talks (34)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (7)</a>
@@ -33,9 +36,32 @@ author_profile: true
 
 ---
 
+## <a name="talks"></a>Organized minisymposia ##
+
+<table class="eventtable">
+  <tr>
+    <td style="width:8%"> 27/02/2023 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75415">Goal-Oriented and Context-Aware Scientific Machine Learning</a></strong>,
+    <i>SIAM Conference on Computational Science and Engineering (CSE23)</i>,
+    Amsterdam, The Netherlands, (two sessions).<br>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 27/02/2023 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=124153">Context-Aware Learning of Stabilizing Controllers in the Scarce Data Regime</a></strong>,
+    <i>SIAM Conference on Computational Science and Engineering (CSE23)</i>,
+    Amsterdam, The Netherlands, (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 30/01/2023 </td>
     <td>
