@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (3)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (12)</a>
@@ -47,6 +47,19 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  J. Heiland and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2303.11515">Low-complexity linear
+    parameter-varying approximations of incompressible Navier-Stokes equations
+    for truncated state-dependent Riccati feedback</a>.
+    e-print 2303.11515, arXiv, 2023. Optimization and Control (math.OC).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2303.11515">10.48550/arXiv.2303.11515</a><br />
+    <button id="HeiW23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2303.11515">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.7742469">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
