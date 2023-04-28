@@ -57,7 +57,7 @@ found at the end of my
     <button id="BenGW23-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292">
     <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.7845175">
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.7397069">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  I. V. Gosea, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
