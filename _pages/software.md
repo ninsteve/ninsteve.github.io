@@ -116,6 +116,23 @@ author_profile: true
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.7397069">Code, data and results for
+    numerical experiments in &ldquo;Structured interpolation for multivariate
+    transfer functions of quadratic-bilinear systems&rdquo;
+    (version 1.0)</a>,
+    April 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7397069">10.5281/zenodo.7397069</a><br />
+    <button id="supWer23b-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.7358813">Code, data and results for
     numerical experiments in &ldquo;Structured barycentric forms for
     interpolation-based data-driven reduced modeling of second-order
@@ -226,7 +243,7 @@ author_profile: true
     (version 1.0)</a>,
     May 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.6403121">10.5281/zenodo.6403121</a><br />
     <button id="supWer22b-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2205.15050"><button
+    <a target="blank_" href="https://doi.org/10.1137/22M1500137"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">

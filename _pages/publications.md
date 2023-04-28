@@ -15,7 +15,7 @@ author_profile: true
   <a href="#submitted">Submitted Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (12)</a>
+  <a href="#journal">Journal Articles (13)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (2)</a>
@@ -47,6 +47,18 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2304.14292">Structured interpolation
+    for multivariate transfer functions of quadratic-bilinear systems</a>.
+    e-print 2304.14292, arXiv, 2023. Numerical Analysis (math.NA).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292">10.48550/arXiv.2304.14292</a><br />
+    <button id="BenGW23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.7845175">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  I. V. Gosea, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
@@ -112,6 +124,18 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  <strong>S. W. R. Werner</strong>, M. L. Overton, and B. Peherstorfer. <a
+    target="blank_"
+    href="https://doi.org/10.1137/22M1500137">Multifidelity robust
+    controller design with gradient sampling</a>.
+    <i>SIAM J. Sci. Comput.</i>, 45(2):A933&ndash;A957, 2023.
+    doi:<a target="blank_" href="https://doi.org/10.1137/22M1500137">10.1137/22M1500137</a><br />
+    <button id="WerOP23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2205.15050">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.6403121">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
     target="blank_"
