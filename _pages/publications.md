@@ -111,18 +111,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5793356">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  <strong>S. W. R. Werner</strong>, M. L. Overton, and B. Peherstorfer. <a
-    target="blank_"
-    href="https://doi.org/10.48550/arXiv.2205.15050">Multi-fidelity robust
-    controller design with gradient sampling</a>.
-    e-print 2205.15050, arXiv, 2022. Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2205.15050">10.48550/arXiv.2205.15050</a><br />
-    <button id="WerOP22-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2205.15050">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.6403121">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
     <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2010.06331">Structure-preserving model
