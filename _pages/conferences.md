@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talks and Posters"
-permalink: /talks/
+title: "Conference Contributions"
+permalink: /conferences/
 author_profile: true
 ---
 
@@ -15,17 +15,17 @@ author_profile: true
   <a href="#ms">Organized minisymposia (1)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (34)</a>
+  <a href="#talks">Talks (35)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Posters (7)</a>
+  <a href="#posters">Posters (8)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (4)</a>
 </p>
 
 <div style="width:100%; text-align:center;">
-<iframe src="/talkmap/map.html" class="talkmap"></iframe>
+<iframe src="/conferencemap/map.html" class="conferencemap"></iframe>
 </div>
 <p class="text-block">
   This map is an overview of the different places I attended for conferences,
@@ -36,7 +36,7 @@ author_profile: true
 
 ---
 
-## <a name="talks"></a>Organized minisymposia ##
+## <a name="ms"></a>Organized minisymposia ##
 
 <table class="eventtable">
   <tr>
@@ -54,6 +54,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 25/05/2023 </td>
+    <td>
+    <strong><a target="blank_" href="https://personal.math.vt.edu/borggajt/nlromc/schedule.html">Context-aware learning for stabilizing dynamical systems from scarce data</a></strong>,
+    <i>Workshop and Conference on Nonlinear Model Reduction for Control</i>,
+    Blacksburg, VA, USA.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 27/02/2023 </td>
     <td>
@@ -393,6 +401,15 @@ author_profile: true
 ## <a name="posters"></a>Posters ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 06/06/2023 </td>
+    <td>
+      <strong><a target="blank_" 
+      href="https://icerm.brown.edu/topical_workshops/tw-23-msml/">CaCI: Context-aware Controller Inference for Stabilizing Dynamical Systems</a></strong>,
+      <i>Mathematical and Scientific Machine Learning (MSML)</i>,
+      Providence, RI, USA.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 28/09/2022 </td>
     <td>
