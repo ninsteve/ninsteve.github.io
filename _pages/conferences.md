@@ -25,7 +25,7 @@ author_profile: true
 </p>
 
 <div style="width:100%; text-align:center;">
-<iframe src="/conferencemap/map.html" class="conferencemap"></iframe>
+<iframe src="/talkmap/map.html" class="talkmap"></iframe>
 </div>
 <p class="text-block">
   This map is an overview of the different places I attended for conferences,
