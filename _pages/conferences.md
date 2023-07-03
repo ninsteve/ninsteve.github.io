@@ -15,13 +15,13 @@ author_profile: true
   <a href="#ms">Organized minisymposia (1)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (35)</a>
+  <a href="#talks">Talks (36)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (8)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#participation">Additional participation (4)</a>
+  <a href="#participation">Additional participation (5)</a>
 </p>
 
 <div style="width:100%; text-align:center;">
@@ -54,6 +54,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 26/06/2023 </td>
+    <td>
+    <strong>Context-aware learning for stabilizing dynamical systems from scarce data</strong>,
+    <i>Applied Mathematics Seminar, FernUni Schweiz</i>,
+    Brig-Glis, Switzerland, (invited seminar talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 25/05/2023 </td>
     <td>
@@ -489,6 +497,16 @@ author_profile: true
 ## <a name="participation"></a>Additional participation ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 29/06/2023 </td>
+    <td>
+      <i><a target="blank_" 
+      href="https://www.mpi-magdeburg.mpg.de/symposium-25-jahre-mpi-md-2023">Dynamics
+      of Complex Technical Systems: Current Status and Future Perspectives
+      (25 Years Max Planck Institute Magdeburg)</a></i>,
+      Magdeburg, Germany.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 12/06/2022&ndash;<br>17/06/2022 </td>
     <td>
