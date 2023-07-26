@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Steffen W. R. Werner"
 title_separator          : "-"
 name                     : &name "Steffen W. R. Werner"
-description              : &description "Postdoctoral Associate at Courant Institute of Mathematical Sciences, New York University, USA"
+description              : &description "Assistant Professor at Department of Mathematics and Division of Computational Modeling and Data Analytics, Virginia Tech, USA"
 url                      : https://ninsteve.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ninsteve/ninsteve.github.io"
@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Steffen W. R. Werner"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Associate at Courant Institute, New York University"
-  location_str     : "251 Mercer Street"
-  location_plc     : "New York, NY 10012"
+  bio              : "Assistant Professor at Virginia Tech"
+  location_str     : "460 McBryde Hall"
+  location_plc     : "Blacksburg, VA 42061"
   location_ctr     : "USA"
   location         : 
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=F2v1uKAAAAAJ&hl=en"
-  email            : "steffen.werner@nyu.edu"
+  email            : "steffen.werner@vt.edu"
   researchgate     :
   uri              :
   bitbucket        :
