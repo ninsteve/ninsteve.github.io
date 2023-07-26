@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Steffen W. R. Werner"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at Virginia Tech"
+  bio              : "Assistant Professor at Virginia Tech, Blacksburg, USA"
   location_str     : "460 McBryde Hall"
-  location_plc     : "Blacksburg, VA 42061"
+  location_plc     : "Blacksburg, VA 24061"
   location_ctr     : "USA"
   location         : 
   employer         : 
