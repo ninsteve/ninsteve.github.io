@@ -115,6 +115,24 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  J. Heiland and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.7977616">Code, data and results for
+    numerical experiments in &ldquo;Low-complexity linear
+    parameter-varying approximations of incompressible Navier-Stokes equations
+    for truncated state-dependent Riccati feedback&rdquo; (version 2.0)</a>,
+    March 2023. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.7977616">10.5281/zenodo.7977616</a><br />
+    <button id="supHeiW23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1109/LCSYS.2023.3291231"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg"
+    alt="License: MIT" class="badge"></a>
+
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.7845175">Code, data and results for
     numerical experiments in &ldquo;Adaptive choice of near-optimal expansion
