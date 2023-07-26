@@ -120,7 +120,7 @@ author_profile: true
     numerical experiments in &ldquo;Low-complexity linear
     parameter-varying approximations of incompressible Navier-Stokes equations
     for truncated state-dependent Riccati feedback&rdquo; (version 2.0)</a>,
-    March 2023. doi:<a
+    May 2023. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.7977616">10.5281/zenodo.7977616</a><br />
     <button id="supHeiW23-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.1109/LCSYS.2023.3291231"><button
