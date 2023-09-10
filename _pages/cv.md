@@ -22,7 +22,15 @@ Born September 6, 1992 in Stendal, Germany.
 
 <table class="eventtable">
   <tr>
-    <td style="width:20%"> since 09/2021 </td>
+    <td style="width:20%"> since 08/2023 </td>
+    <td>
+      <b>Assistant professor</b>, Department of Mathematics and Divison
+      of Computational Modeling and Data Analytics, Virginia Tech, Blacksburg,
+      USA.
+    </td>
+  </tr>
+  <tr>
+    <td style="width:20%"> 09/2021&ndash;08/2023 </td>
     <td>
       <b>Postdoctoral associate</b>, Department of Computer Science, Courant
       Institute of Mathematical Sciences, New York Univsersity, New York, USA.
