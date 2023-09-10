@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organized minisymposia (1)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (36)</a>
+  <a href="#talks">Talks (37)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (8)</a>
@@ -54,6 +54,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 08/09/2023 </td>
+    <td>
+    <strong>Learning mechanical systems using structured barycentric forms</strong>,
+    <i>Applied Numerical Analysis Seminar, Virginia Tech</i>,
+    Blacksburg, VA, USA.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 26/06/2023 </td>
     <td>
