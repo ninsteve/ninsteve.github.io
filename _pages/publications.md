@@ -405,7 +405,7 @@ found at the end of my
 ---
 
 ## <a name="software"></a>Software ##
-1.  P. Benner, J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+1.  P. Benner, J. Saak, and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.7072831">MORLAB &ndash; Model Order
     Reduction LABoratory (version 6.0)</a>, September 2023.
     See also: <a target="blank_" href="https://www.mpi-magdeburg.mpg.de/projects/morlab">
