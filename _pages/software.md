@@ -18,21 +18,21 @@ author_profile: true
   href="https://en.wikipedia.org/wiki/Open-source_software">
   <img src="../images/open_source_symbol.png" alt="Open Source Software"
   class="opensource"></a>
-  <a href="https://www.gnu.org/licenses/agpl-3.0">
-  <img src="https://img.shields.io/badge/License-AGPLv3+-blue.svg"
-  alt="License: AGPLv3+" class="badge"></a>
-  &nbsp;*Latest Version: 5.0*<br/>
-  This toolbox is a collection of MATLAB routines for model order reduction of 
-  dynamical systems based on the solution of matrix equations.
-  The implementation is based on spectral projection methods, e.g., methods 
-  based on the matrix sign function and the matrix disk function.
+  <a href="https://opensource.org/licenses/BSD-2-Clause">
+  <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+  alt="License: BSD 2-Clause" class="badge"></a>
+  &nbsp;*Latest Version: 6.0*<br/>
+  This toolbox is a collection of MATLAB and Octave routines for model order
+  reduction of dynamical systems. The implementation is based on spectral
+  projection methods, like the matrix sign function and the matrix disk
+  function, and on iterative low-rank solvers for large-scale sparse systems.
   For details and references see the official <a target="_blank" 
   href="https://www.mpi-magdeburg.mpg.de/projects/morlab">project website</a>, 
   the <a target="_blank" 
   href="https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/MORLAB">MORwiki 
   entry</a> and the latest <a target="_blank" 
-  href="https://doi.org/10.5281/zenodo.842658">Zenodo upload</a>.<br/>
-  <a target="blank_" href="https://doi.org/10.5281/zenodo.842658">
+  href="https://doi.org/10.5281/zenodo.7072831">Zenodo upload</a>.<br/>
+  <a target="blank_" href="https://doi.org/10.5281/zenodo.7072831">
   <button class="btn btn--inverse">Download</button></a>
   <a target="blank_" href="https://doi.org/10.1007/978-3-030-72983-7_19">
   <button class="btn btn--inverse">Documentation</button></a>
@@ -102,14 +102,15 @@ author_profile: true
   <a href="https://opensource.org/licenses/BSD-2-Clause">
   <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
   alt="License: BSD 2-Clause" class="badge"></a><br/>
-  From version 1.0.1 up to version 2.2, I made continuously updates in the 
+  From version 1.0.1 up to version 3.0, I made continuously updates in the 
   MATLAB version of the <a target="_blank" 
   href="https://www.mpi-magdeburg.mpg.de/projects/mess">M.E.S.S. library</a>
   involving among other an implementation of the Riccati iteration, the RADI
   method and several bug fixes.
   For more details on my contributions see the <a target="_blank"
-  href="https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/-/blob/master/CONTRIBUTORS.md">contributors file</a> and checkout the latest version on
-  <a target="_blank" href="https://doi.org/10.5281/zenodo.632897">Zenodo</a>.
+  href="https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/-/blob/master/CONTRIBUTORS.md">contributors file</a>
+  and checkout the latest version on
+  <a target="_blank" href="https://doi.org/10.5281/zenodo.7701424">Zenodo</a>.
 
 ---
 

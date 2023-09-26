@@ -24,7 +24,7 @@ author_profile: true
   <a href="#proceedings">Proceedings (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#software">Software (9)</a>
+  <a href="#software">Software (10)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#theses">Theses (3)</a>
@@ -405,6 +405,21 @@ found at the end of my
 ---
 
 ## <a name="software"></a>Software ##
+1.  P. Benner, J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.7072831">MORLAB &ndash; Model Order
+    Reduction LABoratory (version 6.0)</a>, September 2023.
+    See also: <a target="blank_" href="https://www.mpi-magdeburg.mpg.de/projects/morlab">
+    https://www.mpi-magdeburg.mpg.de/projects/morlab</a>.
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7072831">10.5281/zenodo.7072831</a><br />
+    <button id="BenSW23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.4600763">SOLBT &ndash; Limited balanced 
     truncation for large-scale sparse second-order systems (version 3.0)</a>, 
