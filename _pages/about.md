@@ -11,14 +11,20 @@ redirect_from:
 <p class="text-block">
 <img class="mainprofilepic" src="/images/profile_large.jpg"
 alt="Full Profile picture">
-My name is <strong>Steffen W. R. Werner</strong> and I am postdoctoral associate
-in the Department of Computer Science at the <a target="blank_"
-href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences,
-New York University</a>.
+My name is <strong>Steffen W. R. Werner</strong> and I am an assistant professor
+with the <a target="blank_" href="https://math.vt.edu/">Department of
+Mathematics</a> and the <a target="blank_"
+href= "https://data.science.vt.edu/programs/cmda.html">Division of Computational
+Modeling and Data Analytics</a> at the
+<a target="blank_" href="https://www.vt.edu/">Virginia Polytechnic Institute and
+State University (Virginia Tech)</a>.
 There, I am working on projects involving scientific machine learning, numerical
 linear algebra, model order reduction and optimization.
 </p>
 <p class="text-block">
+Before that, I was a postdoctoral associate in the Department of Computer
+Science at the <a target="blank_" href="https://cims.nyu.edu/dynamic/">Courant
+Institute of Mathematical Sciences, New York University</a>.
 I obtained my doctoral degree (Dr. rer. nat.) from the Department of Mathematics
 at the <a target="blank_" href="https://www.uni-magdeburg.de/en/">Otto von
 Guericke University</a> in Magdeburg, Germany, while I work as a doctoral

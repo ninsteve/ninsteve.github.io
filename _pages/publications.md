@@ -12,19 +12,19 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (5)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (14)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#bookchapters">Book Chapters (2)</a>
+  <a href="#bookchapters">Book Chapters (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#proceedings">Proceedings (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#software">Software (9)</a>
+  <a href="#software">Software (10)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#theses">Theses (3)</a>
@@ -97,17 +97,6 @@ found at the end of my
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5793356">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
-
-1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
-    <strong>S. W. R. Werner</strong>. <a target="blank_"
-    href="https://doi.org/10.48550/arXiv.2010.06331">Structure-preserving model
-    reduction for dissipative mechanical systems</a>.
-    e-print 2010.06331, arXiv, 2020.
-    Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2010.06331">10.48550/arXiv.2010.06331</a><br />
-    <button id="BedBDetal20-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2010.06331">
-    <button class="btn btn--inverse">Preprint</button></a>
 
 ---
 
@@ -281,6 +270,20 @@ found at the end of my
 
 ## <a name="bookchapters"></a>Book Chapters ##
 
+1.  R. S. Beddig, P. Benner, I. Dorschky, T. Reis, P. Schwerdtner, M. Voigt, and
+    <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.1007/978-3-031-36143-2_11">Structure-preserving model
+    reduction for dissipative mechanical systems</a>.
+    In P. Eberhard, editor,
+    <i>Calm, Smooth and Smart</i>, volume 102 of
+    <i>Lect. Notes Appl. Comput. Mech.</i>,
+    pages 209&ndash;230.
+    Springer, Cham, 2024.
+    doi:<a target="blank_" href="https://doi.org/10.1007/978-3-031-36143-2_11">10.1007/978-3-031-36143-2_11</a><br />
+    <button id="BedBDetal24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2010.06331">
+    <button class="btn btn--inverse">Preprint</button></a>
+
 1. P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.1007/978-3-030-72983-7_19">MORLAB&mdash;The Model 
     Order Reduction LABoratory</a>. In P. Benner, T. Breiten, H. Faßbender,
@@ -402,6 +405,21 @@ found at the end of my
 ---
 
 ## <a name="software"></a>Software ##
+1.  P. Benner, J. Saak, and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.7072831">MORLAB &ndash; Model Order
+    Reduction LABoratory (version 6.0)</a>, September 2023.
+    See also: <a target="blank_" href="https://www.mpi-magdeburg.mpg.de/projects/morlab">
+    https://www.mpi-magdeburg.mpg.de/projects/morlab</a>.
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7072831">10.5281/zenodo.7072831</a><br />
+    <button id="BenSW23-pop" class="btn btn--inverse">BibTeX</button>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  P. Benner and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.4600763">SOLBT &ndash; Limited balanced 
     truncation for large-scale sparse second-order systems (version 3.0)</a>, 
