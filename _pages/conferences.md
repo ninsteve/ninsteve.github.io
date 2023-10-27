@@ -18,7 +18,7 @@ author_profile: true
   <a href="#talks">Talks (37)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Posters (8)</a>
+  <a href="#posters">Posters (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (5)</a>
@@ -417,6 +417,14 @@ author_profile: true
 ## <a name="posters"></a>Posters ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 25/10/2023 </td>
+    <td>
+      <strong>Scientific Computing & Learning Complex Dynamical Systems</strong>,
+      <i>College of Science Undergraduate Research Mixer</i>,
+      Blacksburg, VA, USA.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 06/06/2023 </td>
     <td>
