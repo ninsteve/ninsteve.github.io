@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (14)</a>
+  <a href="#journal">Journal Articles (15)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -86,21 +86,21 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.7358813">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
+---
+
+## <a name="journal"></a>Journal Articles ##
+
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
-    href="https://doi.org/10.48550/arXiv.2206.01657">A unifying framework for
+    href="https://doi.org/10.1007/s00211-023-01380-w">A unifying framework for
     tangential interpolation of structured bilinear control systems</a>.
-    e-print 2206.01657, arXiv, 2022. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2206.01657">10.48550/arXiv.2206.01657</a><br />
-    <button id="BenGW22-pop" class="btn btn--inverse">BibTeX</button>
+    <i>Numer. Math.</i>, 2023.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s00211-023-01380-w">10.1007/s00211-023-01380-w</a><br />
+    <button id="BenGW23a-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2206.01657">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.5793356">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
-
----
-
-## <a name="journal"></a>Journal Articles ##
 
 1.  J. Heiland and <strong>S. W. R. Werner</strong>. <a
     target="blank_"

@@ -262,7 +262,7 @@ author_profile: true
     (version 1.0)</a>,
     June 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5793356">10.5281/zenodo.5793356</a><br />
     <button id="supWer22c-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2206.01657"><button
+    <a target="blank_" href="https://doi.org/10.1007/s00211-023-01380-w"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
