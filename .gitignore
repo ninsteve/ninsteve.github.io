@@ -6,3 +6,4 @@ _site/
 *.backup*
 *.kate-swp
 Gemfile.lock
+.DS_Store
