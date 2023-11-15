@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organized minisymposia (1)</a>
+  <a href="#ms">Organizational work (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (37)</a>
+  <a href="#talks">Talks (38)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (9)</a>
@@ -40,9 +40,18 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 04/11/2023 </td>
+    <td>
+    <strong><a target="blank_" href="https://gugercin.math.vt.edu/beattie70th/">Workshop on Model
+    Reduction and Numerical Linear Algebra</a></strong>,
+    Blacksburg, VA, USA, (one day workshop).<br>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 27/02/2023 </td>
     <td>
-    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75415">Goal-Oriented and Context-Aware Scientific Machine Learning</a></strong>,
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75415">Minisymposium on Goal-Oriented and Context-Aware
+    Scientific Machine Learning</a></strong>,
     <i>SIAM Conference on Computational Science and Engineering (CSE23)</i>,
     Amsterdam, The Netherlands, (two sessions).<br>
     </td>
@@ -54,6 +63,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 03/11/2023 </td>
+    <td>
+    <strong>Computational Modeling & Learning Complex Dynamics</strong>,
+    <i>Research Day, Virginia Tech</i>,
+    Blacksburg, VA, USA.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 08/09/2023 </td>
     <td>

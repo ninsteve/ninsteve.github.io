@@ -94,7 +94,7 @@ found at the end of my
     target="blank_"
     href="https://doi.org/10.1007/s00211-023-01380-w">A unifying framework for
     tangential interpolation of structured bilinear control systems</a>.
-    <i>Numer. Math.</i>, 2023.
+    <i>Numer. Math.</i>, 155(3&ndash;4):445&ndash;483, 2023.
     doi:<a target="blank_" href="https://doi.org/10.1007/s00211-023-01380-w">10.1007/s00211-023-01380-w</a><br />
     <button id="BenGW23a-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2206.01657">
