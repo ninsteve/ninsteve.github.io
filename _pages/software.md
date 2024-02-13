@@ -116,6 +116,58 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.10619037">Code, data and results for
+    numerical experiments in &ldquo;Using \\(LDL^{T}\\) factorizations in
+    Newton's method for solving general large-scale algebraic Riccati
+    equations&rdquo;
+    (version 1.0)</a>,
+    February 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10619037">10.5281/zenodo.10619037</a><br />
+    <button id="supAumW23a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2402.06844"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.10435758">Code, data and results for
+    numerical experiments in &ldquo;Adaptive choice of near-optimal expansion
+    points for interpolation-based structure-preserving model reduction&rdquo;
+    (version 1.1)</a>,
+    December 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10435758">10.5281/zenodo.10435758</a><br />
+    <button id="supAumW23a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.10116600">Code, data and results for
+    numerical experiments in &ldquo;Structured interpolation for multivariate
+    transfer functions of quadratic-bilinear systems&rdquo;
+    (version 2.0)</a>,
+    November 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10116600">10.5281/zenodo.10116600</a><br />
+    <button id="supWer23c-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  J. Heiland and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.7977616">Code, data and results for
     numerical experiments in &ldquo;Low-complexity linear
