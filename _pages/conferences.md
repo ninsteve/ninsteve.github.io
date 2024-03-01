@@ -18,7 +18,7 @@ author_profile: true
   <a href="#talks">Talks (38)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Posters (9)</a>
+  <a href="#posters">Posters (8)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (5)</a>
@@ -64,17 +64,17 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
-    <td style="width:8%"> 03/11/2023 </td>
+    <td style="width:8%"> 01/03/2024 </td>
     <td>
-    <strong>Computational Modeling & Learning Complex Dynamics</strong>,
-    <i>Research Day, Virginia Tech</i>,
+    <strong><a target="blank_" href="https://seminar.math.vt.edu/ana/">Structure-Preserving Interpolation of Quadratic-Bilinear Systems</a></strong>,
+    <i>Applied Numerical Analysis Seminar, Virginia Tech</i>,
     Blacksburg, VA, USA.<br>
     </td>
   </tr>
   <tr>
     <td style="width:8%"> 08/09/2023 </td>
     <td>
-    <strong>Learning mechanical systems using structured barycentric forms</strong>,
+    <strong><a target="blank_" href="https://seminar.math.vt.edu/ana/">Learning mechanical systems using structured barycentric forms</a></strong>,
     <i>Applied Numerical Analysis Seminar, Virginia Tech</i>,
     Blacksburg, VA, USA.<br>
     </td>
@@ -131,7 +131,7 @@ author_profile: true
     <td style="width:8%"> 23/09/2022 </td>
     <td>
     <strong><a target="blank_" href="https://more.sciencesconf.org/program/details">Context-aware learning of low-dimensional stabilizing controllers in the scarce data regime</a></strong>,
-    <i>Model Reduction and Surrogate Modeling (MORE)</i>,
+    <i>Model Reduction and Surrogate Modeling (MORe)</i>,
     Berlin, Germany.<br>
     </td>
   </tr>
@@ -435,14 +435,6 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
-    <td style="width:8%"> 25/10/2023 </td>
-    <td>
-      <strong>Scientific Computing & Learning Complex Dynamical Systems</strong>,
-      <i>College of Science Undergraduate Research Mixer</i>,
-      Blacksburg, VA, USA.
-    </td>
-  </tr>
-  <tr>
     <td style="width:8%"> 06/06/2023 </td>
     <td>
       <strong><a target="blank_" 
@@ -465,7 +457,7 @@ author_profile: true
     <td>
       <strong><a target="blank_" 
       href="https://more.sciencesconf.org/program/details">Balancing-related model reduction of large-scale sparse systems in MATLAB and Octave with the MORLAB toolbox</a></strong>,
-      <i>Model Reduction and Surrogate Modeling (MORE)</i>,
+      <i>Model Reduction and Surrogate Modeling (MORe)</i>,
       Berlin, Germany.
     </td>
   </tr>
