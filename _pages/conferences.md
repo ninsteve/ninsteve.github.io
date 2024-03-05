@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (38)</a>
+  <a href="#talks">Talks (39)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (8)</a>
@@ -63,6 +63,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 05/03/2024 </td>
+    <td>
+    <strong>Solving large-scale linear and nonlinear algebraic matrix equations</strong>,
+    <i>Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (CHaRMNET)</i>,
+    (invited online talk)<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 01/03/2024 </td>
     <td>
