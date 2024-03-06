@@ -224,7 +224,7 @@ found at the end of my
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_" href="https://doi.org/10.1016/j.automatica.2021.109799">
     Structure-preserving interpolation for model reduction of parametric 
-    bilinear systems</a>. <i>Automatica J. IFAC</i>, 132:109799, 2021. 
+    bilinear systems</a>. <i>Automatica</i>, 132:109799, 2021. 
     doi:<a target="blank_" href="https://doi.org/10.1016/j.automatica.2021.109799">10.1016/j.automatica.2021.109799</a><br />
     <button id="BenGW21-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2007.11269">
