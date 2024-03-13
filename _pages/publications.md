@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (15)</a>
+  <a href="#journal">Journal Articles (16)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -74,18 +74,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.7845175">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_"
-    href="https://doi.org/10.48550/arXiv.2304.14292">Structured interpolation
-    for multivariate transfer functions of quadratic-bilinear systems</a>.
-    e-print 2304.14292, arXiv, 2023. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292">10.48550/arXiv.2304.14292</a><br />
-    <button id="BenGW23-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.7397069">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  I. V. Gosea, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
     href="https://doi.org/10.48550/arXiv.2303.12576">Structured barycentric
@@ -102,6 +90,21 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.1007/s10444-024-10109-8">Structured interpolation
+    for multivariate transfer functions of quadratic-bilinear systems</a>.
+    <i>Adv. Comput. Math.</i>, 50(2):18, 2024.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10444-024-10109-8">10.1007/s10444-024-10109-8</a><br />
+    <button id="BenGW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2304.14292">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.10116600">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
