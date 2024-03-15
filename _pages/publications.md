@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (3)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (16)</a>
@@ -47,6 +47,19 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2403.08894">Interpolatory model order
+    reduction of large-scale dynamical systems with root mean squared error
+    measures</a>.
+    e-print 2403.08894, arXiv, 2024. Numerical Analysis (math.NA).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2403.08894">10.48550/arXiv.2403.08894</a><br />
+    <button id="ReiW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2403.08894">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.10729524">
+    <button class="btn btn--inverse">Code & Results</button></a>
 
 1.  J. Saak and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
