@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (39)</a>
+  <a href="#talks">Talks (40)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (8)</a>
@@ -63,6 +63,14 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 22/03/2024 </td>
+    <td>
+    <strong><a target="blank_" href="https://jahrestagung.gamm.org/wp-content/uploads/2024/03/BookOfAbstracts-2.pdf">Structure-Preserving Interpolation of Quadratic-Bilinear Systems via Regular Multivariate Transfer Functions</a></strong>,
+    <i>94th GAMM Annual Meeting, Section &quot;Dynamics and Control&quot;</i>,
+    Magdeburg, Germany.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 05/03/2024 </td>
     <td>
@@ -216,7 +224,7 @@ author_profile: true
     <td style="width:8%"> 16/03/2021 </td>
     <td>
       <strong><a target="blank_" href="https://hessenbox.uni-kassel.de/dl/fiUVgdpGYRwJeGzRN2jt5n2o/bookofabstracts2021.pdf?inline">Structure-Preserving Model Reduction for Bilinear Systems</a></strong>,
-      <i>91st GAMM Annual Meeting, Section ``Dynamics and Control'' (GAMM 2020@21)</i>,
+      <i>91st GAMM Annual Meeting, Section &quot;Dynamics and Control&quot; (GAMM 2020@21)</i>,
       Kassel, Germany, (online conference).
     </td>
   </tr>

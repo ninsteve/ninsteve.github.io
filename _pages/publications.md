@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (16)</a>
@@ -47,6 +47,19 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2403.18044">Deep polytopic
+    autoencoders for low-dimensional linear parameter-varying approximations
+    and nonlinear feedback design</a>.
+    e-print 2403.18044, arXiv, 2024. Optimization and Control (math.OC).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2403.18044">10.48550/arXiv.2403.18044</a><br />
+    <button id="HeiKW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2403.18044">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.10783695">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a
     target="blank_"

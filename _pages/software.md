@@ -116,6 +116,24 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.10783695">Code, data and results for
+    numerical experiments in &ldquo;Deep polytopic autoencoders for
+    low-dimensional linear parameter-varying approximations and nonlinear
+    feedback design&rdquo; (version 1.0)</a>,
+    March 2024. doi:<a
+    target="blank_" href="https://doi.org/10.5281/zenodo.10783695">10.5281/zenodo.10783695</a><br />
+    <button id="supHeiKW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2403.18044"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg"
+    alt="License: MIT" class="badge"></a>
+
 1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.10729524">Code and results for
     numerical experiments in &ldquo;Interpolatory model order reduction of
