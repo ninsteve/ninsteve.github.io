@@ -116,6 +116,23 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.10945494">Code, data and results for
+    numerical experiments in &ldquo;Adaptive choice of near-optimal expansion
+    points for interpolation-based structure-preserving model reduction&rdquo;
+    (version 1.2)</a>,
+    April 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10945494">10.5281/zenodo.10945494</a><br />
+    <button id="supAumW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.10783695">Code, data and results for
     numerical experiments in &ldquo;Deep polytopic autoencoders for
@@ -263,7 +280,7 @@ author_profile: true
     (version 1.0)</a>,
     March 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7358813">10.5281/zenodo.7358813</a><br />
     <button id="supWer23a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2303.12576"><button
+    <a target="blank_" href="https://doi.org/10.1007/s10444-024-10118-7"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -281,7 +298,7 @@ author_profile: true
     March 2023. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.7742469">10.5281/zenodo.7742469</a><br />
     <button id="supHeiW23-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2303.11515"><button
+    <a target="blank_" href="https://doi.org/10.1109/LCSYS.2023.3291231"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -332,7 +349,7 @@ author_profile: true
     (version 1.0)</a>,
     July 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.6567552">10.5281/zenodo.6567552</a><br />
     <button id="supWer22c-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049"><button
+    <a target="blank_" href="https://doi.org/10.1098/rspa.2022.0506"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -417,7 +434,7 @@ author_profile: true
     (version 1.0)</a>,
     January 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5836047">10.5281/zenodo.5836047</a><br />
     <button id="supAumW22-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2201.06518"><button
+    <a target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -449,7 +466,7 @@ author_profile: true
     mechanical systems&rdquo; (version 1.0)</a>, October 2021. doi:<a
     target="blank_" href="https://doi.org/10.5281/zenodo.5539944">10.5281/zenodo.5539944</a><br />
     <button id="supWer21b-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220"><button
+    <a target="blank_" href="https://doi.org/10.1016/j.ifacol.2022.09.089"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
