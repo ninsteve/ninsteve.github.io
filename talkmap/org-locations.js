@@ -80,6 +80,11 @@ var addressPoints = [
     18.6890
   ],
   [
+    "Paris, FR",
+    48.84681,
+    2.3554
+  ],
+  [
     "Providence, US",
     41.8239,
     -71.4128

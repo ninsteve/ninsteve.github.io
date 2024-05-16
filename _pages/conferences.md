@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (2)</a>
+  <a href="#ms">Organizational work (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#talks">Talks (40)</a>
@@ -36,9 +36,18 @@ author_profile: true
 
 ---
 
-## <a name="ms"></a>Organized minisymposia ##
+## <a name="ms"></a>Organizational work ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 15/05/2024&ndash;<br>16/05/2024  </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78690">Minisymposium
+    &ldquo;Matrix and Tensor Equations in Action: Simulation, Model
+    Reduction and Scientific Machine Learning&rdquo;</a></strong>,
+    Paris, France, (three sessions).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 04/11/2023 </td>
     <td>
