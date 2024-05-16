@@ -15,10 +15,10 @@ author_profile: true
   <a href="#ms">Organizational work (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (40)</a>
+  <a href="#talks">Talks (41)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Posters (8)</a>
+  <a href="#posters">Posters (9)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (5)</a>
@@ -51,16 +51,16 @@ author_profile: true
   <tr>
     <td style="width:8%"> 04/11/2023 </td>
     <td>
-    <strong><a target="blank_" href="https://gugercin.math.vt.edu/beattie70th/">Workshop on Model
-    Reduction and Numerical Linear Algebra</a></strong>,
+    <strong><a target="blank_" href="https://gugercin.math.vt.edu/beattie70th/">Workshop 
+    &ldquo;Model Reduction and Numerical Linear Algebra&rdquo;</a></strong>,
     Blacksburg, VA, USA, (one day workshop).<br>
     </td>
   </tr>
   <tr>
     <td style="width:8%"> 27/02/2023 </td>
     <td>
-    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75415">Minisymposium on Goal-Oriented and Context-Aware
-    Scientific Machine Learning</a></strong>,
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75415">Minisymposium
+    &ldquo;Goal-Oriented and Context-Aware Scientific Machine Learning&rdquo;</a></strong>,
     <i>SIAM Conference on Computational Science and Engineering (CSE23)</i>,
     Amsterdam, The Netherlands, (two sessions).<br>
     </td>
@@ -72,6 +72,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 15/05/2024 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=134797">Using
+    Indefinite Low-Rank Factorizations for Solving Large-Scale Riccati Equations</a></strong>,
+    <i>SIAM Conference on Applied Linear Algebra (LA24)</i>,
+    Paris, France.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 22/03/2024 </td>
     <td>
@@ -459,6 +468,15 @@ author_profile: true
 ## <a name="posters"></a>Posters ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 13/05/2024 </td>
+    <td>
+      <strong><a target="blank_" 
+      href="https://meetings.siam.org/sess/dsp_talk.cfm?p=136539">Efficiently Computing Solutions to Matrix Equations in MATLAB and Octave</a></strong>,
+      <i>MSIAM Conference on Applied Linear Algebra (LA24)</i>,
+      Paris, France.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 06/06/2023 </td>
     <td>
