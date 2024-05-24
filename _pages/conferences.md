@@ -78,7 +78,7 @@ author_profile: true
     <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=134797">Using
     Indefinite Low-Rank Factorizations for Solving Large-Scale Riccati Equations</a></strong>,
     <i>SIAM Conference on Applied Linear Algebra (LA24)</i>,
-    Paris, France.<br>
+    Paris, France, (invited minisymposium talk).<br>
     </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ author_profile: true
     <td>
     <strong>Solving large-scale linear and nonlinear algebraic matrix equations</strong>,
     <i>Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (CHaRMNET)</i>,
-    (invited online talk)<br>
+    (invited online talk).<br>
     </td>
   </tr>
   <tr>
