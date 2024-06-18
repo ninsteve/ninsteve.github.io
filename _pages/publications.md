@@ -104,6 +104,17 @@ found at the end of my
 
 ## <a name="journal"></a>Journal Articles ##
 
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">On the
+    sample complexity of stabilizing linear dynamical systems from data</a>.
+    <i>Found. Comput. Math.</i>, 24(3):955&ndash;987, 2024.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">10.1007/s10208-023-09605-y</a><br />
+    <button id="WerP24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+
 1.  I. V. Gosea, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
     href="https://doi.org/10.1007/s10444-024-10118-7">Structured barycentric
@@ -182,17 +193,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2207.11049">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.7530566">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
-1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
-    target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">On the
-    sample complexity of stabilizing linear dynamical systems from data</a>.
-    <i>Found. Comput. Math.</i>, 2023.
-    doi:<a target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">10.1007/s10208-023-09605-y</a><br />
-    <button id="WerP23-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2203.00474">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.5902997">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  P. Benner, J. Heiland, and <strong>S. W. R. Werner</strong>. <a
