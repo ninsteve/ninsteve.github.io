@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (17)</a>
@@ -47,6 +47,18 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2407.06418">System stabilization with
+    policy optimization on unstable latent manifolds</a>.
+    e-print 2407.06418, arXiv, 2024. Optimization and Control (math.OC).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2407.06418">10.48550/arXiv.2407.06418</a><br />
+    <button id="WerP24a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2407.06418">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.7897240">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
