@@ -110,7 +110,7 @@ found at the end of my
     model reduction</a>.
     <i>Adv. Comput. Math.</i>, 50(4):79, 2024.
     doi:<a target="blank_" href="https://doi.org/10.1007/s10444-024-10166-z">10.1007/s10444-024-10166-z</a><br />
-    <button id="GosGW24-pop" class="btn btn--inverse">BibTeX</button>
+    <button id="AumW24-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.10945494">
