@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (5)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (17)</a>
+  <a href="#journal">Journal Articles (18)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -99,22 +99,25 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.10619037">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
-    target="blank_"
-    href="https://doi.org/10.48550/arXiv.2305.10806">Adaptive choice of
-    near-optimal expansion points for interpolation-based structure-preserving
-    model reduction</a>.
-    e-print 2305.10806, arXiv, 2023. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806">10.48550/arXiv.2305.10806</a><br />
-    <button id="AumW23a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.7845175">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.1007/s10444-024-10166-z">Adaptive choice of
+    near-optimal expansion points for interpolation-based structure-preserving
+    model reduction</a>.
+    <i>Adv. Comput. Math.</i>, 50(4):79, 2024.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10444-024-10166-z">10.1007/s10444-024-10166-z</a><br />
+    <button id="GosGW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2303.12576">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.10945494">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
     target="blank_" href="https://doi.org/10.1007/s10208-023-09605-y">On the

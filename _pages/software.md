@@ -140,7 +140,7 @@ author_profile: true
     (version 1.2)</a>,
     April 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10945494">10.5281/zenodo.10945494</a><br />
     <button id="supAumW24-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806"><button
+    <a target="blank_" href="https://doi.org/10.1007/s10444-024-10166-z"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -210,7 +210,7 @@ author_profile: true
     (version 1.1)</a>,
     December 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10435758">10.5281/zenodo.10435758</a><br />
     <button id="supAumW23a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806"><button
+    <a target="blank_" href="https://doi.org/10.1007/s10444-024-10166-z"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -262,7 +262,7 @@ author_profile: true
     (version 1.0)</a>,
     April 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7845175">10.5281/zenodo.7845175</a><br />
     <button id="supAumW23-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2305.10806"><button
+    <a target="blank_" href="https://doi.org/10.1007/s10444-024-10166-z"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
