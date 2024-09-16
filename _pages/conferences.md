@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (41)</a>
+  <a href="#talks">Talks (42)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (9)</a>
@@ -72,6 +72,18 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 23/07/2024 </td>
+    <td>
+    <strong><a target="blank_" href="https://storage.googleapis.com/usacm_static_shared/wccm2024/WCCM%20Program%20-%20Website.pdf">Adaptive
+    choice of near-optimal interpolation points for structure-preserving model
+    reduction</a></strong>,
+    <i>16th World Congress on Computational Mechanics and
+    4th Pan Amaerican Congress on Computational Mechanics
+    (WCCM-PANACM Vancouver 2024)</i>,
+    Vancouver, British Columbia, Canada, (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 15/05/2024 </td>
     <td>
@@ -473,7 +485,7 @@ author_profile: true
     <td>
       <strong><a target="blank_" 
       href="https://meetings.siam.org/sess/dsp_talk.cfm?p=136539">Efficiently Computing Solutions to Matrix Equations in MATLAB and Octave</a></strong>,
-      <i>MSIAM Conference on Applied Linear Algebra (LA24)</i>,
+      <i>SIAM Conference on Applied Linear Algebra (LA24)</i>,
       Paris, France.
     </td>
   </tr>
