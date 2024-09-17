@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (3)</a>
+  <a href="#ms">Organizational work (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#talks">Talks (42)</a>
@@ -40,12 +40,28 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 23/07/2024  </td>
+    <td>
+    <strong><a target="blank_" href="https://storage.googleapis.com/usacm_static_shared/wccm2024/WCCM%20Program%20-%20Website.pdf">Minisymposium
+    &ldquo;Modeling and learning of structured dynamical systems&rdquo;</a></strong>,
+    <i>16th World Congress on Computational Mechanics and
+    4th Pan Amaerican Congress on Computational Mechanics
+    (WCCM-PANACM Vancouver 2024)</i>,
+    Vancouver, British Columbia, Canada, 
+    Co-organizer: Serkan Gugercin (Virginia Tech),
+    (one session).<br>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 15/05/2024&ndash;<br>16/05/2024  </td>
     <td>
     <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78690">Minisymposium
     &ldquo;Matrix and Tensor Equations in Action: Simulation, Model
     Reduction and Scientific Machine Learning&rdquo;</a></strong>,
-    Paris, France, (three sessions).<br>
+    <i>SIAM Conference on Applied Linear Algebra (LA24)</i>,
+    Paris, France,
+    Co-organizer: Jens Saak (MPI Magdeburg),
+    (three sessions).<br>
     </td>
   </tr>
   <tr>
@@ -53,7 +69,9 @@ author_profile: true
     <td>
     <strong><a target="blank_" href="https://gugercin.math.vt.edu/beattie70th/">Workshop 
     &ldquo;Model Reduction and Numerical Linear Algebra&rdquo;</a></strong>,
-    Blacksburg, VA, USA, (one day workshop).<br>
+    Blacksburg, VA, USA,
+    Co-organizers: Mark Embree, Serkan Gugercin, Agnieszka Miedlar (Virginia Tech),
+    (one day workshop).<br>
     </td>
   </tr>
   <tr>
@@ -62,7 +80,9 @@ author_profile: true
     <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75415">Minisymposium
     &ldquo;Goal-Oriented and Context-Aware Scientific Machine Learning&rdquo;</a></strong>,
     <i>SIAM Conference on Computational Science and Engineering (CSE23)</i>,
-    Amsterdam, The Netherlands, (two sessions).<br>
+    Amsterdam, The Netherlands,
+    Co-organizer: Thomas O'Leary-Roseberry (UT Austin),
+    (two sessions).<br>
     </td>
   </tr>
 </table>
