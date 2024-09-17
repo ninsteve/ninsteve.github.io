@@ -18,7 +18,7 @@ author_profile: true
   <a href="#talks">Talks (43)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Posters (9)</a>
+  <a href="#posters">Posters (10)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (5)</a>
@@ -509,6 +509,15 @@ author_profile: true
 ## <a name="posters"></a>Posters ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 10/09/2024 </td>
+    <td>
+      <strong><a target="blank_" 
+      href="https://more2024.sciencesconf.org/data/pages/MORe_2024_FINAL_09032024_red_1.pdf">Model reduction of large-scale sparse systems in MATLAB and Octave with the MORLAB toolbox</a></strong>,
+      <i>Model Reduction and Surrogate Modeling (MORe2024)</i>,
+      La Jolla, California, USA.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 13/05/2024 </td>
     <td>
