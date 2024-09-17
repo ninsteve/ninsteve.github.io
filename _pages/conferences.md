@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (42)</a>
+  <a href="#talks">Talks (43)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Posters (9)</a>
@@ -92,6 +92,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 13/09/2024 </td>
+    <td>
+    <strong><a target="blank_" href="https://more2024.sciencesconf.org/data/pages/MORe_2024_FINAL_09032024_red_1.pdf">An
+    adaptive data sampling scheme for low-dimensional controller inference</a></strong>,
+    <i>Model Reduction and Surrogate Modeling (MORe2024)</i>,
+    La Jolla, California, USA.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 23/07/2024 </td>
     <td>
