@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (18)</a>
+  <a href="#journal">Journal Articles (19)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -86,22 +86,25 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.10729524">
     <button class="btn btn--inverse">Code & Results</button></a>
 
-1.  J. Saak and <strong>S. W. R. Werner</strong>. <a
-    target="blank_"
-    href="https://doi.org/10.48550/arXiv.2402.06844">Using \\(LDL^{T}\\)
-    factorizations in Newton's method for solving general large-scale
-    algebraic Riccati equations</a>.
-    e-print 2402.06844, arXiv, 2024. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2402.06844">10.48550/arXiv.2402.06844</a><br />
-    <button id="SaaW24-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2402.06844">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.10619037">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  J. Saak and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.1553/etna_vol62s95">Using \\(LDL^{T}\\)
+    factorizations in Newton's method for solving general large-scale
+    algebraic Riccati equations</a>.
+    <i>Electron. Trans. Numer. Anal.</i>, 62:95&ndash;118, 2024.
+    doi:<a target="blank_" href="https://doi.org/10.1553/etna_vol62s95">10.1553/etna_vol62s95</a><br />
+    <button id="SaaW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2402.06844">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.11390499">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  Q. Aumann and <strong>S. W. R. Werner</strong>. <a
     target="blank_"

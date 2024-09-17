@@ -116,6 +116,41 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.11390499">Code, data and results for
+    numerical experiments in &ldquo;Using \\(LDL^{T}\\) factorizations in
+    Newton's method for solving general large-scale algebraic Riccati
+    equations&rdquo;
+    (version 1.1)</a>,
+    June 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.11390499">10.5281/zenodo.11390499</a><br />
+    <button id="supSaaW24a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1553/etna_vol62s95"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.10946483">Code, data and results for
+    numerical experiments in &ldquo;Structure-preserving interpolation of
+    quadratic-bilinear systems via regular multivariate transfer functions&rdquo;
+    (version 1.0)</a>,
+    May 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10946483">10.5281/zenodo.10946483</a><br />
+    <button id="supWer24a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/###################"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.7897240">Code, data and results for
     numerical experiments in &ldquo;System stabilization with policy
@@ -192,8 +227,8 @@ author_profile: true
     equations&rdquo;
     (version 1.0)</a>,
     February 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10619037">10.5281/zenodo.10619037</a><br />
-    <button id="supAumW23a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2402.06844"><button
+    <button id="supSaaW24-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1553/etna_vol62s95"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
