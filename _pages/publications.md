@@ -21,7 +21,7 @@ author_profile: true
   <a href="#bookchapters">Book Chapters (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#proceedings">Proceedings (9)</a>
+  <a href="#proceedings">Proceedings (10)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#software">Software (10)</a>
@@ -374,6 +374,22 @@ found at the end of my
 ---
 
 ## <a name="proceedings"></a>Proceedings ##
+
+1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.1002/pamm.202400048">Structure-preserving
+    interpolation of quadratic-bilinear systems via regular multivariate
+    transfer functions</a>.
+    <i>Proc. Appl. Math. Mech.</i>, 2024.
+    doi:<a target="blank_" href="https://doi.org/10.1002/pamm.202400048">10.1002/pamm.202400048</a><br />
+    <button id="BenGW24a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.10946483">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  <strong>S. W. R. Werner</strong>, I. V. Gosea, and S. Gugercin. <a
     target="blank_"

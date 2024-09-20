@@ -141,7 +141,7 @@ author_profile: true
     (version 1.0)</a>,
     May 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10946483">10.5281/zenodo.10946483</a><br />
     <button id="supWer24a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/###################"><button
+    <a target="blank_" href="https://doi.org/10.1002/pamm.202400048"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
