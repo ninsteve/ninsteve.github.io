@@ -93,6 +93,15 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 30/09/2024 </td>
+    <td>
+    <strong><a target="blank_" href="https://seminar.math.vt.edu/ana/">Adaptive
+    data sampling for low-dimensional controller inference</a></strong>,
+    <i>Applied Numerical Analysis Seminar, Virginia Tech</i>,
+    Blacksburg, VA, USA.<br>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 13/09/2024 </td>
     <td>
     <strong><a target="blank_" href="https://more2024.sciencesconf.org/data/pages/MORe_2024_FINAL_09032024_red_1.pdf">An
