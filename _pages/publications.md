@@ -380,7 +380,7 @@ found at the end of my
     href="https://doi.org/10.1002/pamm.202400048">Structure-preserving
     interpolation of quadratic-bilinear systems via regular multivariate
     transfer functions</a>.
-    <i>Proc. Appl. Math. Mech.</i>, 2024.
+    <i>Proc. Appl. Math. Mech.</i>, 24(3):e202400048, 2024.
     doi:<a target="blank_" href="https://doi.org/10.1002/pamm.202400048">10.1002/pamm.202400048</a><br />
     <button id="BenGW24a-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2110.09220">
