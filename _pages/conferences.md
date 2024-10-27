@@ -15,10 +15,10 @@ author_profile: true
   <a href="#ms">Organizational work (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (43)</a>
+  <a href="#talks">Talks (44)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Posters (10)</a>
+  <a href="#posters">Presented posters (10)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (5)</a>
@@ -92,6 +92,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 21/10/2024 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=139480">Learning
+    Mechanical Systems Via a Structured AAA Algorithm</a></strong>,
+    <i>SIAM Conference on Mathematics of Data Science (MDS24)</i>,
+    Atlanta, GA, USA, (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 30/09/2024 </td>
     <td>
