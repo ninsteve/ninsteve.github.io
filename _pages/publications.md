@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (3)</a>
+  <a href="#submitted">Submitted Articles (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (19)</a>
+  <a href="#journal">Journal Articles (20)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -48,18 +48,6 @@ found at the end of my
 
 ## <a name="submitted"></a>Submitted Articles ##
 
-1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
-    target="blank_"
-    href="https://doi.org/10.48550/arXiv.2407.06418">System stabilization with
-    policy optimization on unstable latent manifolds</a>.
-    e-print 2407.06418, arXiv, 2024. Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2407.06418">10.48550/arXiv.2407.06418</a><br />
-    <button id="WerP24a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2407.06418">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.7897240">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
     href="https://doi.org/10.48550/arXiv.2403.18044">Deep polytopic
@@ -89,6 +77,18 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_"
+    href="https://doi.org/10.1016/j.cma.2024.117483">System stabilization with
+    policy optimization on unstable latent manifolds</a>.
+    <i>Comput. Methods Appl. Mech. Eng.</i>, 433, Part A:117483, 2025.
+    doi:<a target="blank_" href="https://doi.org/10.1016/j.cma.2024.117483">10.1016/j.cma.2024.117483</a><br />
+    <button id="WerP25-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2407.06418">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.7897240">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  J. Saak and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
