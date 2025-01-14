@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (44)</a>
+  <a href="#talks">Talks (45)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -92,6 +92,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 07/01/2025 </td>
+    <td>
+    <strong><a target="blank_" href="https://icerm.brown.edu/program/topical_workshop/tw-25-clmr">From
+    Data to Structure: Learning Mechanical Systems Via Rational Functions</a></strong>,
+    <i>Computational Learning for Model Reduction</i>,
+    ICERM, Providence, RI, USA, (invited talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 21/10/2024 </td>
     <td>
