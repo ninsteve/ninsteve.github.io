@@ -102,7 +102,7 @@ author_profile: true
   <a href="https://opensource.org/licenses/BSD-2-Clause">
   <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
   alt="License: BSD 2-Clause" class="badge"></a><br/>
-  From version 1.0.1 up to version 3.0, I made continuously updates in the 
+  From version 1.0.1 up to version 3.1, I made continuously updates in the 
   MATLAB version of the <a target="_blank" 
   href="https://www.mpi-magdeburg.mpg.de/projects/mess">M.E.S.S. library</a>
   involving among other an implementation of the Riccati iteration, the RADI
@@ -110,7 +110,7 @@ author_profile: true
   For more details on my contributions see the <a target="_blank"
   href="https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/-/blob/master/CONTRIBUTORS.md">contributors file</a>
   and checkout the latest version on
-  <a target="_blank" href="https://doi.org/10.5281/zenodo.7701424">Zenodo</a>.
+  <a target="_blank" href="https://doi.org/10.5281/zenodo.14929081">Zenodo</a>.
 
 ---
 

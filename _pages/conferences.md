@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (4)</a>
+  <a href="#ms">Organizational work (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#talks">Talks (45)</a>
@@ -39,6 +39,19 @@ author_profile: true
 ## <a name="ms"></a>Organizational work ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 20/02/2025  </td>
+    <td>
+    <strong><a target="blank_" href="https://ifac.papercept.net/conferences/conferences/MAMO25/program/MAMO25_ProgramAtAGlanceWeb.html">Minisymposium
+    &ldquo;Recent Advances in Model Order Reduction and Data-driven Modelling&rdquo;</a></strong>,
+    <i>11th Vienna International Conference on Mathematical Modelling MATHMOD 2025</i>,
+    Austria, Vienna, 
+    Co-organizers: Hendrik Kleikamp (University of M{\"u}nster),
+      Sean Reiter (Virginia Tech),
+      Jens Saak (MPI Magdeburg),
+    (three sessions).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 23/07/2024  </td>
     <td>
