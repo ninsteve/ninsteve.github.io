@@ -40,6 +40,11 @@ var addressPoints = [
     10.8402
   ],
   [
+    "Fort Worth, US",
+    32.7498,
+    -97.327
+  ],
+  [
     "Graz, AT",
     47.0732,
     15.4420

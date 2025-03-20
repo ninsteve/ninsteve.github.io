@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (5)</a>
+  <a href="#ms">Organizational work (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (45)</a>
+  <a href="#talks">Talks (46)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -39,6 +39,29 @@ author_profile: true
 ## <a name="ms"></a>Organizational work ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 05/03/2025  </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=83058">Minitutorial
+    &ldquo;Data-Driven Reduced Modeling in the Time and Frequency Domains:
+    Fundamentals, Best Practices, and Implementation&rdquo;</a></strong>,
+    <i>SIAM Conference on Computational Science and Engineering (CSE25)</i>,
+    Fort Worth, TX, USA, 
+    Co-organizers: Ionut-Gabriel Farcas (Virginia Tech),
+      Shane A. McQuarrie (Sandia National Labs),
+    (two sessions).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 03/03/2025  </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82228">Minisymposium
+    &ldquo;Physics-Enhanced Data-Driven Control of Complex Systems&rdquo;</a></strong>,
+    <i>SIAM Conference on Computational Science and Engineering (CSE25)</i>,
+    Fort Worth, TX, USA, 
+    (two sessions).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 20/02/2025  </td>
     <td>
@@ -106,12 +129,21 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 03/03/2025 </td>
+    <td>
+    <strong><a target="blank_" href="https://meetings.siam.org/sess/dsp_talk.cfm?p=142370">Data
+    Efficient Low-Dimensional Controller Inference Via Adaptive Sampling</a></strong>,
+    <i>SIAM Conference on Computational Science and Engineering (CSE25)</i>,
+    Fort Worth, TX, USA, (invited minisymposium talk).<br>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 07/01/2025 </td>
     <td>
     <strong><a target="blank_" href="https://icerm.brown.edu/program/topical_workshop/tw-25-clmr">From
     Data to Structure: Learning Mechanical Systems Via Rational Functions</a></strong>,
     <i>Computational Learning for Model Reduction</i>,
-    ICERM, Providence, RI, USA, (invited talk).<br>
+    ICERM, Providence, RI, USA, (invited plenary talk).<br>
     </td>
   </tr>
   <tr>
