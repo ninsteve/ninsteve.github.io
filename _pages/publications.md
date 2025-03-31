@@ -375,6 +375,9 @@ found at the end of my
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.11557038">
     <button class="btn btn--inverse">Code & Results</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
