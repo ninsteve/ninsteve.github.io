@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (2)</a>
+  <a href="#submitted">Submitted Articles (1)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (20)</a>
@@ -21,7 +21,7 @@ author_profile: true
   <a href="#bookchapters">Book Chapters (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#proceedings">Proceedings (10)</a>
+  <a href="#proceedings">Proceedings (11)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#software">Software (10)</a>
@@ -60,19 +60,6 @@ found at the end of my
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.10783695">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
-
-1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a
-    target="blank_"
-    href="https://doi.org/10.48550/arXiv.2403.08894">Interpolatory model order
-    reduction of large-scale dynamical systems with root mean squared error
-    measures</a>.
-    e-print 2403.08894, arXiv, 2024. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2403.08894">10.48550/arXiv.2403.08894</a><br />
-    <button id="ReiW24-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2403.08894">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.10729524">
-    <button class="btn btn--inverse">Code & Results</button></a>
 
 ---
 
@@ -374,6 +361,20 @@ found at the end of my
 ---
 
 ## <a name="proceedings"></a>Proceedings ##
+
+1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a
+    target="blank_"
+    href="https://doi.org/10.1016/j.ifacol.2025.03.066">Interpolatory model
+    reduction of dynamical systems with root mean squared error</a>.
+    <i>IFAC-Pap.</i>, 59(1):385&ndash;390, 2025.
+    11th Vienna International Conference on Mathematical Modelling MATHMOD
+    2025.
+    doi:<a target="blank_" href="https://doi.org/10.1016/j.ifacol.2025.03.066">10.1016/j.ifacol.2025.03.066</a><br />
+    <button id="ReiW25-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2403.08894">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.11557038">
+    <button class="btn btn--inverse">Code & Results</button></a>
 
 1.  P. Benner, S. Gugercin, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
