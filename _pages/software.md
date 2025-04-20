@@ -116,6 +116,23 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.11557038">Code and results for
+    numerical experiments in &ldquo;Interpolatory model order reduction of
+    large-scale dynamical systems with root mean squared error measures&rdquo;
+    (version 1.1)</a>,
+    June 2024. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.11557038">10.5281/zenodo.11557038</a><br />
+    <button id="supReiW24a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1016/j.ifacol.2025.03.066"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  J. Saak and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.11390499">Code, data and results for
     numerical experiments in &ldquo;Using \\(LDL^{T}\\) factorizations in
