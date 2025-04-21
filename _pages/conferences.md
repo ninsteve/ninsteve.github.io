@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (46)</a>
+  <a href="#talks">Talks (47)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -128,6 +128,17 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 10/04/2025 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.birs.ca/events/2025/5-day-workshops/25w5376/schedule">Multivariate
+    Rational Function Interpolation For Structured Nonlinear Model
+    Reduction</a></strong>,
+    <i>Challenges, Opportunities, and New Horizons in Rational Approximation</i>,
+    Banff International Research Station, Banff, AB, Canada,
+    (invited plenary talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 03/03/2025 </td>
     <td>
