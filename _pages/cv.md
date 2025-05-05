@@ -24,8 +24,9 @@ Born September 6, 1992 in Stendal, Germany.
   <tr>
     <td style="width:20%"> since 08/2023 </td>
     <td>
-      <b>Assistant professor</b>, Department of Mathematics and Divison
-      of Computational Modeling and Data Analytics, Virginia Tech, Blacksburg,
+      <b>Assistant professor</b>, Department of Mathematics, Divison
+      of Computational Modeling and Data Analytics, and
+      Virginia Tech National Security Institute, Virginia Tech, Blacksburg,
       USA.
     </td>
   </tr>
