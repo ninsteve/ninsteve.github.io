@@ -12,11 +12,11 @@ redirect_from:
 alt="Full Profile picture">
 My name is <strong>Steffen W. R. Werner</strong> and I am an assistant professor
 with the <a target="blank_" href="https://math.vt.edu/">Department of
-Mathematics</a>, the <a target="blank_"
+Mathematics</a> and the <a target="blank_"
 href= "https://data.science.vt.edu/programs/cmda.html">Division of Computational
-Modeling and Data Analytics</a>, and the <a target="blank_"
-href= "https://nationalsecurity.vt.edu/">Virginia Tech National
-Security Institute</a> at the
+Modeling and Data Analytics</a>, and I am an affiliate faculty member of the
+<a target="blank_" href= "https://nationalsecurity.vt.edu/">Virginia Tech 
+National Security Institute</a> at the
 <a target="blank_" href="https://www.vt.edu/">Virginia Polytechnic Institute and
 State University (Virginia Tech)</a>.
 There, I am working on projects involving scientific machine learning, numerical
