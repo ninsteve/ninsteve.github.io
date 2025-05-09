@@ -16,6 +16,30 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td> Spring term 2025 </td>
+    <td> <b>Learning Dynamical Systems: From Data to Models</b>, 
+      <i>Lecturer (self-directed)</i>, Virginia Tech, Blacksburg, USA.
+    </td>
+  </tr>
+  <tr>
+    <td> Fall term 2024 </td>
+    <td> <b>Mathematical Modeling: Methods and Tools I</b>, 
+      <i>Lecturer (self-directed)</i>, Virginia Tech, Blacksburg, USA.
+    </td>
+  </tr>
+  <tr>
+    <td> Spring term 2024 </td>
+    <td> <b>Mathematical Modeling: Methods and Tools I</b>, 
+      <i>Lecturer (self-directed)</i>, Virginia Tech, Blacksburg, USA.
+    </td>
+  </tr>
+  <tr>
+    <td> Fall term 2023 </td>
+    <td> <b>Mathematical Modeling: Methods and Tools I</b>, 
+      <i>Lecturer (self-directed)</i>, Virginia Tech, Blacksburg, USA.
+    </td>
+  </tr>
+  <tr>
     <td style="width:18%"> 11/2019 </td>
     <td> <b>Introduction to MATLAB</b>, <i>Lecturer (self-directed)</i>, 
       Max Planck Institute for Dynamics of Complex Technical Systems,
