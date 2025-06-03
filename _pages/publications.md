@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (1)</a>
+  <a href="#submitted">Submitted Articles (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (20)</a>
@@ -47,6 +47,18 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2506.01816">An adaptive data sampling
+    strategy for stabilizing dynamical systems via controller inference</a>.
+    e-print 2506.01816, arXiv, 2025. Optimization and Control (math.OC).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2506.01816">10.48550/arXiv.2506.01816</a><br />
+    <button id="WerP25a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.01816">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.8183173">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
