@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (2)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (20)</a>
@@ -47,6 +47,19 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  M. S. Ackermann, I. V. Gosea, S. Gugercin, and
+    <strong>S. W. R. Werner</strong>.<a
+    target="blank_"
+    href="https://doi.org/10.48550/arXiv.2506.02241">Second-order AAA algorithms
+    for structured data-driven modeling</a>.
+    e-print 2506.02241, arXiv, 2025. Numerical Analysis (math.NA).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2506.02241">10.48550/arXiv.2506.02241</a><br />
+    <button id="AckGGetal25-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.02241">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.15389438">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
     target="blank_"
