@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (47)</a>
+  <a href="#talks">Talks (48)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -128,6 +128,17 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 10/06/2025 </td>
+    <td>
+    <strong><a target="blank_" href="https://householder-symposium.github.io/schedule.html">Structured
+    Representations of Rational Functions for Learning Mechanical Dynamical
+    Systems: A Barycentric Approach</a></strong>,
+    <i>Householder Symposium XXII</i>,
+    Cornell University, Ithaca, NY, USA,
+    (invited talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 10/04/2025 </td>
     <td>
