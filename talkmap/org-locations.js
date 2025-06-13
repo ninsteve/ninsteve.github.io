@@ -55,6 +55,11 @@ var addressPoints = [
     15.4420
   ],
   [
+    "Ithaca, US",
+    42.4569,
+    -76.4468
+  ],
+  [
     "Magdeburg, DE",
     52.1196,
     11.6646
