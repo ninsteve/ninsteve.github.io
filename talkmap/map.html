@@ -25,15 +25,15 @@
         var mywindow = mymap.getSize();
         
         if (mywindow.x < 400) {
-          mymap.setView([10, 30], 0);
+          mymap.setView([0, 30], 0);
           
           var maxClusterRadius = 25;
-          var scaling          = 0.85;
+          var scaling          = 0.8;
         } else {
-          mymap.setView([30, 30], 1);
+          mymap.setView([10, 20], 1);
           
           var maxClusterRadius = 15;
-          var scaling          = 0.85;
+          var scaling          = 0.9;
         }
 
         L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
