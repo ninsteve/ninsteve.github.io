@@ -21,7 +21,7 @@
   <body>
     <div id="talkmap"></div>
       <script>
-        var mymap = L.map('talkmap');
+        var mymap = L.map('talkmap', {zoomSnap: 0.25});
         var mywindow = mymap.getSize();
         
         if (mywindow.x < 400) {
@@ -30,7 +30,7 @@
           var maxClusterRadius = 25;
           var scaling          = 0.8;
         } else {
-          mymap.setView([30, 0], 0);
+          mymap.setView([30, 0], 0.25);
           
           var maxClusterRadius = 15;
           var scaling          = 0.85;
