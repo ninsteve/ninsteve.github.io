@@ -60,6 +60,11 @@ var addressPoints = [
     -76.4468
   ],
   [
+    "Kaohsiung, TW",
+    22.6265,
+    120.2653
+  ],
+  [
     "Magdeburg, DE",
     52.1196,
     11.6646

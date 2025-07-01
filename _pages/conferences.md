@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (48)</a>
+  <a href="#talks">Talks (50)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -128,6 +128,26 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 26/06/2025 </td>
+    <td>
+    <strong><a target="blank_" href="https://ilas2025.tw/files/ILAS2025-program.pdf">Efficiently
+    Solving Nonstandard Riccati Equations Via Indefinite Factorizations</a></strong>,
+    <i>26th Conference of the International Linear Algebra Society (ILAS 2025)</i>,
+    National Sun Yat-sen University, Kaohsiung, Taiwan,
+    (invited minisymposium talk).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 24/06/2025 </td>
+    <td>
+    <strong><a target="blank_" href="https://ilas2025.tw/files/ILAS2025-program.pdf">Reduced-order
+    modeling of mechanical systems via structured barycentric forms</a></strong>,
+    <i>26th Conference of the International Linear Algebra Society (ILAS 2025)</i>,
+    National Sun Yat-sen University, Kaohsiung, Taiwan,
+    (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 10/06/2025 </td>
     <td>
