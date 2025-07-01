@@ -25,12 +25,12 @@
         var mywindow = mymap.getSize();
         
         if (mywindow.x < 400) {
-          mymap.setView([10, -40], 0);
+          mymap.setView([30, -40], 0);
           
           var maxClusterRadius = 25;
           var scaling          = 0.8;
         } else {
-          mymap.setView([40, -40], 0);
+          mymap.setView([40, -40], 0.5);
           
           var maxClusterRadius = 15;
           var scaling          = 0.9;
