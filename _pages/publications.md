@@ -48,8 +48,8 @@ found at the end of my
 
 ## <a name="submitted"></a>Submitted Articles ##
 
-1.  S. Reiter and <strong>S. W. R. Werner</strong>.<a
-    target="blank_"
+1.  S. Reiter and <strong>S. W. R. Werner</strong>.
+    <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2506.10118">Data-driven balanced
     truncation for second-order systems with generalized proportional damping</a>.
     e-print 2506.10118, arXiv, 2025. Numerical Analysis (math.NA).
@@ -61,8 +61,8 @@ found at the end of my
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  M. S. Ackermann, I. V. Gosea, S. Gugercin, and
-    <strong>S. W. R. Werner</strong>.<a
-    target="blank_"
+    <strong>S. W. R. Werner</strong>.
+    <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2506.02241">Second-order AAA algorithms
     for structured data-driven modeling</a>.
     e-print 2506.02241, arXiv, 2025. Numerical Analysis (math.NA).
@@ -73,8 +73,8 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.15389438">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
-    target="blank_"
+1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer.
+    <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2506.01816">An adaptive data sampling
     strategy for stabilizing dynamical systems via controller inference</a>.
     e-print 2506.01816, arXiv, 2025. Optimization and Control (math.OC).
@@ -85,8 +85,8 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.8183173">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>. <a
-    target="blank_"
+1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>.
+    <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2403.18044">Deep polytopic
     autoencoders for low-dimensional linear parameter-varying approximations
     and nonlinear feedback design</a>.
