@@ -69,7 +69,7 @@ author_profile: true
     &ldquo;Recent Advances in Model Order Reduction and Data-driven Modelling&rdquo;</a></strong>,
     <i>11th Vienna International Conference on Mathematical Modelling MATHMOD 2025</i>,
     Austria, Vienna, 
-    Co-organizers: Hendrik Kleikamp (University of M{\"u}nster),
+    Co-organizers: Hendrik Kleikamp (University of M&uuml;nster),
       Sean Reiter (Virginia Tech),
       Jens Saak (MPI Magdeburg),
     (three sessions).<br>
