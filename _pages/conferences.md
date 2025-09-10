@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (50)</a>
+  <a href="#talks">Talks (51)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -128,6 +128,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 08/09/2025 </td>
+    <td>
+    <strong><a target="blank_" href="https://seminar.math.vt.edu/ana/">Data-driven
+    Balanced Truncation for Mechanical Systems</a></strong>,
+    <i>Applied Numerical Analysis Seminar, Virginia Tech</i>,
+    Blacksburg, VA, USA.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 26/06/2025 </td>
     <td>
