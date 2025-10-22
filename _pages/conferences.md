@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (7)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (51)</a>
+  <a href="#talks">Talks (52)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -128,6 +128,17 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 22/10/2025 </td>
+    <td>
+    <strong>Computational Methods for Learning Interpretable Models and Reliable
+    Decision Making</strong>,
+    <i>Virginia Tech National Security Institute Technical Seminar,
+    Virginia Tech</i>,
+    Blacksburg, VA, USA,
+    (invited seminar talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 08/09/2025 </td>
     <td>
