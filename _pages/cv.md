@@ -14,10 +14,6 @@ redirect_from:
   }
 </style>
 
-Born September 6, 1992 in Stendal, Germany.
-
----
-
 ## Professional Experience ##
 
 <table class="eventtable">
