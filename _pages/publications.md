@@ -15,7 +15,7 @@ author_profile: true
   <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (20)</a>
+  <a href="#journal">Journal Articles (21)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -85,22 +85,25 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.8183173">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
+---
+
+## <a name="journal"></a>Journal Articles ##
+
 1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>.
     <a target="blank_"
-    href="https://doi.org/10.48550/arXiv.2403.18044">Deep polytopic
+    href="https://doi.org/10.1007/s10444-025-10269-1">Deep polytopic
     autoencoders for low-dimensional linear parameter-varying approximations
     and nonlinear feedback design</a>.
-    e-print 2403.18044, arXiv, 2024. Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2403.18044">10.48550/arXiv.2403.18044</a><br />
-    <button id="HeiKW24-pop" class="btn btn--inverse">BibTeX</button>
+    <i>Adv. Comput. Math.</i>, 51(6):55, 2025.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10444-025-10269-1">10.1007/s10444-025-10269-1</a><br />
+    <button id="HeiKW25-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2403.18044">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.10783695">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
-
----
-
-## <a name="journal"></a>Journal Articles ##
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer. <a
     target="blank_"
