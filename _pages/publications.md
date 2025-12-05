@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (3)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (21)</a>
@@ -47,6 +47,18 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
+
+1.  R. Smith and <strong>S. W. R. Werner</strong>.
+    <a target="blank_"
+    href="https://doi.org/10.48550/arXiv.2512.04983">A tangential low-rank ADI
+    method for solving indefinite Lyapunov equations</a>.
+    e-print 2512.04983, arXiv, 2025. Numerical Analysis (math.NA).
+    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2512.04983">10.48550/arXiv.2512.04983</a><br />
+    <button id="SmiW25-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2512.04983">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.17632592">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  S. Reiter and <strong>S. W. R. Werner</strong>.
     <a target="blank_"

@@ -116,6 +116,23 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  R. Smith and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.17632592">Code, data and results for
+    numerical experiments in &ldquo;A tangential ADI method for the efficient
+    solution of large-scale indefinite Lyapunov equations&rdquo;
+    (version 1.0)</a>,
+    December 2025. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.17632592">10.5281/zenodo.17632592</a><br />
+    <button id="supSmiW25-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2512.04983"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.15642589">Code, data and results for
     numerical experiments in &ldquo;Data-driven balanced truncation for
