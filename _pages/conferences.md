@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (7)</a>
+  <a href="#ms">Organizational work (8)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (53)</a>
+  <a href="#talks">Talks (55)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -39,6 +39,18 @@ author_profile: true
 ## <a name="ms"></a>Organizational work ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 07/01/2026  </td>
+    <td>
+    <strong><a target="blank_" href="https://jointmathematicsmeetings.org/meetings/national/jmm2026/jmm2026-program">Minisymposium
+    &ldquo;Recent Advances in Model Order Reduction and Data-Driven
+    Modeling: Theory and Computations&rdquo;</a></strong>,
+    <i>Joint Mathematics Meetings (JMM 2026)</i>,
+    Washington, D.C., USA, 
+    Co-organizer: Ionut-Gabriel Farcas (Virginia Tech),
+    (two sessions).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 05/03/2025  </td>
     <td>
@@ -128,6 +140,26 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 07/01/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://jointmathematicsmeetings.org/meetings/national/jmm2026/jmm2026-program">Structured
+    Nonlinear Model Reduction Via Multivariate Interpolation</a></strong>,
+    <i>Joint Mathematics Meetings (JMM 2026)</i>,
+    Washington, D.C., USA,
+    (invited minisymposium talk).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 04/01/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://jointmathematicsmeetings.org/meetings/national/jmm2026/jmm2026-program">Learning
+    Mechanical Systems Via Data-driven Balanced Truncation</a></strong>,
+    <i>Joint Mathematics Meetings (JMM 2026)</i>,
+    Washington, D.C., USA,
+    (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 11/11/2025 </td>
     <td>
