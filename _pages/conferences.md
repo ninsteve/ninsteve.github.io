@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (8)</a>
+  <a href="#ms">Organizational work (11)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#talks">Talks (55)</a>
@@ -39,6 +39,53 @@ author_profile: true
 ## <a name="ms"></a>Organizational work ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 18/05/2026&ndash;<br>22/05/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://ilas2026.math.vt.edu/">27th
+    Conference of the International Linear Algebra Society (ILAS 2026)</a></strong>,
+    Virginia Tech,
+    Blacksburg, Virginia, USA,
+    Co-organizers: Christopher Beattie,
+    Paul Cazeaux,
+    Eric de Sturler,
+    Mark Embree,
+    Serkan Gugercin,
+    Agnieszka Miedlar,
+    Mirjeta Pasha,
+    Megan Wawro
+    (Virginia Tech),
+    (1 week conference).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 19/01/2026&ndash;<br>23/01/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-junior-trimester-program-computational-multifidelity-multilevel-and-multiscale-methods#wks4">Winter School
+    &ldquo;Bridging multiscale, limited information, and low regularity in computational mathematics&rdquo;</a></strong>,
+    <i>Hausdorff Research Institute for Mathematics</i>,
+    Bonn, Germany, 
+    Co-organizers: Emil Loevbak (Karlsruhe Institute of Technology),
+    Christian D&ouml;ding (University of Bonn),
+    Moritz Hauck (Heidelberg University),
+    (1 week school).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 12/01/2026&ndash;<br>17/04/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-junior-trimester-program-computational-multifidelity-multilevel-and-multiscale-methods">Junior Trimester Program
+    &ldquo;Computational multifidelity, multilevel, and multiscale methods&rdquo;</a></strong>,
+    <i>Hausdorff Research Institute for Mathematics</i>,
+    Bonn, Germany, 
+    Co-organizers: Christian D&ouml;ding (University of Bonn),
+    Moritz Hauck (Heidelberg University),
+    Emil Loevbak (Karlsruhe Institute of Technology),
+    Andreas Rupp (Saarland University),
+    Johan W&auml;rnegard (KTH Royal Institute of Technology),
+    (3 months program).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 07/01/2026  </td>
     <td>
