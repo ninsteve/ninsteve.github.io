@@ -116,6 +116,23 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  M. S. Ackermann, L. Balicki, and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.18317028">Code, data and results for
+    numerical experiments in &ldquo;A refined nonlinear least-squares method for
+    the rational approximation problem&rdquo;
+    (version 1.0)</a>,
+    January 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">10.5281/zenodo.18317028</a><br />
+    <button id="supAckBW26-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2601.19813"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  R. Smith and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.17632592">Code, data and results for
     numerical experiments in &ldquo;A tangential ADI method for the efficient
