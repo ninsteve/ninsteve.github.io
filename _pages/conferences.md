@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (11)</a>
+  <a href="#ms">Organizational work (12)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#talks">Talks (55)</a>
@@ -56,6 +56,17 @@ author_profile: true
     Megan Wawro
     (Virginia Tech),
     (1 week conference).<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 02/02/2026&ndash;<br>06/02/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-junior-trimester-program-computational-multifidelity-multilevel-and-multiscale-methods#wks2">Workshop
+    &ldquo;Multifidelity Methods for Stochastic and Uncertain Problems&rdquo;</a></strong>,
+    <i>Hausdorff Research Institute for Mathematics</i>,
+    Bonn, Germany, 
+    Co-organizers: Emil Loevbak (Karlsruhe Institute of Technology),
+    (1 week workshop).<br>
     </td>
   </tr>
   <tr>
