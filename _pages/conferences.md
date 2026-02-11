@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (12)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (55)</a>
+  <a href="#talks">Talks (56)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
