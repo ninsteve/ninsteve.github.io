@@ -199,6 +199,17 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 02/02/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.mathematics.uni-bonn.de/him/assets/2026/schedule_workshop1_1-jtp2026_03-02-26.pdf">Interpolatory
+    Model Reduction for Structured Stochastic and Nonlinear Systems</a></strong>,
+    <i>Multifidelity Methods for Stochastic and Uncertain Problems</i>,
+    Hausdorff Research Institute for Mathematics, Bonn, Germany,
+    (invited plenary talk).<br>
+    <a target="blank_" href="https://youtu.be/HxtSkeEL2JI"><button class="btn btn--inverse">Video</button></a>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 07/01/2026 </td>
     <td>
     <strong><a target="blank_" href="https://jointmathematicsmeetings.org/meetings/national/jmm2026/jmm2026-program">Structured
@@ -306,6 +317,7 @@ author_profile: true
     Data to Structure: Learning Mechanical Systems Via Rational Functions</a></strong>,
     <i>Computational Learning for Model Reduction</i>,
     ICERM, Providence, RI, USA, (invited plenary talk).<br>
+    <a target="blank_" href="https://icerm.brown.edu/video_archive/3940"><button class="btn btn--inverse">Video</button></a>
     </td>
   </tr>
   <tr>
