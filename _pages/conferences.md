@@ -451,7 +451,7 @@ author_profile: true
   <tr>
     <td style="width:8%"> 23/09/2022 </td>
     <td>
-    <strong><a target="blank_" href="https://more.sciencesconf.org/program/details">Context-aware learning of low-dimensional stabilizing controllers in the scarce data regime</a></strong>,
+    <strong><a target="blank_" href="https://more.sciencesconf.org/data/pages/book_1.pdf">Context-aware learning of low-dimensional stabilizing controllers in the scarce data regime</a></strong>,
     <i>Model Reduction and Surrogate Modeling (MORe)</i>,
     Berlin, Germany.<br>
     </td>
