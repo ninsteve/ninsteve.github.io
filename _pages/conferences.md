@@ -435,7 +435,7 @@ author_profile: true
   <tr>
     <td style="width:8%"> 04/01/2023 </td>
     <td>
-    <strong><a target="blank_" href="https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/18942">Learning mechanical systems using structured barycentric forms</a></strong>,
+    <strong><a target="blank_" href="https://jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program_siam2.html#title">Learning mechanical systems using structured barycentric forms</a></strong>,
     <i>Joint Mathematics Meetings (JMM 2023)</i>,
     Boston, MA, USA, (invited minisymposium talk).<br>
     </td>
