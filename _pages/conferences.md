@@ -469,7 +469,7 @@ author_profile: true
     <td>
     <strong><a target="blank_" href="https://indico3.mpi-magdeburg.mpg.de/event/6/timetable/#20220702.detailed">Stabilizing Dynamical Systems in the Scarce Data Regime</a></strong>,
     <i>Workshop on New Trends in Computational Science in Engineering and Industrial Mathematics</i>,
-    Magdeburg, Germany, (invited minisymposium talk).<br>
+    Magdeburg, Germany, (invited talk).<br>
     </td>
   </tr>
   <tr>
