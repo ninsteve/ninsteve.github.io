@@ -795,7 +795,7 @@ author_profile: true
     <td style="width:8%"> 21/09/2022 </td>
     <td>
       <strong><a target="blank_" 
-      href="https://more.sciencesconf.org/program/details">Balancing-related model reduction of large-scale sparse systems in MATLAB and Octave with the MORLAB toolbox</a></strong>,
+      href="https://more.sciencesconf.org/data/pages/book_1.pdf">Balancing-related model reduction of large-scale sparse systems in MATLAB and Octave with the MORLAB toolbox</a></strong>,
       <i>Model Reduction and Surrogate Modeling (MORe)</i>,
       Berlin, Germany.
     </td>
