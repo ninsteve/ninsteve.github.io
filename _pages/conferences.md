@@ -822,7 +822,7 @@ author_profile: true
     <td> 12/04/2018 </td>
     <td>
       <strong><a target="blank_" 
-      href="https://morepas2018.sciencesconf.org/program">Computing the 
+      href="https://morepas2018.sciencesconf.org/program.html">Computing the 
       Hankel-Norm Approximation of Large-Scale Descriptor
       Systems</a></strong>,
       <i>Model Reduction of Parametrized Systems IV (MoRePaS 2018)</i>,
