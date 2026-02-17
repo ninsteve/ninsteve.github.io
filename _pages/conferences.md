@@ -500,7 +500,7 @@ author_profile: true
   <tr>
     <td style="width:8%"> 29/03/2022 </td>
     <td>
-    <strong><a target="blank_" href="http://vims.mathos.unios.hr/page-builder/workshop-daad-2022/">A New Tangential Interpolation Framework for Model Reduction of Bilinear Systems</a></strong>,
+    <strong>A New Tangential Interpolation Framework for Model Reduction of Bilinear Systems</strong>,
     <i>3rd Workshop on Optimal Control of Dynamical Systems and
     Applications</i>,
     Osijek, Croatia, (invited talk, hybrid conference).<br>
@@ -519,7 +519,7 @@ author_profile: true
   <tr>
     <td style="width:8%"> 24/06/2021 </td>
     <td>
-    <strong><a target="blank_" href="https://8ecm.si/presentations">Structure-Preserving Interpolation for Bilinear Systems</a></strong>,
+    <strong><a target="blank_" href="https://8ecm.eu/presentations">Structure-Preserving Interpolation for Bilinear Systems</a></strong>,
     <i>8th European Congress of Mathematics (8ECM)</i>,
     Portoro&zcaron;, Slovenia, (invited minisymposium talk, online conference).<br>
     <a target="blank_" href="https://8ecm.si/system/admin/abstracts/presentations/000/001/149/original/werner_presentation_ecm8.pdf?1626944602"><button class="btn btn--inverse">Slides</button></a>
@@ -556,9 +556,7 @@ author_profile: true
   <tr>
     <td> 20/05/2020 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.mathcore.ovgu.de/TEACHING/SEMINARS/2020sose.php">Structure-Preserving
-      Interpolation for Bilinear Control Systems</a></strong>,
+      <strong>Structure-Preserving Interpolation for Bilinear Control Systems</strong>,
       <i>Weekly Fellow Seminar Series of &quot;MathCoRe&quot;</i>,
       Magdeburg, Germany, (online seminar).
     </td>
@@ -566,10 +564,9 @@ author_profile: true
   <tr>
     <td> 25/09/2019 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2019-fa-1.30">Frequenz-
+      <strong>Frequenz-
       und zeitbeschränktes balanciertes Abschneiden für Systeme zweiter 
-      Ordnung</a></strong>,
+      Ordnung</strong>,
       <i>Meeting of the GMA Fachausschuss 1.30 &quot;Modellbildung, 
       Identifikation und Simulation in der Automatisierungstechnik&quot; and GMA 
       Fachausschuss 1.40 &quot;Systemtheorie und Regelungstechnik&quot;</i>,
@@ -579,9 +576,7 @@ author_profile: true
   <tr>
     <td> 25/09/2019 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2019-fa-1.30">MORLAB
-      &ndash; Model Order Reduction LABoratory</a></strong>,
+      <strong>MORLAB &ndash; Model Order Reduction LABoratory</strong>,
       <i>Meeting of the GMA Fachausschuss 1.30 &quot;Modellbildung, 
       Identifikation und Simulation in der Automatisierungstechnik&quot; and GMA 
       Fachausschuss 1.40 &quot;Systemtheorie und Regelungstechnik&quot;</i>,
@@ -613,9 +608,7 @@ author_profile: true
   <tr>
     <td> 26/06/2019 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.mathcore.ovgu.de/TEACHING/SEMINARS/2019sose.php">How to 
-      Reduce the Model of an Artificial Fishtail</a></strong>,
+      <strong>How to Reduce the Model of an Artificial Fishtail</strong>,
       <i>Weekly Fellow Seminar Series of &quot;MathCoRe&quot;</i>,
       Magdeburg, Germany.
     </td>
@@ -623,10 +616,9 @@ author_profile: true
   <tr>
     <td> 20/05/2019 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://ifac.papercept.net/conferences/conferences/CPDE19/program/CPDE19_ContentListWeb_1.html">Robust
+      <strong>Robust
       Controller versus Numerical Model Uncertainties for Stabilization of 
-      Navier-Stokes Equations</a></strong>,
+      Navier-Stokes Equations</strong>,
       <i>3rd IFAC/IEEE CSS Workshop on Control of Systems Governed by Partial 
       Differential Equations CPDE and XI Workshop Control of Distributed 
       Parameter Systems, CDPS 2019</i>,
@@ -637,7 +629,7 @@ author_profile: true
     <td> 28/02/2019 </td>
     <td>
       <strong><a target="blank_" 
-      href="https://www.siam.org/Portals/0/Conferences/cse19/CSE19_Program_with_abstracts.pdf?ver=2019-02-18-210049-180">H-Infinity
+      href="https://meetings.siam.org/sess/dsp_talk.cfm?p=95933">H-Infinity
       Balanced Truncation for Feedback Control of Flow Problems</a></strong>,
       <i>SIAM Conference on Computational Science and Engineering (CSE19)</i>,
       Spokane, WA, USA, (invited minisymposium talk).
@@ -656,9 +648,8 @@ author_profile: true
   <tr>
     <td> 21/09/2018 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.studentchapterberlin.de/2018/10/18/list-of-participants-and-abstracts-of-mesiga-2018/">MORLAB &ndash;
-      A Model Reduction Framework in MATLAB &amp; Octave</a></strong>,
+      <strong>MORLAB &ndash;
+      A Model Reduction Framework in MATLAB &amp; Octave</strong>,
       <i>Meeting of the European SIAM and GAMM Student Chapters
       (MESIGA 2018)</i>,
       Berlin, Germany.
@@ -667,9 +658,8 @@ author_profile: true
   <tr>
     <td> 16/05/2018 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.mathcore.ovgu.de/TEACHING/SEMINARS/2018sose.php">Model 
-      Reduction of Linear Dynamical Systems with the MORLAB Toolbox</a></strong>,
+      <strong>Model 
+      Reduction of Linear Dynamical Systems with the MORLAB Toolbox</strong>,
       <i>Weekly Fellow Seminar Series of &quot;MathCoRe&quot;</i>,
       Magdeburg, Germany.
     </td>
@@ -677,9 +667,8 @@ author_profile: true
   <tr>
     <td> 20/04/2018 </td>
     <td>
-      <strong><a target="blank_" 
-      href="http://ifatwww.et.uni-magdeburg.de/syst/GAMMFA/berlin_2018.shtml">MORLAB
-      &ndash; A Model Reduction Framework in MATLAB &amp; Octave</a></strong>,
+      <strong>MORLAB
+      &ndash; A Model Reduction Framework in MATLAB &amp; Octave</strong>,
       <i>GAMM-Fachausschuss Dynamik und Regelungstheorie</i>,
       Berlin, Germany.
     </td>
@@ -688,7 +677,7 @@ author_profile: true
     <td> 21/03/2018 </td>
     <td>
       <strong><a target="blank_" 
-      href="https://jahrestagung.gamm-ev.de/images/2018/book_of_abstracts.pdf">Balancing
+      href="https://jahrestagung.gamm.org/wp-content/uploads/2020/07/book_of_abstracts.pdf">Balancing
       Related Model Reduction with the MORLAB Toolbox</a></strong>,
       <i>89th GAMM Annual Meeting, Section &quot;Dynamics and Control&quot;</i>,
       Munich, Germany.
@@ -697,9 +686,8 @@ author_profile: true
   <tr>
     <td> 22/02/2018 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://ifac.papercept.net/conferences/conferences/MAMO18/program/MAMO18_ContentListWeb_3.html">Model
-      Reduction of Descriptor Systems with the MORLAB Toolbox</a></strong>,
+      <strong>Model
+      Reduction of Descriptor Systems with the MORLAB Toolbox</strong>,
       <i>9th Vienna International Conference on Mathematical Modeling 
       (MATHMOD 2018)</i>,
       Vienna, Austria.
@@ -708,9 +696,8 @@ author_profile: true
   <tr>
     <td> 22/09/2017 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.control.tf.uni-kiel.de/en/gma-fa-1.40/archiv-1/workshop-2017-fa-1.30">MORLAB
-      &ndash; Modellreduktion in MATLAB</a></strong>,
+      <strong>MORLAB
+      &ndash; Modellreduktion in MATLAB</strong>,
       <i>Meeting of the GMA Fachausschuss 1.30 &quot;Modellbildung, 
       Identifikation und Simulation in der Automatisierungstechnik&quot; and GMA 
       Fachausschuss 1.40 &quot;Systemtheorie und Regelungstechnik&quot;</i>,
@@ -720,9 +707,8 @@ author_profile: true
   <tr>
     <td> 17/05/2017 </td>
     <td>
-      <strong><a target="blank_" 
-      href="https://www.mathcore.ovgu.de/TEACHING/SEMINARS/2017sose.php">Model 
-      Reduction for Linear Systems</a></strong>,
+      <strong>Model 
+      Reduction for Linear Systems</strong>,
       <i>Weekly Fellow Seminar Series of &quot;MathCoRe&quot;</i>,
       Magdeburg, Germany.
     </td>
@@ -731,7 +717,7 @@ author_profile: true
     <td> 09/03/2017 </td>
     <td>
       <strong><a target="blank_" 
-      href="https://www.tu-ilmenau.de/fileadmin/media/analysis/trunk/170304_BoA_GAMM_2017.pdf">Hankel-Norm
+      href="https://jahrestagung.gamm.org/wp-content/uploads/2020/07/GAMM2017_Programme.pdf">Hankel-Norm
       Approximation of Descriptor Systems</a></strong>,
       <i>88th GAMM Annual Meeting, Section &quot;Dynamics and Control&quot;</i>,
       Weimar, Germany.
@@ -826,7 +812,7 @@ author_profile: true
     <td> 27/02/2019 </td>
     <td>
       <strong><a target="blank_" 
-      href="https://www.siam.org/Portals/0/Conferences/cse19/CSE19_Program_with_abstracts.pdf?ver=2019-02-18-210049-180">MORLAB &ndash; Model Order 
+      href="https://meetings.siam.org/sess/dsp_talk.cfm?p=100600">MORLAB &ndash; Model Order 
       Reduction LABoratory</a></strong>,
       <i>SIAM Conference on Computational Science and Engineering (CSE19)</i>,
       Spokane, WA, USA, (invited poster).
