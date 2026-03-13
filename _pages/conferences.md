@@ -21,7 +21,7 @@ author_profile: true
   <a href="#posters">Presented posters (10)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#participation">Additional participation (5)</a>
+  <a href="#participation">Additional participation (7)</a>
 </p>
 
 <div style="width:100%; text-align:center;">
@@ -847,6 +847,25 @@ author_profile: true
 ## <a name="participation"></a>Additional participation ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 09/03/2026&ndash;<br>13/03/2026 </td>
+    <td>
+      <i><a target="blank_" 
+      href="https://www.mathematics.uni-bonn.de/him/assets/2026/schedule_workshop3_1-jtp2026_09-03-26.pdf">Workshop
+      &ldquo;Taming the PDEs: Tailored Methods, Multiscale Approaches, and
+      Real-World Application&rdquo;</a></i>,
+      Hausdorff Research Institute for Mathematics, Bonn, Germany.
+    </td>
+  </tr>
+  <tr>
+    <td style="width:8%"> 23/02/2026&ndash;<br>27/02/2026 </td>
+    <td>
+      <i><a target="blank_" 
+      href="https://www.mathematics.uni-bonn.de/him/assets/2026/template_schedule_workshop2_1-jtp2026_20-02.pdf">Workshop
+      &ldquo;Optimal approximation spaces for multiscale problems&rdquo;</a></i>,
+      Hausdorff Research Institute for Mathematics, Bonn, Germany.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 29/06/2023 </td>
     <td>
