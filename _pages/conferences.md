@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (12)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (56)</a>
+  <a href="#talks">Talks (57)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -198,6 +198,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 19/03/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://jahrestagung.gamm.org/wp-content/uploads/2026/03/BookOfAbstracts_v18_03_2026.pdf">From
+    Data To Mechanical Models Via Quadrature-based Balanced Truncation</a></strong>,
+    <i>96th GAMM Annual Meeting, Section &quot;Dynamics and Control&quot;</i>,
+    Stuttgart, Germany.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 02/02/2026 </td>
     <td>
