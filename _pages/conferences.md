@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (12)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (57)</a>
+  <a href="#talks">Talks (58)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -198,6 +198,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 15/04/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.uni-muenster.de/FB10/en/Service/show_article.shtml?id=10899&brettid=82">Data-driven
+    Second-order Balancing: Towards Learning Interpretable Mechanics</a></strong>,
+    <i>Oberseminar Numerik, University of Münster</i>,
+    Münster, Germany.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 19/03/2026 </td>
     <td>
