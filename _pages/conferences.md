@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (12)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (58)</a>
+  <a href="#talks">Talks (59)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -199,12 +199,21 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
+    <td style="width:8%"> 120/04/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.math.kit.edu/english/forschung/numaka-seminar.php">Data-driven
+    Second-order Balancing: Towards Learning Interpretable Mechanics</a></strong>,
+    <i>Numerical Mathematics Karlsruhe (NuMaKa) Seminar, KIT</i>,
+    Karlsruhe, Germany, (invited seminar talk).<br>
+    </td>
+  </tr>
+  <tr>
     <td style="width:8%"> 15/04/2026 </td>
     <td>
     <strong><a target="blank_" href="https://www.uni-muenster.de/FB10/en/Service/show_article.shtml?id=10899&brettid=82">Data-driven
     Second-order Balancing: Towards Learning Interpretable Mechanics</a></strong>,
     <i>Oberseminar Numerik, University of Münster</i>,
-    Münster, Germany.<br>
+    Münster, Germany, (invited seminar talk).<br>
     </td>
   </tr>
   <tr>

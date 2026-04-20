@@ -70,6 +70,11 @@ var addressPoints = [
     120.2653
   ],
   [
+    "Karlsruhe, DE",
+    49.0111,
+    8.4094
+  ],
+  [
     "Magdeburg, DE",
     52.1196,
     11.6646
