@@ -199,7 +199,7 @@ author_profile: true
 
 <table class="eventtable">
   <tr>
-    <td style="width:8%"> 120/04/2026 </td>
+    <td style="width:8%"> 12/04/2026 </td>
     <td>
     <strong><a target="blank_" href="https://www.math.kit.edu/english/forschung/numaka-seminar.php">Data-driven
     Second-order Balancing: Towards Learning Interpretable Mechanics</a></strong>,
