@@ -15,7 +15,7 @@ author_profile: true
   <a href="#ms">Organizational work (13)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (60)</a>
+  <a href="#talks">Talks (61)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -210,6 +210,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 29/05/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://www.mathcore.ovgu.de/index.php?show=events&event=2026-05-28-mathcore-conference">Learning
+    Interpretable Mechanical Systems: When Data Meets Structure</a></strong>,
+    <i>MathCoRe Conference</i>,
+    Magdeburg, Germany, (invited plenary talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 22/05/2026 </td>
     <td>
