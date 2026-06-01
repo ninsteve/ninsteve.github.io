@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (12)</a>
+  <a href="#ms">Organizational work (13)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (59)</a>
+  <a href="#talks">Talks (60)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (10)</a>
@@ -39,6 +39,18 @@ author_profile: true
 ## <a name="ms"></a>Organizational work ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 19/05/2026&ndash;<br>22/05/2026  </td>
+    <td>
+    <strong><a target="blank_" href="https://ilas2026.math.vt.edu/program.html#section-mssessions">Minisymposium
+    &ldquo;Linear Algebra Foundations for Data-driven Modeling and
+    Model Order Reduction&rdquo;</a></strong>,
+    <i>27th Conference of the International Linear Algebra Society (ILAS 2026)</i>,
+    Blacksburg, VA, USA, 
+    Co-organizer: Ionut-Gabriel Farcas (Virginia Tech),
+    (five sessions).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 18/05/2026&ndash;<br>22/05/2026 </td>
     <td>
@@ -198,6 +210,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 22/05/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://ilas2026.math.vt.edu/docs/ILAS2026-Book-Of-Abstracts.pdf">From
+    Structured Loewner Matrices to Balanced Mechanical Systems</a></strong>,
+    <i>27th Conference of the International Linear Algebra Society (ILAS 2026)</i>,
+    Blacksburg, VA, USA, (invited minisymposium talk).<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 12/04/2026 </td>
     <td>
