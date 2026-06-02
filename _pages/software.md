@@ -117,6 +117,56 @@ author_profile: true
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
 1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.20384015">Code, data and results for
+    numerical experiments in &ldquo;Symmetric Hermite quadrature-based balanced 
+    truncation for learning linear dynamical systems from derivative data&rdquo;
+    (version 1.0)</a>,
+    May 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.20384015">10.5281/zenodo.20384015</a><br />
+    <button id="supReiW26-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2606.00298"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  M. S. Ackermann and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.19895043">Code, data and results for
+    numerical experiments in &ldquo;Second-order AAA algorithms for structured
+    data-driven modeling&rdquo; (version 1.1)</a>,
+    May 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">10.5281/zenodo.19895043</a><br />
+    <button id="supAckW26-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.02241"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  R. Smith and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.19582087">Code, data and results for
+    numerical experiments in &ldquo;A tangential ADI method for the efficient
+    solution of large-scale indefinite Lyapunov equations&rdquo;
+    (version 1.1)</a>,
+    April 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.19582087">10.5281/zenodo.19582087</a><br />
+    <button id="supSmiW26-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2512.04983"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.18148591">Code, data and results for
     numerical experiments in &ldquo;Data-driven balanced truncation for
     second-order systems with generalized proportional damping&rdquo;
