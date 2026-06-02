@@ -116,6 +116,23 @@ author_profile: true
 
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
+1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.18148591">Code, data and results for
+    numerical experiments in &ldquo;Data-driven balanced truncation for
+    second-order systems with generalized proportional damping&rdquo;
+    (version 1.1)</a>,
+    January 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18148591">10.5281/zenodo.18148591</a><br />
+    <button id="supReiW26-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.10118"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  M. S. Ackermann, L. Balicki, and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.18317028">Code, data and results for
     numerical experiments in &ldquo;A refined nonlinear least-squares method for
