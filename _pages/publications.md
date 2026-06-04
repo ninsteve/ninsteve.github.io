@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (6)</a>
+  <a href="#submitted">Submitted Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (21)</a>
+  <a href="#journal">Journal Articles (22)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -85,18 +85,6 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.17632592">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  S. Reiter and <strong>S. W. R. Werner</strong>.
-    <a target="blank_"
-    href="https://doi.org/10.48550/arXiv.2506.10118">Data-driven balanced
-    truncation for second-order systems with generalized proportional damping</a>.
-    e-print 2506.10118, arXiv, 2025. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2506.10118">10.48550/arXiv.2506.10118</a><br />
-    <button id="ReiW25a-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.10118">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.15642589">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  M. S. Ackermann, I. V. Gosea, S. Gugercin, and
     <strong>S. W. R. Werner</strong>.
     <a target="blank_"
@@ -125,6 +113,18 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  S. Reiter and <strong>S. W. R. Werner</strong>.
+    <a target="blank_"
+    href="https://doi.org/10.1137/25M1768217">Data-driven balanced
+    truncation for second-order systems with generalized proportional damping</a>.
+    <i>SIAM J. Sci. Comput.</i>, 48(3):C526&ndash;C552, 2026.
+    doi:<a target="blank_" href="https://doi.org/10.1137/25M1768217">10.1137/25M1768217</a><br />
+    <button id="ReiW26a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.10118">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.18148591">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  J. Heiland, Y. Kim, and <strong>S. W. R. Werner</strong>.
     <a target="blank_"

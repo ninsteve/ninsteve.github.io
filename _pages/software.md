@@ -173,7 +173,7 @@ author_profile: true
     (version 1.1)</a>,
     January 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18148591">10.5281/zenodo.18148591</a><br />
     <button id="supReiW26-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.10118"><button
+    <a target="blank_" href="https://doi.org/10.1137/25M1768217"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
@@ -224,7 +224,7 @@ author_profile: true
     (version 1.0)</a>,
     June 2025. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.15642589">10.5281/zenodo.15642589</a><br />
     <button id="supReiW25-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.10118"><button
+    <a target="blank_" href="https://doi.org/10.1137/25M1768217"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
