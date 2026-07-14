@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (5)</a>
+  <a href="#submitted">Submitted Articles (4)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (22)</a>
+  <a href="#journal">Journal Articles (23)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -98,21 +98,21 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.15389438">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
+---
+
+## <a name="journal"></a>Journal Articles ##
+
 1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer.
     <a target="blank_"
-    href="https://doi.org/10.48550/arXiv.2506.01816">An adaptive data sampling
+    href="https://doi.org/10.1137/25M176550X">An adaptive data sampling
     strategy for stabilizing dynamical systems via controller inference</a>.
-    e-print 2506.01816, arXiv, 2025. Optimization and Control (math.OC).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2506.01816">10.48550/arXiv.2506.01816</a><br />
-    <button id="WerP25a-pop" class="btn btn--inverse">BibTeX</button>
+    <i>SIAM J. Sci. Comput.</i>, 48(4):C736&ndash;C761, 2026.
+    doi:<a target="blank_" href="https://doi.org/10.1137/25M176550X">10.1137/25M176550X</a><br />
+    <button id="WerP26-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.01816">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.8183173">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
-
----
-
-## <a name="journal"></a>Journal Articles ##
 
 1.  S. Reiter and <strong>S. W. R. Werner</strong>.
     <a target="blank_"
