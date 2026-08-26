@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (4)</a>
+  <a href="#submitted">Submitted Articles (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (23)</a>
+  <a href="#journal">Journal Articles (24)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -85,22 +85,22 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.17632592">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
+---
+
+## <a name="journal"></a>Journal Articles ##
+
 1.  M. S. Ackermann, I. V. Gosea, S. Gugercin, and
     <strong>S. W. R. Werner</strong>.
     <a target="blank_"
-    href="https://doi.org/10.48550/arXiv.2506.02241">Second-order AAA algorithms
-    for structured data-driven modeling</a>.
-    e-print 2506.02241, arXiv, 2025. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2506.02241">10.48550/arXiv.2506.02241</a><br />
-    <button id="AckGGetal25-pop" class="btn btn--inverse">BibTeX</button>
+    href="https://doi.org/10.1007/s10444-026-10347-y">Second-order AAA
+    algorithms for structured data-driven modeling</a>.
+    <i>Adv. Comput. Math.</i>, 52(5):76, 2026.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10444-026-10347-y">10.1007/s10444-026-10347-y</a><br />
+    <button id="AckGGetal26-pop" class="btn btn--inverse">BibTeX</button>
     <a target="blank_" href="https://doi.org/10.48550/arXiv.2506.02241">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.15389438">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
-
----
-
-## <a name="journal"></a>Journal Articles ##
 
 1.  <strong>S. W. R. Werner</strong> and B. Peherstorfer.
     <a target="blank_"
