@@ -117,13 +117,30 @@ author_profile: true
 ## <a name="codepackages"></a>Supplementary code packages and data ##
 
 1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.21295844">Code, data and results for
+    numerical experiments in &ldquo;Symmetric Hermite quadrature-based balanced 
+    truncation for learning linear dynamical systems from derivative data&rdquo;
+    (version 1.1)</a>,
+    July 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.21295844">10.5281/zenodo.21295844</a><br />
+    <button id="supReiW26b-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1002/pamm.70191"><button
+    class="btn btn--inverse">Paper</button></a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
+1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a target="blank_"
     href="https://doi.org/10.5281/zenodo.20384015">Code, data and results for
     numerical experiments in &ldquo;Symmetric Hermite quadrature-based balanced 
     truncation for learning linear dynamical systems from derivative data&rdquo;
     (version 1.0)</a>,
     May 2026. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.20384015">10.5281/zenodo.20384015</a><br />
-    <button id="supReiW26-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2606.00298"><button
+    <button id="supReiW26a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.1002/pamm.70191"><button
     class="btn btn--inverse">Paper</button></a>
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">

@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (3)</a>
+  <a href="#submitted">Submitted Articles (2)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#journal">Journal Articles (24)</a>
@@ -21,7 +21,7 @@ author_profile: true
   <a href="#bookchapters">Book Chapters (3)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#proceedings">Proceedings (11)</a>
+  <a href="#proceedings">Proceedings (12)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#software">Software (10)</a>
@@ -47,19 +47,6 @@ found at the end of my
 ---
 
 ## <a name="submitted"></a>Submitted Articles ##
-
-1.  S. Reiter and <strong>S. W. R. Werner</strong>.
-    <a target="blank_"
-    href="https://doi.org/10.48550/arXiv.2606.00298">Symmetric Hermite
-    quadrature-based balanced truncation for learning linear dynamical systems
-    from derivative data</a>.
-    e-print 2606.00298, arXiv, 2026. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2606.00298">10.48550/arXiv.2606.00298</a><br />
-    <button id="ReiW26-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2606.00298">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.20384015">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  M. S. Ackermann, L. Balicki, S. Gugercin, and <strong>S. W. R. Werner</strong>.
     <a target="blank_"
@@ -441,6 +428,19 @@ found at the end of my
 ---
 
 ## <a name="proceedings"></a>Proceedings ##
+
+1.  S. Reiter and <strong>S. W. R. Werner</strong>.
+    <a target="blank_"
+    href="https://doi.org/10.1002/pamm.70191">Symmetric Hermite
+    quadrature-based balanced truncation for learning linear dynamical systems
+    from derivative data</a>.
+    <i>Proc. Appl. Math. Mech.</i>, 26(4):e70191, 2026.
+    doi:<a target="blank_" href="https://doi.org/10.1002/pamm.70191">10.1002/pamm.70191</a><br />
+    <button id="ReiW26b-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2606.00298">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.21295844">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
 
 1.  S. Reiter and <strong>S. W. R. Werner</strong>. <a
     target="blank_"
