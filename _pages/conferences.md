@@ -15,10 +15,10 @@ author_profile: true
   <a href="#ms">Organizational work (13)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (61)</a>
+  <a href="#talks">Talks (62)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#posters">Presented posters (10)</a>
+  <a href="#posters">Presented posters (11)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#participation">Additional participation (7)</a>
@@ -210,6 +210,15 @@ author_profile: true
 ## <a name="talks"></a>Talks ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 04/09/2026 </td>
+    <td>
+    <strong><a target="blank_" href="https://indico3.mpi-magdeburg.mpg.de/event/58/book-of-abstracts.pdf">Rational
+    Approximations With The Nonlinear Least-squares AAA Algorithm</a></strong>,
+    <i>GAMM Workshop on Applied and Numerical Linear Algebra 2026</i>,
+    Magdeburg, Germany.<br>
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 29/05/2026 </td>
     <td>
@@ -764,8 +773,7 @@ author_profile: true
   <tr>
     <td> 17/05/2017 </td>
     <td>
-      <strong>Model 
-      Reduction for Linear Systems</strong>,
+      <strong>Model Reduction for Linear Systems</strong>,
       <i>Weekly Fellow Seminar Series of &quot;MathCoRe&quot;</i>,
       Magdeburg, Germany.
     </td>
@@ -798,6 +806,15 @@ author_profile: true
 ## <a name="posters"></a>Posters ##
 
 <table class="eventtable">
+  <tr>
+    <td style="width:8%"> 31/08/2026 </td>
+    <td>
+      <strong><a target="blank_" 
+      href="https://indico3.mpi-magdeburg.mpg.de/event/59/book-of-abstracts.pdf">Efficiently Solving Indefinite Lyapunov Equations With The Tangential ADI</a></strong>,
+      <i>Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra</i>,
+      Magdeburg, Germany.
+    </td>
+  </tr>
   <tr>
     <td style="width:8%"> 10/09/2024 </td>
     <td>
