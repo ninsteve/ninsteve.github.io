@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (2)</a>
+  <a href="#submitted">Submitted Articles (1)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (24)</a>
+  <a href="#journal">Journal Articles (25)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#bookchapters">Book Chapters (3)</a>
@@ -48,18 +48,6 @@ found at the end of my
 
 ## <a name="submitted"></a>Submitted Articles ##
 
-1.  M. S. Ackermann, L. Balicki, S. Gugercin, and <strong>S. W. R. Werner</strong>.
-    <a target="blank_"
-    href="https://doi.org/10.48550/arXiv.2601.19813">A refined nonlinear
-    least-squares method for the rational approximation problem</a>.
-    e-print 2601.19813, arXiv, 2026. Numerical Analysis (math.NA).
-    doi:<a target="blank_" href="https://doi.org/10.48550/arXiv.2601.19813">10.48550/arXiv.2601.19813</a><br />
-    <button id="AckBGetal26-pop" class="btn btn--inverse">BibTeX</button>
-    <a target="blank_" href="https://doi.org/10.48550/arXiv.2601.19813">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 1.  R. Smith and <strong>S. W. R. Werner</strong>.
     <a target="blank_"
     href="https://doi.org/10.48550/arXiv.2512.04983">A tangential low-rank ADI
@@ -75,6 +63,21 @@ found at the end of my
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  M. S. Ackermann, L. Balicki, S. Gugercin, and <strong>S. W. R. Werner</strong>.
+    <a target="blank_"
+    href="https://doi.org/10.1007/s40687-026-00668-1">A refined nonlinear
+    least-squares method for the rational approximation problem</a>.
+    <i>Res. Math. Sci.</i>, 13(4):82, 2026.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s40687-026-00668-1">10.1007/s40687-026-00668-1</a><br />
+    <button id="AckBGetal26a-pop" class="btn btn--inverse">BibTeX</button>
+    <a target="blank_" href="https://doi.org/10.48550/arXiv.2601.19813">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
+    <button class="btn btn--inverse">Code, Data & Results</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  M. S. Ackermann, I. V. Gosea, S. Gugercin, and
     <strong>S. W. R. Werner</strong>.
